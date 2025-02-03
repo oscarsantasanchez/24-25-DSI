@@ -26,6 +26,31 @@ A enero de 2024, existen aproximadamente 5.35 billones de usuarios de internet e
 
 ***Fuente:*** [Simon Kemp](https://datareportal.com/people/simon-kemp)@[Digital 2024 Global Overview Report](https://datareportal.com/reports/digital-2024-global-overview-report)
 
+### Actividad digital
+
+<div align=center>
+
+|16 a 24 años|25 a 34 años|35 a 44 años|45 a 54 años|55 a 64 años|
+|:-:|:-:|:-:|:-:|:-:|
+|Buscar información<br>60.7%|Buscar información<br>58.7%|Buscar información<br>59.7%|Buscar información<br>62.1%|Buscar información<br>66.9%|
+|Contactar amigos y familia<br>59.2%|Contactar amigos y familia<br>55.6%|Contactar amigos y familia<br>55.7%|Contactar amigos y familia<br>56.3%|Seguir noticias y eventos<br>59.1%|
+|Ver videos y programas<br>58.4%|Ver videos y programas<br>54.1%|Seguir noticias y eventos<br>52.9%|Seguir noticias y eventos<br>54.8%|Contactar amigos y familia<br>56.3%|
+|Escuchar música<br>54.8%|Seguir noticias y eventos<br>49.4%|Ver videos y programas<br>51.7%|Aprender a hacer cosas<br>49.2%|Aprender a hacer cosas<br>51.4%|
+|Educación y estudio<br>53.0%|Encontrar nuevas ideas<br>47.9%|Aprender a hacer cosas<br>48.9%|Ver videos y programas<br>48.8%|Investigar marcas<br>46.7%|
+|Aprender a hacer cosas<br>51.1%|Aprender a hacer cosas<br>47.7%|Encontrar nuevas ideas<br>46.0%|Investigar marcas<br>44.8%|Ver videos y programas<br>43.0%|
+|Encontrar nuevas ideas<br>50.3%|Escuchar música<br>46.6%|Investigar marcas<br>44.9%|Encontrar nuevas ideas<br>42.3%|Investigar lugares y viajes<br>40.7%|
+|Tiempo libre y navegación<br>48.3%|Investigar marcas<br>43.0%|Escuchar música<br>42.6%|Tiempo libre y navegación<br>40.9%|Encontrar nuevas ideas<br>39.8%|
+|Seguir noticias y eventos<br>47.8%|Tiempo libre y navegación<br>41.5%|Tiempo libre y navegación<br>41.1%|Escuchar música<br>39.4%|Investigar salud<br>39.8%|
+|Juegos<br>41.6%|Educación y estudio<br>39.0%|Investigar lugares y viajes<br>39.1%|Investigar lugares y viajes<br>38.9%|Tiempo libre y navegación<br>38.9%|
+
+---
+
+|![](/images/28+TikTok+Overview+-+DataReportal+Digital+2024+Global+Overview+Report+Slide+324.png)|![](/images/29+Instagram+Overview+-+DataReportal+Digital+2024+Global+Overview+Report+Slide+307.png)|
+|:-:|:-:|
+|TikTok|Instagram|
+
+</div>
+
 ### Complejidad organizacional
 
 La gestión de sistemas de información se ha vuelto crítica debido a:
@@ -50,31 +75,6 @@ La gestión de sistemas de información se ha vuelto crítica debido a:
 |Gasto global proyectado para 2025:<br>$2.8 trillones|Pérdidas por ciberataques:<br>$10.5 trillones anuales ([***estimado***](https://cloud.google.com/security/resources/cybersecurity-forecast?hl=es))|Incremento en productividad por IA:<br>40%|
 |ROI medio de proyectos digitales:<br>54%|Tiempo medio de inactividad por fallos:<br>23 horas/año|Reducción de costos operativos:<br>30%|
 |Tiempo medio de amortización:<br>14 meses|Costo medio por violación de datos:<br>$4.35 millones|Mejora en tiempo de respuesta:<br>60%|
-
-</div>
-
-### Actividad digital
-
-<div align=center>
-
-|16 a 24 años|25 a 34 años|35 a 44 años|45 a 54 años|55 a 64 años|
-|:-:|:-:|:-:|:-:|:-:|
-|Buscar información<br>60.7%|Buscar información<br>58.7%|Buscar información<br>59.7%|Buscar información<br>62.1%|Buscar información<br>66.9%|
-|Contactar amigos y familia<br>59.2%|Contactar amigos y familia<br>55.6%|Contactar amigos y familia<br>55.7%|Contactar amigos y familia<br>56.3%|Seguir noticias y eventos<br>59.1%|
-|Ver videos y programas<br>58.4%|Ver videos y programas<br>54.1%|Seguir noticias y eventos<br>52.9%|Seguir noticias y eventos<br>54.8%|Contactar amigos y familia<br>56.3%|
-|Escuchar música<br>54.8%|Seguir noticias y eventos<br>49.4%|Ver videos y programas<br>51.7%|Aprender a hacer cosas<br>49.2%|Aprender a hacer cosas<br>51.4%|
-|Educación y estudio<br>53.0%|Encontrar nuevas ideas<br>47.9%|Aprender a hacer cosas<br>48.9%|Ver videos y programas<br>48.8%|Investigar marcas<br>46.7%|
-|Aprender a hacer cosas<br>51.1%|Aprender a hacer cosas<br>47.7%|Encontrar nuevas ideas<br>46.0%|Investigar marcas<br>44.8%|Ver videos y programas<br>43.0%|
-|Encontrar nuevas ideas<br>50.3%|Escuchar música<br>46.6%|Investigar marcas<br>44.9%|Encontrar nuevas ideas<br>42.3%|Investigar lugares y viajes<br>40.7%|
-|Tiempo libre y navegación<br>48.3%|Investigar marcas<br>43.0%|Escuchar música<br>42.6%|Tiempo libre y navegación<br>40.9%|Encontrar nuevas ideas<br>39.8%|
-|Seguir noticias y eventos<br>47.8%|Tiempo libre y navegación<br>41.5%|Tiempo libre y navegación<br>41.1%|Escuchar música<br>39.4%|Investigar salud<br>39.8%|
-|Juegos<br>41.6%|Educación y estudio<br>39.0%|Investigar lugares y viajes<br>39.1%|Investigar lugares y viajes<br>38.9%|Tiempo libre y navegación<br>38.9%|
-
----
-
-|![](/images/28+TikTok+Overview+-+DataReportal+Digital+2024+Global+Overview+Report+Slide+324.png)|![](/images/29+Instagram+Overview+-+DataReportal+Digital+2024+Global+Overview+Report+Slide+307.png)|
-|:-:|:-:|
-|TikTok|Instagram|
 
 </div>
 
@@ -243,7 +243,7 @@ La dirección en el contexto actual implica la capacidad de gestionar sistemas s
 
 ## ¿Cómo?
 
-|Dimensión|Detalle
-|-|-
-|Estratégica|Plan de Estudios Adaptativo / Competencias Digitales / Resultados de Aprendizaje Actualizados
-|Ejecutiva|Temario Dinámico / Sesiones Híbridas / Evaluación Continua y por Proyectos
+|Dimensión|Detalle|
+|-|-|
+|**Estratégica**|Plan de estudios / Competencias / Resultados de aprendizaje|
+|**Ejecutiva**|Temario / Sesiones híbridas / Evaluación continua y por proyectos|
