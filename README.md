@@ -4,7 +4,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 ## Curso [24][25]
 
-- [Introducción](temario/00-introduccionDSI.md) / [**Temario**](https://github.com/mmasias/DSI)
+- [Introducción](temario/00-introduccionDSI.md) / [**Temario**](https://github.com/mmasias/DSI/blob/main/README.md)
 - Evaluación
   - [Retos que abordaremos](retos/README.md) (a.k.a. *la evaluación continua*).
   - Examen parcial.
