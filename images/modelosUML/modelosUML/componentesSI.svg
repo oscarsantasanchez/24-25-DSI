@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="479px" preserveAspectRatio="none" style="width:323px;height:479px;background:#FFFFFF;" version="1.1" viewBox="0 0 323 479" width="323px" zoomAndPan="magnify"><defs/><g><!--MD5=[e4381c76bc805a63ed90da338136522b]
+class Sistema--><g id="elem_Sistema"><rect codeLine="4" fill="#F1F1F1" height="45.0679" id="Sistema" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="59" x="150" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="153" y="26.9659">Sistema</text><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="208" y1="36.0679" y2="36.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="151" x2="208" y1="44.0679" y2="44.0679"/></g><!--MD5=[93e93e96b74e1f21dc40d1c6a31be5a2]
+class SistemaComplejo--><g id="elem_SistemaComplejo"><rect codeLine="5" fill="#F1F1F1" height="45.0679" id="SistemaComplejo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="126" x="58.5" y="112"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="61.5" y="131.9659">Sistema Complejo</text><line style="stroke:#181818;stroke-width:0.5;" x1="59.5" x2="183.5" y1="141.0679" y2="141.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="59.5" x2="183.5" y1="149.0679" y2="149.0679"/></g><!--MD5=[ec93e680e5c079a1bb6337ff2b922fa4]
+class Software--><g id="elem_Software"><rect codeLine="10" fill="#F1F1F1" height="45.0679" id="Software" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="65" x="142" y="322"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="145" y="341.9659">Software</text><line style="stroke:#181818;stroke-width:0.5;" x1="143" x2="206" y1="351.0679" y2="351.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="143" x2="206" y1="359.0679" y2="359.0679"/></g><!--MD5=[75fc1eba2c71d851ba5d58ff14495b9b]
+class Informacion--><g id="elem_Informacion"><rect codeLine="9" fill="#F1F1F1" height="45.0679" id="Informacion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="88" x="228.5" y="217"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="231.5" y="236.9659">Información</text><line style="stroke:#181818;stroke-width:0.5;" x1="229.5" x2="315.5" y1="246.0679" y2="246.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="229.5" x2="315.5" y1="254.0679" y2="254.0679"/></g><!--MD5=[35a64b983c79880384a2fd9b61f0c24b]
+class Usuario--><g id="elem_Usuario"><rect codeLine="11" fill="#F1F1F1" height="45.0679" id="Usuario" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="247" x="7" y="427"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="10" y="446.9659">Sistema de Información del Usuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="253" y1="456.0679" y2="456.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="253" y1="464.0679" y2="464.0679"/></g><!--MD5=[2d22c547bfe7267814a0b6e9c8ad476f]
+class Hardware--><g id="elem_Hardware"><rect codeLine="19" fill="#F1F1F1" height="45.0679" id="Hardware" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="72" x="50.5" y="217"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="53.5" y="236.9659">Hardware</text><line style="stroke:#181818;stroke-width:0.5;" x1="51.5" x2="121.5" y1="246.0679" y2="246.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="51.5" x2="121.5" y1="254.0679" y2="254.0679"/></g><!--MD5=[ed9ff047bd24f055ebfb523aa4b1bdbe]
+reverse link Sistema to SistemaComplejo--><g id="link_Sistema_SistemaComplejo"><path codeLine="7" d="M157.34,69.86 C149.35,84.05 140.62,99.54 133.78,111.69 " fill="none" id="Sistema-backto-SistemaComplejo" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="151.29,66.34,167.2,52.34,163.49,73.21,151.29,66.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[aea5048efd2a9320a1df157fa889af6b]
+reverse link SistemaComplejo to Software--><g id="link_SistemaComplejo_Software"><path codeLine="8" d="M132.06,176.96 C143.2,220.65 160.3,287.77 169,321.93 " fill="none" id="SistemaComplejo-backto-Software" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="125.23,178.48,127.07,157.37,138.79,175.02,125.23,178.48" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a47bc5fa0eeedb6fd73f3573160a31f3]
+reverse link SistemaComplejo to Usuario--><g id="link_SistemaComplejo_Usuario"><path codeLine="13" d="M69.91,169.85 C54.98,182.71 40.56,198.69 32.5,217 C24.44,235.3 27.71,242.58 32.5,262 C48.45,326.63 91.25,393.63 114.67,426.96 " fill="none" id="SistemaComplejo-backto-Usuario" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="65.97,164.04,86.02,157.18,74.63,175.05,65.97,164.04" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[eb2353c737bb55908092bbe0078510c0]
+reverse link Sistema to Informacion--><g id="link_Sistema_Informacion"><path codeLine="14" d="M197.51,70.77 C217.02,114.43 247.44,182.46 262.85,216.93 " fill="none" id="Sistema-backto-Informacion" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="191.05,73.48,189.28,52.37,203.83,67.77,191.05,73.48" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a59be46764f62a2fc3f0bfacaa08ec50]
+reverse link Informacion to Software--><g id="link_Informacion_Software"><path codeLine="15" d="M237.77,277 C223.56,291.94 207.59,308.72 195.25,321.69 " fill="none" id="Informacion-backto-Software" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="232.86,272.01,251.72,262.34,243,281.66,232.86,272.01" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[60507345599b5c82d8ae6a10c02d2706]
+reverse link Informacion to Usuario--><g id="link_Informacion_Usuario"><path codeLine="16" d="M262.51,281.57 C254.88,307.61 242.56,341.14 224.5,367 C207.93,390.73 182.95,411.95 162.91,426.78 " fill="none" id="Informacion-backto-Usuario" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="255.77,279.67,267.74,262.18,269.29,283.32,255.77,279.67" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ac71aa912d4e60db92434e05b1e5120c]
+link Software to Usuario--><g id="link_Software_Usuario"><path codeLine="17" d="M165.17,367.34 C158.34,383.32 149.05,405.08 141.8,422.04 " fill="none" id="Software-to-Usuario" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="139.82,426.69,147.0419,419.9934,141.7896,422.0943,139.6887,416.842,139.82,426.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7e4a8008fa8ecbd82f4d8d7e83b08b5c]
+reverse link SistemaComplejo to Hardware--><g id="link_SistemaComplejo_Hardware"><path codeLine="20" d="M107.64,176.29 C102.95,190.09 97.9,204.95 93.91,216.69 " fill="none" id="SistemaComplejo-backto-Hardware" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="101.01,174.03,114.08,157.34,114.27,178.53,101.01,174.03" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[27303d572bce8c8b49a49c71c7766901]
+link Hardware to Software--><g id="link_Hardware_Software"><path codeLine="22" d="M112.9532,271.465 C112.9532,271.465 136.64,299.19 147.33,311.69 " fill="none" id="Hardware-Software" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="155.86,321.69,153.0568,312.2485,152.6128,317.8879,146.9734,317.444,155.86,321.69" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="152.6128" x2="147.42" y1="317.8879" y2="311.805"/><polygon fill="#181818" points="105.16,262.34,106.0149,269.5002,112.9532,271.465,112.0983,264.3048,105.16,262.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[521ed7c8e76615f8b23b94eb9092dade]
+link Hardware to Usuario--><g id="link_Hardware_Usuario"><path codeLine="23" d="M93.6201,274.1088 C93.6201,274.1088 115.11,375.75 123.24,414.16 " fill="none" id="Hardware-Usuario" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="125.94,426.93,127.9957,417.2981,124.9077,422.0377,120.1681,418.9497,125.94,426.93" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="124.9077" x2="123.245" y1="422.0377" y2="414.21"/><polygon fill="#181818" points="91.13,262.37,88.4621,269.0694,93.6201,274.1088,96.288,267.4094,91.13,262.37" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0115a737819d0ab7a2ac55a3ddc614fc]
+@startuml
+
+hide circle
+
+class Sistema
+class "Sistema Complejo" as SistemaComplejo
+
+Sistema <|-down- SistemaComplejo
+SistemaComplejo <|-down- Software
+class "Información" as Informacion
+class Software
+class "Sistema de Información del Usuario" as Usuario
+
+SistemaComplejo <|-down- Usuario
+Sistema <|-down- Informacion
+Informacion <|-down- Software
+Informacion <|-down- Usuario
+Software -down-> Usuario
+
+class Hardware
+SistemaComplejo <|-down- Hardware
+
+Hardware *-down-> Software
+Hardware *-down-> Usuario
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

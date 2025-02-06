@@ -186,7 +186,7 @@ La dirección en el contexto actual implica la capacidad de gestionar sistemas s
 
 <div align=center>
 
-<img src="../images/empresaOUTempresaIN.webp" width=50% align=center>
+<img src="../../images/empresaOUTempresaIN.webp" width=50% align=center>
 
 ---
 
