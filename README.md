@@ -18,7 +18,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 * [Espacio de la asignatura en el campus Virtual](https://campus.uneatlantico.es/course/view.php?id=3028)
 * [📇](https://docs.google.com/spreadsheets/d/1qJNEUbHG_Tbw02Cv8VpkqQ6ICNVh2g_8FsdNWQw-ppA/edit?usp=sharing)
 * Este [repo@github](https://github.com/mmasias)
-* LLMs varios: [ChatGPT](https://chat.openai.com/), [Perplexity](https://www.perplexity.ai/), [Claude](https://claude.ai/), [Bard](https://bard.google.com) *y los que vengan...*
+* LLMs varios: [ChatGPT](https://chat.openai.com/), [Perplexity](https://www.perplexity.ai/), [Claude](https://claude.ai/), [Bard](https://bard.google.com) *y los que vengan...* --> [Deepseek](https://chat.deepseek.com/), [Qwenlm](https://chat.qwenlm.ai/), etc...
 * [**Notion**](https://www.notion.so) & [**Miro**](https://miro.com/)
 * Ofimática@Cloud: [**Google**](https://drive.google.com/) / [**Microsoft**](https://www.office.com/?auth=1) / [**Zoho Docs**](https://workdrive.zoho.eu/home)
 * [**PlantUML**](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000), herramienta de modelado empleada en varios de los esquemas de este repo. *[Brevísima explicación de su uso en este escenario](/docs/plantUMLHowTo.md)*
