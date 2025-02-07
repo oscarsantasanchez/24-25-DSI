@@ -136,6 +136,8 @@ La gestión de sistemas de información se ha vuelto crítica debido a:
 
 </div>
 
+> No obstante, [en relación a modelos de negocio tradicionales y su supuesto abandono](https://www.enriquedans.com/2018/05/cuidado-con-descartar-modelos-de-negocio-demasiado-pronto.html)
+
 ### Retos, oportunidades
 
 <div align=center>
