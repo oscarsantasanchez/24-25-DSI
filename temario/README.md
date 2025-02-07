@@ -2,7 +2,7 @@
 
 ## Introducción
 
-- [x] [Introducción a la asignatura](/temario/00-introduccionDSI.md)
+- [x] [Introducción a la asignatura](/temario/00-introduccion/README.md)
 
 ## [Modelos de negocio e innovación](/temario/01-modelosNegocioInnovacion/README.md)
 
