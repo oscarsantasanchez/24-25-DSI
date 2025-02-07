@@ -121,6 +121,9 @@ La gestión de sistemas de información se ha vuelto crítica debido a:
    - Dispositivos móviles: ciclos de 12-18 meses
    - Sistemas empresariales: actualizaciones continuas.
 
+> Exabyte: 1 hora de vídeo en 4K usa aproximadamente 7 GB. Un exabyte permite grabar continuamente durante unos 16,400 años. / Todo Netflix: 3,2 exabytes.
+> Zettabyte: 1 zetabbyte cabe en mil millones de discos de 1 Tb.
+
 ### Competitividad empresarial
 
 <div align=center>
