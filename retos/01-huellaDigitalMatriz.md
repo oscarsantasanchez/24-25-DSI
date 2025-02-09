@@ -34,11 +34,11 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 |Métrica|Miembro 1|Miembro 2|...|Miembro n|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|
-|Índice de exposición global| | | | ||
-|Nº total de hallazgos| | | | ||
-|% hallazgos en control total| | | | |
-|% hallazgos en control parcial| | | | |
-|% hallazgos sin control| | | | |
+|Índice de exposición global|
+|Nº total de hallazgos|
+|% hallazgos en control total|
+|% hallazgos en control parcial|
+|% hallazgos sin control|
 
 </div>
 
@@ -46,7 +46,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Plataforma|Miembro 1|Miembro 2|...|Miembro n|Total grupo|
+|Plataforma|M1|M2|...|Mn|Total grupo|
 |-|-|-|-|-|-|
 |Redes Sociales|
 |Foros/Blogs|
@@ -76,8 +76,8 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Tipo de control|Hallazgos totales|% del total|Riesgo promedio|Acción recomendada|
-|-|-|-|-|-|
+|Tipo de control|M1|M2|...|Mn|% Grupo|Riesgo promedio|
+|-|-|-|-|-|-|-|
 |Total| | | | |
 |Parcial| | | | |
 |Nulo| | | | |
