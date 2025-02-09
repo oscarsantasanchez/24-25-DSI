@@ -73,7 +73,7 @@ Cada miembro del grupo realizará:
 - Analizar vulnerabilidades compartidas.
 - Evaluar impacto de diferentes prácticas de privacidad.
 
-> [Propuesta](01-huellaDigitalMatriz.md)
+> [Propuesta de una matriz comparativa](01-huellaDigitalMatriz.md)
 
 ##### Análisis de riesgos
 
