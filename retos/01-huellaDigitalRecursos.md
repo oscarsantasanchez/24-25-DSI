@@ -5,9 +5,9 @@
 |Herramienta|Descripción|Enlace|
 |-|-|-|
 |Have I Been Pwned|Verifica si tu correo electrónico o teléfono ha estado involucrado en filtraciones de datos conocidas.|https://haveibeenpwned.com/|
+|Firefox Monitor|Servicio de Mozilla que alerta sobre filtraciones de datos relacionadas con tus cuentas.|https://monitor.firefox.com/|
 |Intelligence X|Motor de búsqueda que incluye datos filtrados y información de la dark web.|https://intelx.io/|
 |Breach Directory|Base de datos de brechas de seguridad con opción de búsqueda por email o usuario.|https://breachdirectory.org/|
-|Firefox Monitor|Servicio de Mozilla que alerta sobre filtraciones de datos relacionadas con tus cuentas.|https://monitor.firefox.com/|
 
 ## Configuración de privacidad en redes sociales
 
