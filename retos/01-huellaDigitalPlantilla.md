@@ -27,19 +27,6 @@ La hoja de cálculo presentada aquí es una herramienta cuantitativa que permite
 |:-:
 |[Implementación del índice en Google Sheet](https://docs.google.com/spreadsheets/d/1pUTiEIA7C7spM6GfGkYb8MvAgWVvHBAqcLtFk_PHlog/edit?usp=sharing)
 
-### Estructura de la Herramienta
-
-La herramienta se implementa en una hoja de cálculo con las siguientes columnas:
-
-- Término Buscado: Palabra o frase utilizada en la búsqueda.
-- Buscador: Motor de búsqueda utilizado.
-- URL: Enlace al contenido encontrado.
-- Tipo de contenido: Categoría del hallazgo.
-- Accesibilidad: Nivel de acceso requerido.
-- Actualidad: Antigüedad del contenido.
-- Relevancia: Nivel de certeza de que el contenido nos corresponde.
-- Control: Capacidad de modificar o eliminar el contenido.
-
 #### Cálculo del índice
 
 La herramienta asigna pesos específicos a cada factor:
@@ -81,12 +68,3 @@ Esta fórmula:
 - No considera el contenido específico, solo su categorización.
 - La ponderación es subjetiva y puede necesitar ajustes según el contexto.
 - No evalúa el impacto cualitativo de la información.
-
-#### Recomendaciones de Uso
-
-1. Realizar el ego surfing de forma sistemática.
-1. Documentar cada hallazgo inmediatamente.
-1. Ser consistente en la categorización.
-1. Revisar periódicamente los resultados.
-1. Utilizar los resultados para priorizar acciones de control.
-1. Mantener un registro histórico para seguimiento.
