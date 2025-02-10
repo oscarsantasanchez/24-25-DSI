@@ -1,4 +1,4 @@
-# Análisis de huella digital
+# Análisis de huella & salud digital
 
 ## ¿Por qué?
 
@@ -31,7 +31,7 @@ Este proyecto grupal combina investigación individual y análisis colectivo par
 
 <div align=center>
 
-|[Recursos](01-huellaDigitalRecursos.md)|[Plantilla](01-huellaDigitalPlantilla.md)|
+|[Recursos](03-huellaDigitalRecursos.md)|[Plantilla](03-huellaDigitalPlantilla.md)|
 |:-:|:-:|
 |Página con recursos para abordar este reto.|Plantilla propuesta para la valoración de EgoSurfing|
 
@@ -73,7 +73,7 @@ Cada miembro del grupo realizará:
 - Analizar vulnerabilidades compartidas.
 - Evaluar impacto de diferentes prácticas de privacidad.
 
-> [Propuesta de una matriz comparativa](01-huellaDigitalMatriz.md)
+> [Propuesta de una matriz comparativa](03-huellaDigitalMatriz.md)
 
 ##### Análisis de riesgos
 
@@ -134,7 +134,7 @@ Cada miembro del grupo realizará:
 
 #### Herramientas colaborativas
 
-- Github/Notion/ClickUp para gestión de proyecto.
+- Github/Notion/ClickUp/Github para gestión de proyecto.
 - Google Drive/Microsoft 365 para documentación.
 
 ### Propuesta de calendario
