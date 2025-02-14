@@ -2,11 +2,11 @@
 
 ## Introducción
 
-- [x] [Introducción a la asignatura](/temario/00-introduccion/README.md)
+- [x] [Introducción a la asignatura](/temario/00-introduccionDSI.md)
 
 ## [Modelos de negocio e innovación](/temario/01-modelosNegocioInnovacion/README.md)
 
-- [ ] Economía digital
+- [x] [Economía digital](/temario/01-modelosNegocioInnovacion/economiaDigital.md)
 - [ ] Herramientas y marcos de trabajo
   - [ ] El lienzo de modelo de negocio
   - [ ] Análisis DAFO
