@@ -6,7 +6,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 - [Introducción](temario/00-introduccion/README.md) / [**Temario**](temario/README.md)
 - Evaluación
-  - [Retos que abordaremos](retos/README.md) (a.k.a. *la evaluación continua*).
+  - [Retos que abordaremos](evaluaciones/retos/README.md) (a.k.a. *la evaluación continua*).
   - Examen parcial.
   - Examen final.
 - Conceptos clave - *Conceptos que hay que manejar con soltura y que forman parte del **vocabulario habitual** de los Sistemas de Información*
