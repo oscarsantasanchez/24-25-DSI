@@ -2,9 +2,20 @@
 
 > *Entiéndase "deberíamos saber" como una combinación de "nos debería sonar", "no nos debería sorprender", "deberíamos conocer", "deberíamos saber manejar", en función del tema abordado. En cualquier caso, lo mínimo es "no nos debería sorprender" y deberíamos poder tener una mínima conversación o lectura sobre estos temas.*
 
-- El contexto digital global: penetración de internet, cómo la gente usa la tecnología de diferentes maneras según su edad y lo que esto implica para las empresas.
-- Definición de un sistema de información. Debatimos acerca de si califica como un sistema complejo (¿qué es un sistema complejo?) y, aterrizado esto, abordamos la diferencia entre estrategia y planificación.
-- Una primera aproximación del concepto de transformación digital. No todo es tan bonito como parece desde fuera... Vimos además los retos que surgen al intentar digitalizar una empresa.
-- Economía digital: cuándo se acuñó el término, por qué se le denomina así y por qué se puede decir que a día de hoy (dice Gartner) que "todas las empresas son empresas de tecnologías".
-- ¿Qué define a un directivo con respecto a la información que maneja? / Manifiesto Cluetrain / Huella digital.
-- El modelo de negocio...
+- El contexto digital actual y sus números básicos (penetración de internet, dispositivos, etc.).
+- La diferencia entre lo que se ve y lo que hay dentro de una empresa digital.
+- Qué es un sistema y qué lo hace "complejo".
+- La diferencia entre estrategia y planificación, y por qué importa en la empresa.
+- Cómo la economía digital está cambiando los modelos de negocio tradicionales (casos Uber, Airbnb, agricultura de precisión).
+- Por qué la innovación es inevitable y cómo se gestiona.
+- Las implicaciones éticas y de privacidad en el mundo digital (casos como los flirty bots).
+- La velocidad del cambio tecnológico y sus consecuencias en las empresas.
+- Los desafíos reales de la transformación digital (sistemas legacy, deuda técnica, resistencia al cambio).
+- Las bases para poder modelar una empresa y entender su funcionamiento.
+
+15 Feb
+
+- La importancia de tener una perspectiva empresarial completa.
+- Los sectores productivos y cómo la tecnología los está transformando.
+- La diferencia entre el concepto de innovación y el modelo de innovación.
+- Conceptos básicos de la economía digital y su evolución.
