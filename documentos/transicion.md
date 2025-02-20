@@ -10,17 +10,17 @@ Es crucial entender que:
 
 <div align=center>
 
-|Entornos directivos|Decisiones profesionales|El tiempo|La credibilidad profesional|Valor real
+|Entornos directivos|El tiempo|Decisiones profesionales|La credibilidad profesional|El valor real|
 |:-:|:-:|:-:|:-:|:-:|
-|requieren|se basan en|es|se construye|está en
-|información precisa y estructurada|análisis rigurosos, no en impresiones|un recurso crítico que debe respetarse.|con sustancia|la profundidad del análisis
-||||no con forma|no en la presentación superficial
+|requieren|es|se basan en|se construye|reside
+|información precisa y estructurada|un recurso crítico que debe respetarse|análisis rigurosos|con sustancia|en la profundidad del análisis
+|||no en impresiones|no con forma|no en la presentación superficial
 
 </div>
 
 ## ¿Qué?
 
-Las diferencias fundamentales se manifiestan en:
+Las diferencias fundamentales se manifiestan en tres dimensiones clave:
 
 <div align=center>
 
@@ -33,6 +33,15 @@ Las diferencias fundamentales se manifiestan en:
 <tr><td>Estructuras predeterminadas</td><td>Estructuras adaptadas a la necesidad real</td><td></td><td>Énfasis en la estructura lógica</td><td></td><td></td></tr>
 </table>
 
+**A estas dimensiones, agregamos el concepto de trazabilidad**
+
+|Académica|Profesional|
+|-|-|
+|Lista estática de participantes|Control de versiones y contribuciones automático|
+|Autorreporte de contribuciones|Historial detallado de aportaciones individuales|
+|Evidencia limitada al resultado final|Registro del proceso de desarrollo completo|
+|Responsabilidad difusa del equipo|Responsabilidad individual clara y verificable|
+
 </div>
 
 ## ¿Para qué?
@@ -41,6 +50,7 @@ Las diferencias fundamentales se manifiestan en:
 - Tomar decisiones fundamentadas.
 - Comunicar de manera efectiva a nivel directivo.
 - Construir credibilidad profesional.
+- Documentar el proceso de creación.
 - Generar valor real para la organización.
 
 ## ¿Cómo?
