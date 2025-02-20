@@ -7,7 +7,7 @@
 
 ### Evaluación continua
 
-A la propuesta de [contar la realidad de una empresa](/retos/02-modeloDeNegocio.md):
+A la propuesta de [contar la realidad de una empresa](/evaluaciones/retos/02-modeloDeNegocio.md):
 
 Modelo 1|Modelo 2|Modelo 3|Modelo 4|
 -|-|-|-
