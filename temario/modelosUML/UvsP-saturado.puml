@@ -1,0 +1,130 @@
+hide empty members
+hide circle
+
+abstract Trabajo {
+    presentar()
+    evaluar()
+    documentar()
+}
+
+class TrabajoProfesional {
+    analisisSustancial
+    estructuraAdaptativa
+    valorReal
+    trazabilidadAutomatica
+    presentar()
+    evaluar()
+    documentar()
+}
+
+class TrabajoAcademico {
+    presentacionVisualElaborada
+    estructuraPredeterminada
+    requisitosFormales
+    listadoParticipantes
+    presentar()
+    evaluar()
+    documentar()
+}
+
+
+
+abstract Enfoque {
+    tipo
+    caracteristicas
+}
+
+class EnfoqueProfesional {
+    iterativo
+    practico
+    adaptativo
+}
+
+class EnfoqueAcademico {
+    lineal
+    teorico
+    estandarizado
+}
+
+abstract Trazabilidad {
+    registrarCambios()
+    verificarContribuciones()
+}
+
+class TrazabilidadAcademica {
+    listaEstatica
+    autoreporte
+    registrarCambios()
+    verificarContribuciones()
+}
+
+class TrazabilidadProfesional {
+    controlVersiones
+    historicoContribuciones
+    registrarCambios()
+    verificarContribuciones()
+}
+
+abstract Herramientas {
+    tipo
+    usoPrincipal
+}
+
+class HerramientasAcademicas {
+    formatosTradicionales
+    presentacionesEstandar
+    elementosDecorativos
+}
+
+class HerramientasProfesionales {
+    controlVersiones
+    colaboracionTiempoReal
+    visualizacionesDinamicas
+}
+
+abstract Proceso {
+    planificar()
+    ejecutar()
+    entregar()
+}
+
+class ProcesoAcademico {
+    linealPredecible
+    evaluacionFormal
+    enfasisEnExtension
+    planificar()
+    ejecutar()
+    entregar()
+}
+
+class ProcesoProfesional {
+    iterativoAdaptativo
+    evaluacionValor
+    enfasisEnPrecision
+    planificar()
+    ejecutar()
+    entregar()
+}
+
+Trabajo <|-- TrabajoProfesional
+Trabajo <|-- TrabajoAcademico
+Enfoque <|-- EnfoqueAcademico
+Enfoque <|-- EnfoqueProfesional
+Trazabilidad <|-- TrazabilidadAcademica
+Trazabilidad <|-- TrazabilidadProfesional
+Herramientas <|-- HerramientasAcademicas
+Herramientas <|-- HerramientasProfesionales
+Proceso <|-- ProcesoAcademico
+Proceso <|-- ProcesoProfesional
+
+TrabajoAcademico o..> EnfoqueAcademico
+TrabajoProfesional o..> EnfoqueProfesional
+
+TrabajoAcademico o...> TrazabilidadAcademica
+TrabajoProfesional o...> TrazabilidadProfesional
+
+TrabajoAcademico o....> HerramientasAcademicas
+TrabajoProfesional o....> HerramientasProfesionales
+
+TrabajoAcademico o.....> ProcesoAcademico
+TrabajoProfesional o.....> ProcesoProfesional

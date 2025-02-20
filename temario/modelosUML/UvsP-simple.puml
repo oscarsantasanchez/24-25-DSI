@@ -1,0 +1,30 @@
+hide circle
+
+abstract Trabajo
+abstract Enfoque
+abstract Trazabilidad
+abstract Herramientas
+abstract Proceso
+
+Trabajo <|-- TrabajoProfesional
+Trabajo <|-- TrabajoAcademico
+Enfoque <|-- EnfoqueAcademico
+Enfoque <|-- EnfoqueProfesional
+Trazabilidad <|-- TrazabilidadAcademica
+Trazabilidad <|-- TrazabilidadProfesional
+Herramientas <|-- HerramientasAcademicas
+Herramientas <|-- HerramientasProfesionales
+Proceso <|-- ProcesoAcademico
+Proceso <|-- ProcesoProfesional
+
+TrabajoAcademico o..> EnfoqueAcademico
+TrabajoProfesional o..> EnfoqueProfesional
+
+TrabajoAcademico o...> TrazabilidadAcademica
+TrabajoProfesional o...> TrazabilidadProfesional
+
+TrabajoAcademico o....> HerramientasAcademicas
+TrabajoProfesional o....> HerramientasProfesionales
+
+TrabajoAcademico o.....> ProcesoAcademico
+TrabajoProfesional o.....> ProcesoProfesional

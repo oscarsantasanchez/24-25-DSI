@@ -86,3 +86,7 @@ Las diferencias fundamentales se manifiestan en tres dimensiones clave:
 |Facilita la toma de decisiones.|Aporta valor en cada interacción.|
 
 </div>
+
+---
+|![](/images/temario/modelosUML/UvsP.svg)|![](/images/temario/modelosUML/UvsP-saturado.svg)|![](/images/temario/modelosUML/UvsP-simple.svg)
+|-|-|-|
