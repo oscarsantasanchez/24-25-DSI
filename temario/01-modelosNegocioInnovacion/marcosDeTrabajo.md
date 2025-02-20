@@ -20,29 +20,43 @@ Modelo 1|Modelo 2|Modelo 3|Modelo 4|
 
 |![](/images/manualMal.jpg)|![](/images/pptMal.png)|
 |-|-|
-|La misma persona interpreta lo mismo del mismo diagrama pasado el tiempo, una servilleta con un garabato sin estandarizar, …​|distintas personas interpretan lo mismo del mismo diagrama, transparencias / diapositivas / …​ muy bonitas sin estandarizar, …​|
+|La misma persona interpreta lo mismo del mismo diagrama pasado el tiempo, una servilleta con un garabato sin estandarizar, …​|distintas personas interpretan lo mismo del mismo diagrama, transparencias / diapositivas / …​ muy bonitas pero sin estandarizar, …​|
+
+### Evitar ambigüedades en la comunicación, parte II
+
+El énfasis en la comunicación estandarizada es especialmente relevante en el contexto actual donde:
+
+- Los equipos son cada vez más distribuidos y remotos.
+- La colaboración cross-funcional es más común.
+- La velocidad de cambio en los negocios requiere comunicación clara y eficiente.
 
 ## ¿Qué?
 
-- Información / Ideas
-- Eficiencia
-- Trabajo colaborativo
-- Decisiones
-
+- **Información/Ideas**: están dispersas/desorganizadas.
+- **Eficiencia**: ser "eficaz" no es suficiente.
+- **Trabajo colaborativo**: problemas de interpretación entre personas.
+- **Decisiones**: todo lo anterior afecta a la toma de decisiones.
 
 ## ¿Para qué?
 
-Qué|Para qué
--|-
-Información / Ideas|Estructurar
-Eficiencia|Aumentar
-Trabajo colaborativo|Dinamizar
-Decisiones|Ayudar
+<div align=center>
+
+|Qué|Para qué|
+|-|-|
+|Información / Ideas|Estructurar|
+|Eficiencia|Aumentar|
+|Trabajo colaborativo|Dinamizar|
+|Decisiones|Ayudar|
+
+</div>
 
 - Para desarrollar y visualizar su modelo de negocio. 
 - Ayuda a entender las partes clave de un modelo de negocio y cómo se relacionan entre sí.
 
 ## ¿Cómo?
+
+Los marcos de trabajo son estructuras o métodos estandarizados que ayudan a gestionar estos cuatro aspectos fundamentales.
+
 Qué|Cómo
 -|-
 Estructuran la información y las ideas|Los marcos de trabajo proporcionan una estructura y un lenguaje común para describir, analizar y comunicar la información y las ideas de manera clara y concisa.
@@ -80,4 +94,3 @@ La tentación de reducir un problema complejo a un conjunto limitado de factores
 <big>La simplicidad **aparente** puede ser su mayor peligro</big>
 
 </div>
-
