@@ -19,3 +19,9 @@
 - Los sectores productivos y cómo la tecnología los está transformando.
 - La diferencia entre el concepto de innovación y el modelo de innovación.
 - Conceptos básicos de la economía digital y su evolución.
+
+21 feb
+
+- La necesidad de pasar de un enfoque académico centrado en la forma a un enfoque profesional centrado en el valor real y la utilidad práctica de su trabajo.
+- Los puntos que permiten identificar uno y otro enfoque.
+
