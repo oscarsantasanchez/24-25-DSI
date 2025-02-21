@@ -91,6 +91,6 @@ La tentación de reducir un problema complejo a un conjunto limitado de factores
 
 <div align=right>
 
-<big>La simplicidad **aparente** puede ser su mayor peligro</big>
+<big>La simplicidad **aparente** puede ser su mayor peligro</big><br>Por tanto hemos de saber detectar los [antipatrones](antiPatrones.md) en estos marcos.
 
 </div>

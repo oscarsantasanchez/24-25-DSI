@@ -8,10 +8,11 @@
 
 - [x] [Economía digital](/temario/01-modelosNegocioInnovacion/economiaDigital.md)
 - [x] [Herramientas y marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajo.md)
-  - [x] [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/lienzoModeloNegocio/README.md)
-  - [x] [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md)
-  - [x] [Otros marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md)
+  - [x] [Vademecum de marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md)
+    - [x] [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/lienzoModeloNegocio/README.md)
+    - [x] [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md)
     - [x] [Cinco fuerzas Porter](/temario/01-modelosNegocioInnovacion/fiveForces/README.md)
+  - [x] [Limitaciones de los marcos de trabajo](/temario/01-modelosNegocioInnovacion/antiPatrones.md)
 - [ ] Innovación
   - [ ] Tipos de innovación
   - [ ] El Modelo de innovación como proceso
