@@ -6,6 +6,7 @@ Repo de materiales y proyectos de la asignatura **Dirección de Sistemas de Info
 
 - [Introducción](temario/00-introduccion/README.md) / [**Temario**](temario/README.md)
 - [A día de hoy, deberíamos saber...](temario/aDiaDeHoy.md)
+- [Asistencia](https://docs.google.com/spreadsheets/d/e/2PACX-1vS2TioJUN4Jb1ez0-5-iWSP6edOnpAFSVwD6OgjXbVSO1iBxXu6U4FPzAcigA4mKs8bJ4nJTPrMsdn6/pubchart?oid=2052739787&format=interactive)
 - Evaluación
   - [Retos que abordaremos](evaluaciones/retos/README.md) (a.k.a. *la evaluación continua*).
   - Examen parcial.
