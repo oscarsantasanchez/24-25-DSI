@@ -73,15 +73,17 @@ Ayudan a tomar decisiones|Al proporcionar una perspectiva estructurada y sistem�
 No todos, no en todas, no todos conocidos. 
 
 Punto||
--|-
-Valor propuesto|Cómo la empresa genera valor para sus clientes y cómo se diferencia de la competencia.
-Segmentos de mercado|Cómo la empresa planea llegar a sus clientes objetivo.
-Canales de distribución|Cómo la empresa planea llegar a sus clientes, incluyendo el uso de intermediarios o el uso directo.
-Fuentes de ingresos|Cómo la empresa planea generar ingresos, incluyendo precios, volúmenes y estructuras de precios.
-Costos y estructura de costos|Los costos asociados con la producción y distribución de productos o servicios, incluyendo costos variables y fijos.
-Actividades clave|Actividades que la empresa debe realizar para hacer que su modelo de negocio funcione, incluyendo producción, marketing, ventas, entrega, servicio al cliente, entre otros.
-Recursos clave|Identificación de los recursos clave, incluyendo personas, tecnologías y procesos, necesarios para hacer que el modelo de negocio funcione.
-Alianzas clave|Alianzas clave que la empresa planea establecer para apoyar su modelo de negocio.
+|-|-|
+Propuesta de Valor|Cómo la empresa genera valor para sus clientes y cómo se diferencia de la competencia, incluyendo los aspectos de sostenibilidad e impacto ambiental.
+Segmentos de mercado| Identificación y caracterización de los clientes objetivo, incluyendo sus necesidades, comportamientos y experiencia de usuario.
+Canales y relaciones| Cómo la empresa interactúa con sus clientes, incluyendo distribución, comunicación y gestión de la experiencia del cliente en todos los puntos de contacto.
+Modelo de ingresos|Cómo la empresa monetiza su propuesta de valor, incluyendo estructura de precios, modelos de suscripción y estrategias de escalabilidad.
+Estructura de costes|Costos asociados con la operación del negocio, incluyendo costes ambientales y de sostenibilidad.
+Actividades clave|Procesos críticos que la empresa debe realizar, incluyendo la gestión y análisis de datos como actividad fundamental.
+Recursos clave|Activos fundamentales necesarios, incluyendo datos e información como recurso estratégico.
+Alianzas clave|Red de socios y proveedores necesarios para operar el modelo, incluyendo alianzas para sostenibilidad y gestión de datos.
+Escalabilidad|Capacidad del modelo para crecer manteniendo o mejorando la eficiencia operativa y financiera.
+Sostenibilidad|Impacto ambiental y social del modelo, incluyendo estrategias de economía circular y responsabilidad corporativa.
 
 ### Limitaciones
 
