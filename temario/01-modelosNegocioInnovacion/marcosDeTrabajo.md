@@ -66,6 +66,8 @@ Ayudan a tomar decisiones|Al proporcionar una perspectiva estructurada y sistem�
 
 ## A tener en cuenta
 
+### [Algunos marcos de trabajo](marcosDeTrabajoVademecum.md)
+
 ### Conceptos recurrentes en estas herramientas
 
 No todos, no en todas, no todos conocidos. 
@@ -80,8 +82,6 @@ Costos y estructura de costos|Los costos asociados con la producción y distribu
 Actividades clave|Actividades que la empresa debe realizar para hacer que su modelo de negocio funcione, incluyendo producción, marketing, ventas, entrega, servicio al cliente, entre otros.
 Recursos clave|Identificación de los recursos clave, incluyendo personas, tecnologías y procesos, necesarios para hacer que el modelo de negocio funcione.
 Alianzas clave|Alianzas clave que la empresa planea establecer para apoyar su modelo de negocio.
-
-### [Algunos marcos de trabajo](marcosDeTrabajoVademecum.md)
 
 ### Limitaciones
 
