@@ -93,6 +93,6 @@ La tentación de reducir un problema complejo a un conjunto limitado de factores
 
 <div align=right>
 
-<big>La simplicidad **aparente** puede ser su mayor peligro</big><br>Por tanto hemos de saber detectar los [antipatrones](antiPatrones.md) en estos marcos.
+<big>La simplicidad **aparente** puede ser su mayor peligro</big><br>Por tanto hemos de saber detectar los [antipatrones](antiPatrones.md) en estos marcos. Y [aprender](casoHersheyFoods.md) de los errores (si es de otros, mejor).
 
 </div>
