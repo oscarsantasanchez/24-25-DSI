@@ -20,7 +20,7 @@
 |*[Matriz de Kraljic](https://en.wikipedia.org/wiki/Kraljic_matrix)*|Kraljic Matrix|Clasifica compras según impacto en rendimiento y complejidad de gestión.|✓|✓||||✓|
 |*[Cuadro de mando integral](https://es.wikipedia.org/wiki/Cuadro_de_mando_integral)*|Balanced Scorecard|Marco de gestión para objetivos estratégicos en perspectivas financiera, clientes, procesos y aprendizaje.|✓|✗|✓|✓|✓|✓|
 |*[Objetivos, Metas, Estrategias y Medidas](https://en.wikipedia.org/wiki/OGSM)*|OGSM|Marco para definir y alinear objetivos, metas, estrategias y medidas de éxito.|✓|✓|✓||✓|✓|
-|*[Val IT](https://en.wikipedia.org/wiki/Val_IT)*||Marco para asegurar la creación de valor en inversiones TI y su alineación con objetivos de negocio.|✓|✗|||✓|✓|
+|*[Val IT](https://es.wikipedia.org/wiki/Val_IT)*||Marco para asegurar la creación de valor en inversiones TI y su alineación con objetivos de negocio.|✓|✗|||✓|✓|
 |*[ITIL](https://es.wikipedia.org/wiki/ITIL)*|ISO 20000|Marco de referencia para la gestión de servicios de TI.|✓|✗|||✓|✓|
 |*[COBIT](https://es.wikipedia.org/wiki/COBIT)*|Control Objectives for IT|Marco integral para gobierno y gestión de TI empresarial.|✓|✗|||✓|✓|
 
