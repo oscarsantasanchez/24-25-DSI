@@ -16,7 +16,6 @@
 |Análisis de escenarios|SA|Técnica de planificación para explorar y prepararse para varios futuros posibles.|✓|✓|✓|✓|✓|✓|
 |[Cinco fuerzas de Porter](fiveForces/README.md)|Five Forces|Análisis de fuerzas que moldean la industria: competidores, proveedores, clientes, nuevos entrantes y sustitutos.|✗|✓||✓|||
 |*[Análisis PEST](https://es.wikipedia.org/wiki/An%C3%A1lisis_PEST)*|PEST Analysis|Análisis de factores políticos, económicos, sociales y tecnológicos.|✗|✓|✓|✓|✓||
-|*[Matriz de McFarlan](https://en.wikipedia.org/wiki/Strategic_grid)*|Grid Estratégico|Clasifica aplicaciones/sistemas según su impacto presente y futuro en la organización.|✓|✗|||✓|✓|
 |*[Análisis VRIO](https://en.wikipedia.org/wiki/VRIO)*|VRIO Framework|Evalúa recursos y capacidades según valor, rareza, imitabilidad y organización.|✓|✓|✓||✓|✓|
 |*[Matriz de Kraljic](https://en.wikipedia.org/wiki/Kraljic_matrix)*|Kraljic Matrix|Clasifica compras según impacto en rendimiento y complejidad de gestión.|✓|✓||||✓|
 |*[Cuadro de mando integral](https://es.wikipedia.org/wiki/Cuadro_de_mando_integral)*|Balanced Scorecard|Marco de gestión para objetivos estratégicos en perspectivas financiera, clientes, procesos y aprendizaje.|✓|✗|✓|✓|✓|✓|
