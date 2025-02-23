@@ -72,7 +72,7 @@ Ayudan a tomar decisiones|Al proporcionar una perspectiva estructurada y sistem�
 
 No todos, no en todas, no todos conocidos. 
 
-Punto|Coma
+Punto||
 -|-
 Valor propuesto|Cómo la empresa genera valor para sus clientes y cómo se diferencia de la competencia.
 Segmentos de mercado|Cómo la empresa planea llegar a sus clientes objetivo.
