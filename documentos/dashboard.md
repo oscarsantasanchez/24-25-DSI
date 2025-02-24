@@ -10,8 +10,18 @@ En el ámbito académico, se observa una distancia significativa entre la teorí
 
 La hoja de cálculo compartida para el seguimiento de la asignatura de Dirección de Sistemas de Información representa un ejemplo tangible de transformación digital aplicada al entorno educativo. No se trata simplemente de un registro administrativo, sino de un auténtico sistema de información que integra:
 
+<div align=center>
+
 |Gestión de datos de asistencia en tiempo real|Análisis estadístico automático de participación|Visualización mediante códigos para facilitar la interpretación|Organización estructurada de información académica y grupos de trabajo|Automatización de cálculos para evaluar cumplimiento y progreso
 |-|-|-|-|-|
+
+---
+
+|![](/images/dashboard.png)|
+|-|
+||
+
+</div>
 
 Este instrumento, aparentemente sencillo, encarna los principios fundamentales de los sistemas de información avanzados: captura, procesamiento, análisis y presentación de datos para la toma de decisiones. La diferencia radica en su accesibilidad y transparencia, ya que permite a los usuarios ver no solo los resultados, sino también los mecanismos subyacentes.
 
