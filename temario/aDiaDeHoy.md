@@ -25,3 +25,8 @@
 - La necesidad de pasar de un enfoque académico centrado en la forma a un enfoque profesional centrado en el valor real y la utilidad práctica de su trabajo.
 - Los puntos que permiten identificar uno y otro enfoque.
 
+24 feb
+
+- Marcos de trabajo: por qué surgen, qué buscan.
+- Algunos marcos de trabajo y su naturaleza.
+- Limitaciones en la naturaleza de los marcos como herramientas y limitaciones (o anti-patrones) en la aplicación de los mismos a una realidad empresarial.
