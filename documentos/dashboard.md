@@ -73,6 +73,10 @@ Al trabajar con esta hoja compartida, debe recordarse que contiene información 
 - Al crear copias para experimentar, deben anonimizarse los datos personales de los compañeros.
 - El acceso a esta información conlleva responsabilidad legal bajo normativas de protección de datos.
 
+---
+
+<div align=right>
+
 ***Para este documento:***
 
 |*H*|*IA*|
