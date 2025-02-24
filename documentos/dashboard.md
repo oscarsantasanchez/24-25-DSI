@@ -72,3 +72,11 @@ Al trabajar con esta hoja compartida, debe recordarse que contiene información 
 - Cualquier error detectado en los datos debe reportarse directamente al profesor, no corregirse por iniciativa propia.
 - Al crear copias para experimentar, deben anonimizarse los datos personales de los compañeros.
 - El acceso a esta información conlleva responsabilidad legal bajo normativas de protección de datos.
+
+***Para este documento:***
+
+|*H*|*IA*|
+|-|-|
+|*60*|*40*|
+
+</div>
