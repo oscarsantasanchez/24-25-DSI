@@ -12,7 +12,7 @@ La hoja de cálculo compartida para el seguimiento de la asignatura de Direcció
 
 <div align=center>
 
-|Gestión de datos de asistencia en tiempo real|Análisis estadístico automático de participación|Visualización mediante códigos para facilitar la interpretación|Organización estructurada de información académica y grupos de trabajo|Automatización de cálculos para evaluar cumplimiento y progreso
+|Datos de asistencia en tiempo real|Análisis estadístico automático de participación|Visualización mediante códigos para facilitar la interpretación|Organización de información académica y grupos de trabajo|Automatización de cálculos para evaluar cumplimiento y progreso
 |-|-|-|-|-|
 
 ---
@@ -63,7 +63,7 @@ La verdadera transformación digital no comienza con grandes inversiones en plat
 
 ## Apartado de responsabilidad
 
-Al trabajar con esta hoja compartida, debe recordarse que contiene información personal tanto propia como de los compañeros. Esta característica añade una dimensión ética al ejercicio:
+Al trabajar con esta hoja compartida, debe recordarse (como se indicó en el [consentimiento que han firmado](https://forms.gle/QLyknnd57MdnRukg7) y al que se han acogido [todos](https://docs.google.com/spreadsheets/d/1rRG131UPQ52CIZxmbjG9E2VUqu9xPsJnzTpo0hQpvvM/edit?usp=sharing)) que la misma contiene información personal tanto propia como de los compañeros. Esta característica añade una dimensión ética al ejercicio:
 
 - Los datos de asistencia y participación deben tratarse con respeto.
 - Las modificaciones experimentales deben realizarse en copias, nunca en el documento original.
