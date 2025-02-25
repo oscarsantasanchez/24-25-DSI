@@ -81,6 +81,6 @@ Al trabajar con esta hoja compartida, debe recordarse (como se indicó en el [co
 
 |*H*|*IA*|
 |-|-|
-|*60*|*40*|
+|*65*|*35*|
 
 </div>
