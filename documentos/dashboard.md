@@ -8,7 +8,7 @@ En el ámbito académico, se observa una distancia significativa entre la teorí
 
 ## ¿Qué?
 
-La [hoja de cálculo compartida](https://docs.google.com/spreadsheets/d/1KxmuKK_bd0rki4Kx3zlUAA2rIVUHJhaJf0dMx5KupC4/edit?usp=sharing) para el seguimiento de la asignatura de Dirección de Sistemas de Información representa un ejemplo tangible de transformación digital aplicada al entorno educativo. No se trata simplemente de un registro administrativo, sino de un auténtico sistema de información que integra:
+La [**hoja de cálculo compartida**](https://docs.google.com/spreadsheets/d/1KxmuKK_bd0rki4Kx3zlUAA2rIVUHJhaJf0dMx5KupC4/edit?usp=sharing) para el seguimiento de la asignatura de Dirección de Sistemas de Información representa un ejemplo tangible de transformación digital aplicada al entorno educativo. No se trata simplemente de un registro administrativo, sino de un auténtico sistema de información que integra:
 
 <div align=center>
 
