@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../../README.md)
+[![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](../README.md)
+
 # Modelo de Triz
 
 ![](/images/Figura-3-Modelo-de-innovacion-sistematica-basado-en-TRIZ-Fuente-Adaptado-de-Cordova.png)

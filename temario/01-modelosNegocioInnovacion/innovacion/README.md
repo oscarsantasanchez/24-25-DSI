@@ -19,7 +19,9 @@
 
 **Innovación:** [proceso](https://dle.rae.es/proceso) de negocio que crea nuevos productos, servicios, procesos, modelos de negocio y mercados que entregan valor a sus usuarios.
 
-Un elemento esencial de la innovación es su **aplicación exitosa de forma comercial**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello.
+Existen diversos [tipos de innovación](tipos.md) según su naturaleza, alcance e impacto.
+
+Un elemento esencial de la innovación es su **[aplicación exitosa de forma comercial](invencionVsInnovacion.md)**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello. Esta distinción entre invención e innovación es fundamental para entender el proceso de creación de valor.
 
 ## ¿Para qué?
 
@@ -40,34 +42,49 @@ Económicamente viables
 |<big>Si no se llega al mercado y se obtiene valor no se está desarrollando innovación sino invención o desarrollo tecnológico.</big>|La innovación ha de darse con suficiente diferenciación y velocidad de tal  forma que la empresa mantenga retornos por encima del promedio y proteja su sustentabilidad en el tiempo.|La verdadera innovación debe ser un proceso.|
 No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a partir de ellas.
 
+<big><big><big> Invención **≠** Innovación</big></big></big>
+
 </div>
 
 > <big><big>La innovación no se produce en el vacío y generalmente requiere más que un invento o una buena idea: necesita una orquestación de actividades que incluyen I+D, marketing, estrategia financiera y ventas para alcanzar éxito en el mercado y generar un impacto duradero.</big></big>
 
+
+
 ## ¿Cómo?
 
-Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con [4 fases iterativas e incrementales](proceso.md):
+Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con [4 fases iterativas e incrementales](proceso.md#fases-del-proceso-de-innovaci%C3%B3n):
 
-- Vigilar
-- Focalizar
-- Capacitarse
-- Implantar
+<table>
+<tr>
+<td>
 
-Apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
+![](/images/innovacion.png)
+</td>
+<td>
 
-### Modelos 
+- [Vigilar](vigilanciaTecnologica.md)
+- [Focalizar](focalizar.md)
+- [Capacitarse](capacitarse.md)
+- [Implantar](implantar.md)
 
-As usual, hay varios modelos. Por citar dos:
+Con [aprendizaje](aprender.md) continuo, apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
+</td>
+</tr>
+</table>
 
-- [Modelo de Marquis](modeloMarquis.md)
-- [Modelo de Triz](modeloTriz.md)
+### Modelos, enfoques, metodologías y herramientas de innovación
 
-### Herramientas de creatividad
+Entendiendo la innovación como un [proceso](proceso.md), en su desarrollo se apoya en:
 
-- Brainstorming
-- Técnica de seis sombreros
-- Design thinking
-- Storytelling
+|[Modelos](modelos.md)|[Enfoques](enfoques.md)|[Metodologías](metodologías.md)|[Herramientas](herramientas.md)|
+|-|-|-|-|
+|Marco teórico que describe y explica cómo funciona el proceso general de innovación.|Perspectiva o filosofía particular desde la cual se aborda el proceso de innovación.|Sistema estructurado de métodos, técnicas y pasos específicos para implementar la innovación de forma práctica.|Instrumentos prácticos y específicos que se utilizan dentro de las metodologías para ejecutar tareas concretas del proceso innovador.|
+|***¿Qué? ¿Por qué?***|***¿Desde dónde miramos?***|***¿Cómo?***|***¿Con qué?***|
+|[Modelo de Marquis](modeloMarquis.md)|[Océano Azul](oceanoAzul.md)|[Design thinking](https://xn--designthinkingespaa-d4b.com/)|Brainstorming (lluvia de ideas)|
+|[Modelo de Triz](modeloTriz.md)|[Innovación Abierta](innovacionAbierta.md)|[Lean startup](https://es.wikipedia.org/wiki/Lean_startup)|Técnica de seis sombreros|
+||[Jobs to be Done](jobsToBeDone.md)|[Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))|Storytelling|
+||[Innovación de Plataformas](dePlataformas.md)|[FORTH innovation method](https://www.forth-innovation.com/)||
+|||[Gamificación para innovación](https://www.revistaespacios.com/a16v37n08/16370803.html)|
 
 ## Enlaces externos & bibliografía
 

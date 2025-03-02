@@ -1,4 +1,7 @@
 
+[![](https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red)](../../README.md)
+[![](https://img.shields.io/badge/-Inicio%20de%20cap%C3%ADtulo-000?style=flat&logo=Acclaim&logoColor=red)](../README.md)
+
 ||Ingeniero informático|Ingeniero Industrial|Administrador de Empresas
 |-|-|-|-
 |**Foco**|Innovación tecnológica y desarrollo de producto.|Optimización de procesos, calidad y eficiencia operativa.|Estrategia de mercado, finanzas y gestión de relaciones con clientes y proveedores.
