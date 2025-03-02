@@ -2,7 +2,7 @@
 
 ## Introducción
 
-- [x] [Introducción a la asignatura](/temario/00-introduccionDSI.md)
+- [x] [Introducción a la asignatura](/temario/00-introduccion/README.md)
 
 ## [Modelos de negocio e innovación](/temario/01-modelosNegocioInnovacion/README.md)
 
@@ -11,8 +11,8 @@
   - [x] [Vademecum de marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md): [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/lienzoModeloNegocio/README.md) / [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md) / [Cinco fuerzas Porter](/temario/01-modelosNegocioInnovacion/fiveForces/README.md)
   - [x] [Limitaciones de los marcos de trabajo](/temario/01-modelosNegocioInnovacion/antiPatrones.md)
 - [x] [Innovación](/temario/01-modelosNegocioInnovacion/innovacion/README.md)
-  - [x] [Tipos de innovación](/temario/01-modelosNegocioInnovacion/innovacion/tipos.md)
   - [x] [Invención vs. Innovación](/temario/01-modelosNegocioInnovacion/innovacion/invencionVsInnovacion.md)
+  - [x] [Tipos de innovación](/temario/01-modelosNegocioInnovacion/innovacion/tipos.md)
   - [x] [El Modelo de innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md): [Modelo Marquis](/temario/01-modelosNegocioInnovacion/innovacion/modeloMarquis.md) / [Modelo TRIZ](/temario/01-modelosNegocioInnovacion/innovacion/modeloTriz.md)
   - [x] [Enfoques para innovar](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md): [Océano Azul](/temario/01-modelosNegocioInnovacion/innovacion/oceanoAzul.md) / [Innovación abierta](/temario/01-modelosNegocioInnovacion/innovacion/innovacionAbierta.md) / [Jobs to be done](/temario/01-modelosNegocioInnovacion/innovacion/jobsToBeDone.md) / [Innovación de plataformas](/temario/01-modelosNegocioInnovacion/innovacion/dePlataformas.md)
   - [x] [Fases del proceso de innovación](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md): [Vigilar](/temario/01-modelosNegocioInnovacion/innovacion/vigilanciaTecnologica.md) / [Focalizar](/temario/01-modelosNegocioInnovacion/innovacion/focalizar.md) / [Capacitarse](/temario/01-modelosNegocioInnovacion/innovacion/capacitarse.md) / [Implantar](/temario/01-modelosNegocioInnovacion/innovacion/implantar.md) / [Aprender](/temario/01-modelosNegocioInnovacion/innovacion/aprender.md)
