@@ -48,7 +48,15 @@ No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a 
 
 ## ¿Cómo?
 
-Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con [4 fases iterativas e incrementales](proceso.md):
+Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con [4 fases iterativas e incrementales](proceso.md#fases-del-proceso-de-innovaci%C3%B3n):
+
+<table>
+<tr>
+<td>
+
+![](/images/innovacion.png)
+</td>
+<td>
 
 - [Vigilar](vigilanciaTecnologica.md)
 - [Focalizar](focalizar.md)
@@ -56,27 +64,21 @@ Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con 
 - [Implantar](implantar.md)
 
 Con [aprendizaje](aprender.md) continuo, apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
+</td>
+</tr>
+</table>
 
-### Modelos 
+### Modelos, enfoques, metodologías y herramientas de innovación
 
-As usual, hay varios modelos. Por citar dos:
-
-- [Modelo de Marquis](modeloMarquis.md)
-- [Modelo de Triz](modeloTriz.md)
-
-### Enfoques y metodologías
-
-- [Océano Azul](oceanoAzul.md)
-- [Innovación Abierta](innovacionAbierta.md)
-- [Jobs to be Done](jobsToBeDone.md)
-- [Innovación de Plataformas](dePlataformas.md)
-
-### Herramientas de creatividad
-
-- Brainstorming (lluvia de ideas)
-- Técnica de seis sombreros de Edward de Bono
-- Design thinking (pensamiento de diseño)
-- Storytelling (narrativa)
+|[Modelos](modelos.md)|[Enfoques](enfoques.md)|[Metodologías](metodologías.md)|[Herramientas](herramientas.md)|
+|-|-|-|-|
+|Marco teórico que describe y explica cómo funciona el proceso general de innovación.|Perspectiva o filosofía particular desde la cual se aborda el proceso de innovación.|Sistema estructurado de métodos, técnicas y pasos específicos para implementar la innovación de forma práctica.|Instrumentos prácticos y específicos que se utilizan dentro de las metodologías para ejecutar tareas concretas del proceso innovador.|
+|***¿Qué? ¿Por qué?***|***¿Desde dónde miramos?***|***¿Cómo?***|***¿Con qué?***|
+|[Modelo de Marquis](modeloMarquis.md)|[Océano Azul](oceanoAzul.md)|[Design thinking](https://xn--designthinkingespaa-d4b.com/)|Brainstorming (lluvia de ideas)|
+|[Modelo de Triz](modeloTriz.md)|[Innovación Abierta](innovacionAbierta.md)|[Lean startup](https://es.wikipedia.org/wiki/Lean_startup)|Técnica de seis sombreros|
+||[Jobs to be Done](jobsToBeDone.md)|[Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software))|Storytelling|
+||[Innovación de Plataformas](dePlataformas.md)|[FORTH innovation method](https://www.forth-innovation.com/)||
+|||[Gamificación para innovación](https://www.revistaespacios.com/a16v37n08/16370803.html)|
 
 ## Enlaces externos & bibliografía
 

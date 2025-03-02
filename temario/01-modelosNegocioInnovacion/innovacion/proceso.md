@@ -51,7 +51,7 @@ El éxito del proceso de innovación depende en gran medida de cómo la organiza
 ### Roles y responsabilidades
 
 |Rol|Responsabilidades principales|
-|---|------------------------------|
+|-|-|
 |**Alta dirección**|Establecer visión y estrategia, asignar recursos, eliminar barreras|
 |**Líderes de innovación**|Coordinar el proceso, facilitar comunicación, gestionar portafolio|
 |**Equipos multidisciplinares**|Ejecutar proyectos, aportar perspectivas diversas|
@@ -75,7 +75,7 @@ Para gestionar eficazmente el proceso de innovación, es fundamental medirlo ade
 ### Indicadores por fase
 
 |Fase|Posibles métricas|
-|----|----------------|
+|-|-|
 |**Vigilar**|Nº de tendencias identificadas, alertas tempranas detectadas|
 |**Focalizar**|Calidad del portfolio de ideas, alineación estratégica|
 |**Capacitarse**|Desarrollo de nuevas competencias, acceso a recursos clave|
@@ -85,6 +85,7 @@ Para gestionar eficazmente el proceso de innovación, es fundamental medirlo ade
 ### Balance de indicadores
 
 Es recomendable utilizar un mix equilibrado de métricas:
+
 - **Indicadores de entrada**: Recursos, inversión, capacidades
 - **Indicadores de proceso**: Eficiencia, velocidad, calidad
 - **Indicadores de salida**: Productos lanzados, patentes, mejoras
@@ -93,7 +94,7 @@ Es recomendable utilizar un mix equilibrado de métricas:
 ## Obstáculos comunes y soluciones
 
 |Obstáculo|Soluciones potenciales|
-|---------|---------------------|
+|-|-|
 |**Resistencia al cambio**|Comunicación clara, participación temprana, éxitos rápidos|
 |**Falta de recursos**|Priorización, asociaciones externas, innovación frugal|
 |**Silos organizacionales**|Equipos multifuncionales, espacios compartidos, incentivos alineados|
@@ -105,15 +106,17 @@ Es recomendable utilizar un mix equilibrado de métricas:
 ### Google y su modelo 70-20-10
 
 Google implementa un proceso de innovación donde los empleados dedican:
+
 - 70% del tiempo a proyectos principales
 - 20% a proyectos relacionados con el negocio pero no prioritarios
 - 10% a proyectos personales de libre elección
 
 Esta aproximación ha generado productos como Gmail, Google News y AdSense, que surgieron como proyectos del "tiempo de innovación".
 
-### IDEO y el Design Thinking
+### IDEO y el design thinking
 
 La consultora IDEO aplica un proceso de innovación centrado en el usuario que sigue fases similares:
+
 1. **Empatizar**: Observación profunda (similar a Vigilar)
 2. **Definir**: Identificación de problemas (similar a Focalizar)
 3. **Idear**: Generación de soluciones
