@@ -70,6 +70,8 @@ Con [aprendizaje](aprender.md) continuo, apoyándose en modelos preestablecidos 
 
 ### Modelos, enfoques, metodologías y herramientas de innovación
 
+Entendiendo la innovación como un [proceso](proceso.md), en su desarrollo se apoya en:
+
 |[Modelos](modelos.md)|[Enfoques](enfoques.md)|[Metodologías](metodologías.md)|[Herramientas](herramientas.md)|
 |-|-|-|-|
 |Marco teórico que describe y explica cómo funciona el proceso general de innovación.|Perspectiva o filosofía particular desde la cual se aborda el proceso de innovación.|Sistema estructurado de métodos, técnicas y pasos específicos para implementar la innovación de forma práctica.|Instrumentos prácticos y específicos que se utilizan dentro de las metodologías para ejecutar tareas concretas del proceso innovador.|
