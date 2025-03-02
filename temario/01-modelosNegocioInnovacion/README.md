@@ -88,10 +88,22 @@ Quinario|Relativo a los servicios sin ánimo de lucro|Cultura, educación, arte 
 ## ¿Cómo?
 
 1. Interiorizando el concepto de [Economía Digital](economiaDigital.md).
-1. Modelando la empresa de manera formal mediante herramientas y marcos de análisis, usando:
-    - **Presentación visual** de la lógica y los fundamentos del negocio.
-    - **Tablas y gráficos** para representar y comparar diferentes elementos clave de un modelo de negocio, como los flujos de ingresos y gastos.
-    - **Descripciones** escritas.
-    - **Prototipos**, para experimentar y probar un modelo de negocio antes de produccirlo a gran escala.
-    - **Modelos matemáticos** que representen de manera precisa y cuantitativa un modelo de negocio y sus interacciones con factores externos.
-1. Entendiendo y aplicando la innovación como proceso sistémico.
+
+2. Modelando la empresa de manera formal mediante [herramientas y marcos de análisis](marcosDeTrabajo.md), usando:
+    - **Presentación visual** de la lógica y los fundamentos del negocio, como el [Lienzo de Modelo de Negocio](lienzoModeloNegocio/README.md).
+    - **Tablas y gráficos** para representar y comparar diferentes elementos clave, como en el [Análisis DAFO](analisisDAFO/README.md) o las [Cinco Fuerzas de Porter](fiveForces/README.md).
+    - **Descripciones** escritas y análisis detallados.
+    - **Prototipos**, para experimentar y probar un modelo de negocio antes de producirlo a gran escala.
+    - **Modelos matemáticos** que representen de manera precisa y cuantitativa un modelo de negocio.
+    
+    > Nota: Es importante conocer las [limitaciones de los marcos de trabajo](antiPatrones.md) y comprender que no existe un enfoque "único para todo" ([aplicabilidad](aplicabilidad.md)).
+
+3. Entendiendo y aplicando la [innovación](innovacion/README.md) como proceso sistémico:
+    - Comprendiendo los [diferentes tipos de innovación](innovacion/tipos.md) y la crucial [distinción entre invención e innovación](innovacion/invencionVsInnovacion.md)
+    - Aplicando [enfoques estratégicos](innovacion/enfoques.md) como [Océano Azul](innovacion/oceanoAzul.md), [Innovación Abierta](innovacion/innovacionAbierta.md), o [Jobs to be Done](innovacion/jobsToBeDone.md)
+    - Implementando [modelos de proceso](innovacion/proceso.md) como el [Modelo de Marquis](innovacion/modeloMarquis.md) o el [Modelo TRIZ](innovacion/modeloTriz.md)
+    - Desarrollando las [fases del proceso](innovacion/proceso.md): [Vigilar](innovacion/vigilanciaTecnologica.md), [Focalizar](innovacion/focalizar.md), [Capacitarse](innovacion/capacitarse.md), [Implantar](innovacion/implantar.md) y [Aprender](innovacion/aprender.md)
+
+## Casos de estudio
+
+- [Caso Hershey Foods](casoHersheyFoods.md): Un análisis de la fallida implementación de ERP que ilustra la importancia de una adecuada planificación y gestión del cambio
