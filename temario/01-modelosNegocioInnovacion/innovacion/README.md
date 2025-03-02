@@ -21,7 +21,7 @@
 
 Existen diversos [tipos de innovación](tipos.md) según su naturaleza, alcance e impacto.
 
-Un elemento esencial de la innovación es su **aplicación exitosa de forma comercial**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello.
+Un elemento esencial de la innovación es su **[aplicación exitosa de forma comercial](invencionVsInnovacion.md)**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello. Esta distinción entre invención e innovación es fundamental para entender el proceso de creación de valor.
 
 ## ¿Para qué?
 
