@@ -19,6 +19,8 @@
 
 **Innovación:** [proceso](https://dle.rae.es/proceso) de negocio que crea nuevos productos, servicios, procesos, modelos de negocio y mercados que entregan valor a sus usuarios.
 
+Existen diversos [tipos de innovación](tipos.md) según su naturaleza, alcance e impacto.
+
 Un elemento esencial de la innovación es su **aplicación exitosa de forma comercial**: no solo hay que inventar algo, sino, introducirlo en el mercado para que la gente pueda disfrutar de ello.
 
 ## ¿Para qué?
@@ -48,12 +50,12 @@ No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a 
 
 Mediante un proceso sistémico, abordándolo como un proceso de aprendizaje con [4 fases iterativas e incrementales](proceso.md):
 
-- Vigilar
-- Focalizar
-- Capacitarse
-- Implantar
+- [Vigilar](vigilanciaTecnologica.md)
+- [Focalizar](focalizar.md)
+- [Capacitarse](capacitarse.md)
+- [Implantar](implantar.md)
 
-Apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
+Con [aprendizaje](aprender.md) continuo, apoyándose en modelos preestablecidos y utilizando herramientas para fomentar la creatividad.
 
 ### Modelos 
 
@@ -62,12 +64,19 @@ As usual, hay varios modelos. Por citar dos:
 - [Modelo de Marquis](modeloMarquis.md)
 - [Modelo de Triz](modeloTriz.md)
 
+### Enfoques y metodologías
+
+- [Océano Azul](oceanoAzul.md)
+- [Innovación Abierta](innovacionAbierta.md)
+- [Jobs to be Done](jobsToBeDone.md)
+- [Innovación de Plataformas](dePlataformas.md)
+
 ### Herramientas de creatividad
 
-- Brainstorming
-- Técnica de seis sombreros
-- Design thinking
-- Storytelling
+- Brainstorming (lluvia de ideas)
+- Técnica de seis sombreros de Edward de Bono
+- Design thinking (pensamiento de diseño)
+- Storytelling (narrativa)
 
 ## Enlaces externos & bibliografía
 
