@@ -42,9 +42,13 @@ Económicamente viables
 |<big>Si no se llega al mercado y se obtiene valor no se está desarrollando innovación sino invención o desarrollo tecnológico.</big>|La innovación ha de darse con suficiente diferenciación y velocidad de tal  forma que la empresa mantenga retornos por encima del promedio y proteja su sustentabilidad en el tiempo.|La verdadera innovación debe ser un proceso.|
 No solo generar nuevas ideas|Es también implementarlas|Y además crear valor a partir de ellas.
 
+<big><big><big> Invención **≠** Innovación</big></big></big>
+
 </div>
 
 > <big><big>La innovación no se produce en el vacío y generalmente requiere más que un invento o una buena idea: necesita una orquestación de actividades que incluyen I+D, marketing, estrategia financiera y ventas para alcanzar éxito en el mercado y generar un impacto duradero.</big></big>
+
+
 
 ## ¿Cómo?
 
