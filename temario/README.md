@@ -8,38 +8,20 @@
 
 - [x] [Economía digital](/temario/01-modelosNegocioInnovacion/economiaDigital.md)
 - [x] [Herramientas y marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajo.md)
-  - [x] [Vademecum de marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md)
-    - [x] [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/lienzoModeloNegocio/README.md)
-    - [x] [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md)
-    - [x] [Cinco fuerzas Porter](/temario/01-modelosNegocioInnovacion/fiveForces/README.md)
+  - [x] [Vademecum de marcos de trabajo](/temario/01-modelosNegocioInnovacion/marcosDeTrabajoVademecum.md): [El lienzo de modelo de negocio](/temario/01-modelosNegocioInnovacion/lienzoModeloNegocio/README.md) / [Análisis DAFO](/temario/01-modelosNegocioInnovacion/analisisDAFO/README.md) / [Cinco fuerzas Porter](/temario/01-modelosNegocioInnovacion/fiveForces/README.md)
   - [x] [Limitaciones de los marcos de trabajo](/temario/01-modelosNegocioInnovacion/antiPatrones.md)
 - [x] [Innovación](/temario/01-modelosNegocioInnovacion/innovacion/README.md)
   - [x] [Tipos de innovación](/temario/01-modelosNegocioInnovacion/innovacion/tipos.md)
-  - [x] [El Modelo de innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md)
-    - [x] [Modelo Marquis](/temario/01-modelosNegocioInnovacion/innovacion/modeloMarquis.md)
-    - [x] [Modelo TRIZ](/temario/01-modelosNegocioInnovacion/innovacion/modeloTriz.md)
-  - [x] [Enfoques para innovar](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md)
-    - [x] [Estrategia de Océano Azul](/temario/01-modelosNegocioInnovacion/innovacion/oceanoAzul.md)
-    - [x] [Innovación abierta (Open innovation)](/temario/01-modelosNegocioInnovacion/innovacion/innovacionAbierta.md)
-    - [x] [Teoría de los trabajos por realizar (Jobs to be done)](/temario/01-modelosNegocioInnovacion/innovacion/jobsToBeDone.md)
-      - [x] [JTBD: McDonald's](/temario/01-modelosNegocioInnovacion/innovacion/jtbdMcDonalds.md)
-      - [x] [JTBD: CAD](/temario/01-modelosNegocioInnovacion/innovacion/jtbdCAD.md)
-    - [x] [Innovación de plataformas](/temario/01-modelosNegocioInnovacion/innovacion/dePlataformas.md)
-  - [x] [Fases del proceso de innovación](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md)
-    - [x] [Vigilancia Tecnológica](/temario/01-modelosNegocioInnovacion/innovacion/vigilanciaTecnologica.md)
-    - [x] [Focalizar](/temario/01-modelosNegocioInnovacion/innovacion/focalizar.md)
-    - [x] [Capacitarse](/temario/01-modelosNegocioInnovacion/innovacion/capacitarse.md)
-    - [x] [Implantar](/temario/01-modelosNegocioInnovacion/innovacion/implantar.md)
-    - [x] [Aprender](/temario/01-modelosNegocioInnovacion/innovacion/aprender.md)
+  - [x] [El Modelo de innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md): [Modelo Marquis](/temario/01-modelosNegocioInnovacion/innovacion/modeloMarquis.md) / [Modelo TRIZ](/temario/01-modelosNegocioInnovacion/innovacion/modeloTriz.md)
+  - [x] [Enfoques para innovar](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md): [Océano Azul](/temario/01-modelosNegocioInnovacion/innovacion/oceanoAzul.md) / [Innovación abierta](/temario/01-modelosNegocioInnovacion/innovacion/innovacionAbierta.md) / [Jobs to be done](/temario/01-modelosNegocioInnovacion/innovacion/jobsToBeDone.md) / [Innovación de plataformas](/temario/01-modelosNegocioInnovacion/innovacion/dePlataformas.md)
+  - [x] [Fases del proceso de innovación](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md): [Vigilar](/temario/01-modelosNegocioInnovacion/innovacion/vigilanciaTecnologica.md) / [Focalizar](/temario/01-modelosNegocioInnovacion/innovacion/focalizar.md) / [Capacitarse](/temario/01-modelosNegocioInnovacion/innovacion/capacitarse.md) / [Implantar](/temario/01-modelosNegocioInnovacion/innovacion/implantar.md) / [Aprender](/temario/01-modelosNegocioInnovacion/innovacion/aprender.md)
 
 ## Funciones de la dirección de sistemas de información
 
 - [ ] Definición de Sistemas de la información en las organizaciones
 - [ ] Evolución histórica
 - [ ] Componentes
-- [ ] Personas: como nos organizamos
-  - [ ] Funciones
-  - [ ] Conocimiento
+- [ ] Personas: como nos organizamos: Funciones / Conocimiento
 - [ ] Actividades de la DSI
 
 ## Estrategia y planificación de los sistemas de información
@@ -63,26 +45,26 @@
 
 ## Gestión de operaciones
 
-- [ ] Objetivos.
+- [ ] Objetivos
 - [ ] Infraestructura Tecnológica
 - [ ] Servidores
 - [ ] Cloud Computing
-- [ ] Green IT.- Virtualización: Virtualización de Servidores.
-- [ ] Arquitectura Empresarial.
+- [ ] Green IT - Virtualización
+- [ ] Arquitectura Empresarial
 
 ## Gestión de servicios
 
 - [ ] X-sourcing: Rightsourcing, outsourcing, insourcing, multisourcing
-- [ ] Offshoring. Cómo se implanta y dónde es mejor implantarlo.
-- [ ] Definición de SLA en procesos de externalización.
-- [ ] Seguridad de información en los negocios.
-- [ ] Seguridad y privacidad.
+- [ ] Offshoring: implementación y localización
+- [ ] Definición de SLA en procesos de externalización
+- [ ] Seguridad de información en los negocios
+- [ ] Seguridad y privacidad
 
 ## Comercio electrónico
 
-- [ ] DAFO del concepto de comercio electronico
-- [ ] ¿Estoy preparado para el comercio electrónico?
-- [ ] 🤔
+- [ ] DAFO del comercio electrónico
+- [ ] Preparación para el comercio electrónico
+- [ ] Aspectos críticos para el éxito
 
 # [Y además...](/documentos/refactoring/temasPropuestosCompleto.md)
 
