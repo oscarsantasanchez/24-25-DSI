@@ -16,13 +16,13 @@
   - [x] [La innovación como proceso](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md) que se apoya en [modelos](/temario/01-modelosNegocioInnovacion/innovacion/modelos.md) / [enfoques](/temario/01-modelosNegocioInnovacion/innovacion/enfoques.md) / [metodologías](/temario/01-modelosNegocioInnovacion/innovacion/metodologías.md) / [herramientas](/temario/01-modelosNegocioInnovacion/innovacion/herramientas.md)
   - [x] [Fases del proceso de innovación](/temario/01-modelosNegocioInnovacion/innovacion/proceso.md): [vigilar](/temario/01-modelosNegocioInnovacion/innovacion/vigilanciaTecnologica.md) / [focalizar](/temario/01-modelosNegocioInnovacion/innovacion/focalizar.md) / [capacitarse](/temario/01-modelosNegocioInnovacion/innovacion/capacitarse.md) / [implantar](/temario/01-modelosNegocioInnovacion/innovacion/implantar.md) / [aprender](/temario/01-modelosNegocioInnovacion/innovacion/aprender.md)
 
-## Funciones de la dirección de sistemas de información
+## [Funciones de la dirección de sistemas de información](/temario/02-funcionesDSI/README.md)
 
-- [ ] Definición de Sistemas de la información en las organizaciones
-- [ ] Evolución histórica
-- [ ] Componentes
-- [ ] Personas: como nos organizamos: Funciones / Conocimiento
-- [ ] Actividades de la DSI
+- [x] [Definición de SI en las organizaciones](/temario/02-funcionesDSI/definicion.md)
+- [x] [Evolución histórica](/temario/02-funcionesDSI/evolucion.md)
+- [x] [Componentes](/temario/02-funcionesDSI/componentes.md)
+- [x] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md): Funciones / Conocimiento
+- [x] [Actividades de la DSI](/temario/02-funcionesDSI/actividades.md)
 
 ## Estrategia y planificación de los sistemas de información
 

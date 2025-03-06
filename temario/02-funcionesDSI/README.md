@@ -1,4 +1,4 @@
-# Funciones de la Dirección de Sistemas de Información
+# Funciones de la dirección de sistemas de información
 
 ## ¿Por qué?
 
