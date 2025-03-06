@@ -1,0 +1,155 @@
+@startuml
+
+' Definición de estilos
+skinparam {
+  BackgroundColor White
+  ArrowColor #2C3E50
+  ActorBorderColor #2C3E50
+  NodeBackgroundColor #F5F5F5
+  NodeBorderColor #2C3E50
+  ArtifactBackgroundColor #FFE6CC
+  ArtifactBorderColor #2C3E50
+}
+
+' C-Level Executives
+card "Alta Dirección" as CLevel {
+  actor "CEO\nChief Executive Officer" as CEO
+  
+  actor "CIO\nChief Information Officer" as CIO
+  actor "CTO\nChief Technology Officer" as CTO
+  actor "CDO\nChief Digital Officer" as CDO
+  actor "CISO\nChief Information Security Officer" as CISO
+  
+  CEO -down-> CIO : supervisión directa
+  CEO -down-> CTO : supervisión directa
+  CEO ..> CDO : supervisión colaborativa
+  CIO -down-> CISO : supervisión directa
+}
+
+' Mandos intermedios
+card "Gestión Intermedia" as Managers {
+  agent "Director DSI" as DSID
+  agent "Jefe de Desarrollo" as DevHead
+  agent "Jefe de Operaciones" as OpsHead
+  agent "Jefe de Proyectos" as ProjHead
+  agent "Responsable de Seguridad" as SecHead
+  
+  CIO -down-> DSID : define objetivos
+  CTO -down-> DevHead : establece estándares tecnológicos
+  CIO -down-> OpsHead : garantiza disponibilidad
+  CDO -down-> ProjHead : impulsa transformación digital
+  CISO -down-> SecHead : define políticas de seguridad
+}
+
+' Equipos técnicos
+card "Equipos Operativos" as Teams {
+  ' Equipo de Desarrollo
+  card "Desarrollo" as DevTeam {
+    database "Jefe de Proyecto" as ProjLead
+    database "Analista" as Analyst
+    database "Analista Programador" as AnalystProg
+    database "Programador" as Programmer
+    
+    ProjLead -down-> Analyst : asigna requerimientos
+    Analyst -down-> AnalystProg : define especificaciones
+    AnalystProg -down-> Programmer : distribuye tareas
+  }
+  
+  ' Equipo de Operaciones
+  card "Operaciones" as OpsTeam {
+    database "Arquitecto de Sistemas" as SysArch
+    database "Administrador" as Admin
+    database "Técnico de Sistemas" as SysTech
+    database "Técnico Microinformático" as MicroTech
+    
+    SysArch -down-> Admin : define arquitectura
+    Admin -down-> SysTech : delega administración
+    SysTech -down-> MicroTech : asigna soporte
+  }
+  
+  ' Equipo de Negocio
+  card "Negocio" as BizTeam {
+    database "Consultor Senior" as SrConsultant
+    database "Consultor Junior" as JrConsultant
+    database "Analista Funcional" as FuncAnalyst
+    database "Analista Técnico" as TechAnalyst
+    
+    SrConsultant -down-> JrConsultant : supervisa consultoría
+    SrConsultant -down-> FuncAnalyst : define requisitos
+    FuncAnalyst -down-> TechAnalyst : traduce necesidades
+  }
+}
+
+' Conexiones entre Gestión y Equipos
+DevHead ..> DevTeam : dirige
+OpsHead ..> OpsTeam : dirige
+ProjHead ..> DevTeam : coordina
+ProjHead ..> BizTeam : colabora
+SecHead ..> OpsTeam : establece controles
+DSID ..> BizTeam : alinea con negocio
+
+' Flujos de trabajo principales usando notas y flechas
+note as StrategyFlow #lightgreen
+  <b>1. Definición de objetivos y estrategias</b>
+end note
+
+note as PlanningFlow #lightblue
+  <b>2. Planificación de proyectos y asignación de recursos</b>
+end note
+
+note as ExecutionFlow #pink
+  <b>3. Implementación y entrega</b>
+end note
+
+note as ReportingFlow #lavender
+  <b>4. Reporte de resultados y KPIs</b>
+end note
+
+CLevel -[#green]down-> StrategyFlow
+StrategyFlow -[#green]down-> Managers
+
+Managers -[#blue]down-> PlanningFlow
+PlanningFlow -[#blue]down-> Teams
+
+Teams -[#red]up-> ExecutionFlow
+ExecutionFlow -[#red]up-> Managers
+
+Managers -[#purple]up-> ReportingFlow
+ReportingFlow -[#purple]up-> CLevel
+
+' Flujos interdisciplinares
+artifact "Proyecto de Transformación Digital" as DigitalProj
+CDO ..> DigitalProj
+DevHead ..> DigitalProj
+SrConsultant ..> DigitalProj
+ProjLead ..> DigitalProj
+SysArch ..> DigitalProj
+
+artifact "Incidente de Seguridad" as SecurityIncident
+CISO ..> SecurityIncident
+SecHead ..> SecurityIncident
+Admin ..> SecurityIncident
+SysTech ..> SecurityIncident
+
+artifact "Desarrollo de Nuevo Producto" as NewProduct
+CTO ..> NewProduct
+DevHead ..> NewProduct
+ProjLead ..> NewProduct
+Analyst ..> NewProduct
+FuncAnalyst ..> NewProduct
+
+' Notas explicativas
+note bottom of Teams
+  Los equipos operativos implementan las decisiones 
+  estratégicas y tácticas definidas en los niveles superiores.
+  El trabajo fluye principalmente de arriba hacia abajo,
+  mientras que la información y reportes fluyen de abajo hacia arriba.
+end note
+
+note right of DigitalProj
+  Los proyectos complejos requieren
+  colaboración entre múltiples niveles 
+  y áreas funcionales.
+end note
+
+@enduml
