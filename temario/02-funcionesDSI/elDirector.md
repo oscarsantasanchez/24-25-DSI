@@ -1,4 +1,4 @@
-# Funciones del Director de Sistemas de Información
+# El Director de Sistemas de Información (*a.k.a.* CIO)
 
 ## ¿Por qué?
 
@@ -15,13 +15,19 @@ El CIO actual debe ser tanto un líder tecnológico como un estratega de negocio
 
 El Director de Sistemas de Información es el ejecutivo responsable de:
 
-- Liderar la estrategia tecnológica de la organización
-- Gestionar el departamento de sistemas de información
-- Asegurar que la infraestructura y servicios tecnológicos funcionan adecuadamente
-- Promover la innovación tecnológica alineada con el negocio
-- Proteger los activos de información de la empresa
-- Desarrollar las capacidades digitales de la organización
-- Asesorar a la alta dirección en decisiones tecnológicas estratégicas
+<div align=center>
+
+||P|O|D|C|
+|-|:-:|:-:|:-:|:-:|
+|Liderar la estrategia tecnológica de la organización|✓|✓|✓||
+|Asesorar a la alta dirección en decisiones tecnológicas estratégicas|✓|||✓|
+|Gestionar el departamento de sistemas de información||✓|✓|✓|
+|Desarrollar las capacidades digitales de la organización|✓|✓|✓||
+|Promover la innovación tecnológica alineada con el negocio|✓||✓||
+|Asegurar que la infraestructura y servicios tecnológicos funcionan adecuadamente||✓||✓|
+|Proteger los activos de información de la empresa|✓|✓||✓|
+
+</div>
 
 En la estructura jerárquica moderna, el CIO suele reportar directamente al CEO y colabora estrechamente con otros directivos C-level para desarrollar estrategias integradas.
 
