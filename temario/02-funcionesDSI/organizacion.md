@@ -9,15 +9,19 @@
 ![](/images/modelosUML/modelosUML/sopaDeCs.svg)
 |*#notaMental:Jerarquizarlo y relacionarlo*|
 
+|![](/images/temario/modelosUML/sopaC2.0.svg)|![](/images/temario/modelosUML/sopaC2.0_extendido_jerarquizado.svg)|
+|:-:|:-:|
+|[**Mapa completo**](/images/temario/modelosUML/sopaC2.0.svg)|[**Mapa completísimo**](/images/temario/modelosUML/sopaC2.0_extendido_jerarquizado.svg)
+
 ## Cómo nos organizmos
 
 ### Categorías profesionales
 
 |N|D|
 -|-
-Desarrollo|Programador, Analista programados, Analista, Jefe de proyecto, Gestor de contrato
-Operaciones|Técnico microinformático, Técnico de sistemas, Administrador, Arquitecto de sistemas, Responsable de sistemas
-Negocio|Analista programador, Analista técnico, Analista funcional, Consultor junior, Consultor senior
+|Desarrollo|Programador, Analista programados, Analista, Jefe de proyecto, Gestor de contrato|
+|Operaciones|Técnico microinformático, Técnico de sistemas, Administrador, Arquitecto de sistemas, Responsable de sistemas|
+|Negocio|Analista programador, Analista técnico, Analista funcional, Consultor junior, Consultor senior|
 
 Detalle de las [categorías profesionales](categoriasProfesionales.md)
 
