@@ -1,8 +1,8 @@
 # Funciones de la dirección de sistemas de información
 
-## ¿Por qué?
+> *P, O, D & C los SI.*
 
-P, O, D & C los SI.
+## ¿Por qué?
 
 Hemos visto que las empresas buscan la generación de ganancias a través de la producción/distribución de bienes o servicios que aporten valor para sus clientes.
 
