@@ -15,9 +15,9 @@ Hemos visto que las empresas buscan la generación de ganancias a través de la 
 
 La función de la DSI ha experimentado una notable evolución en las últimas décadas:
 
-|De área técnica aislada|>>|A departamento de apoyo|>>|A componente estratégico|
+|De área técnica aislada||A departamento de apoyo||A componente estratégico|
 |:-:|-|:-:|-|:-:|
-|1960-1980||1980-2000||2000-presente|
+|1960-1980|>>|1980-2000|>>|2000-presente|
 |Enfocada en el procesamiento de datos||Centrado en la gestión de información||Impulsador de la transformación digital|
 
 Esta evolución responde a un cambio fundamental: las empresas ya no solo utilizan tecnología para optimizar procesos existentes, sino que la integran en su núcleo estratégico para crear nuevos modelos de negocio, experiencias de cliente diferenciadas y ventajas competitivas sostenibles.
