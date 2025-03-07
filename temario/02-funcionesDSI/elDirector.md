@@ -9,6 +9,10 @@
 |[Su definición](definicion.md)|>>|[Su evolución](evolucion.md)|>>|[Su composición](componentes.md)|>>|[Cómo se organizan](organizacion.md)|>>|[Qué actividades abarca](actividades.md)
 |||||||**[Qué hace](elDirector.md)**
 
+</small>
+
+</div>
+
 ## ¿Por qué?
 
 La figura del Director de Sistemas de Información (CIO) ha evolucionado de ser un rol puramente técnico a una posición estratégica clave en las organizaciones modernas. Esta evolución responde a:
