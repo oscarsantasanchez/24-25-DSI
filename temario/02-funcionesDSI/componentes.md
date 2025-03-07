@@ -1,5 +1,18 @@
 # Componentes de un SI
 
+<div align=center>
+
+<small>
+
+|Conociendo|||||||||
+|-|-|-|-|-|-|-|-|-|
+|[Su definición](definicion.md)|>>|[Su evolución](evolucion.md)|>>|**[Su composición](componentes.md)**|>>|[Cómo se organizan](organizacion.md)|>>|[Qué actividades abarca](actividades.md)
+|||||||[Qué hace](elDirector.md)
+
+</small>
+
+</div>
+
 Un Sistema de Información (SI) es un **conjunto organizado de recursos** (personas, procesos, datos y tecnologías) que recopila, procesa, almacena, analiza y distribuye información en una organización.
 
 ## ¿Por qué?

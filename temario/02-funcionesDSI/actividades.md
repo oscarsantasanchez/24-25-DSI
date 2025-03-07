@@ -1,5 +1,18 @@
 # Actividades de la DSI
 
+<div align=center>
+
+<small>
+
+|Conociendo|||||||||
+|-|-|-|-|-|-|-|-|-|
+|[Su definición](definicion.md)|>>|[Su evolución](evolucion.md)|>>|[Su composición](componentes.md)|>>|[Cómo se organizan](organizacion.md)|>>|**[Qué actividades abarca](actividades.md)**
+|||||||[Qué hace](elDirector.md)
+
+</small>
+
+</div>
+
 ## ¿Por qué?
 
 La Dirección de Sistemas de Información debe realizar actividades concretas que materialicen su misión dentro de la organización. Estas actividades responden a necesidades específicas:
