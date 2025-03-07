@@ -26,17 +26,19 @@ Esta evolución responde a un cambio fundamental: las empresas ya no solo utiliz
 
 Conjunto de responsabilidades y actividades que esta área desempeña en una organización.
 
-||
-|-|
-Políticas y estándares
-Administración de la infraestructura TI
-Seguridad de la información
-Soporte y mantenimiento
-Desarrollo
-Gestión de proyectos
-Innovación tecnológica
-Gestión de RRHH TI
-Gestión estratégica
+<div align=center>
+
+||P|O|D|C|
+|-|:-:|:-:|:-:|:-:|
+|Liderar la estrategia tecnológica de la organización|✓|✓|✓||
+|Asesorar a la alta dirección en decisiones tecnológicas estratégicas|✓|||✓|
+|Gestionar el departamento de sistemas de información||✓|✓|✓|
+|Desarrollar las capacidades digitales de la organización|✓|✓|✓||
+|Promover la innovación tecnológica alineada con el negocio|✓||✓||
+|Asegurar que la infraestructura y servicios tecnológicos funcionan adecuadamente||✓||✓|
+|Proteger los activos de información de la empresa|✓|✓||✓|
+
+</div>
 
 ## ¿Para qué?
 
