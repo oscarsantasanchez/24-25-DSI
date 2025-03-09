@@ -22,16 +22,16 @@ Los sistemas de información son fundamentales en la era actual debido a su capa
 ## ¿Qué?
 
 |||
--|-
-Hardware|Incluye dispositivos físicos como servidores, ordenadores, dispositivos de almacenamiento y otros periféricos que permiten la entrada, el procesamiento, el almacenamiento y la salida de datos.
-Software|*Es la información que suministra el desarrollador al ordenador para que manipule de forma automática la información que suministrará el usuario* — *Brad Cox*
-Datos|Son los elementos básicos que el sistema de información recopila, almacena y procesa. Pueden ser estructurados (como en una base de datos) o no estructurados (como imágenes, vídeos, correos electrónicos, etc.).
-Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.
-Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.
+|-|-|
+|Hardware|Incluye dispositivos físicos como servidores, ordenadores, dispositivos de almacenamiento y otros periféricos que permiten la entrada, el procesamiento, el almacenamiento y la salida de datos.|
+|Software|*Es la información que suministra el desarrollador al ordenador para que manipule de forma automática la información que suministrará el usuario* — *Brad Cox*|
+|Datos|Son los elementos básicos que el sistema de información recopila, almacena y procesa. Pueden ser estructurados (como en una base de datos) o no estructurados (como imágenes, vídeos, correos electrónicos, etc.).|
+|Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.|
+|Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.|
 
-Ej.: [Tu móvil](componentes/04-tuMovil.md) / [Esta clase](componentes/03-unaClase.md) / [**Universidad**](componentes/00-laUniversidad.md) / [Farmacia](componentes/01-unaFarmacia.md) / [Misión Espacial](componentes/02-misionEspacial.md)
+Ej.: [Su móvil](componentes/04-movil.md) / [Esta clase](componentes/03-estaClase.md) / [**Universidad**](componentes/00-laUniversidad.md) / [**Farmacia**](componentes/01-unaFarmacia.md) / [**Misión Espacial**](componentes/02-misionEspacial.md)
 
-
+---
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Ej.: [Tu móvil](componentes/04-tuMovil.md) / [Esta clase](componentes/03-unaCla
 Comprender los componentes de un sistema de información es esencial para saber cómo diseñar, implementar y mantener estos sistemas de manera eficiente, permitiendo a las organizaciones:
 
 ||
--|
+|-|
 |Diseñar e implementar sistemas de información que se adapten a sus necesidades y objetivos específicos.
 |Gestionar y mantener los sistemas de información de manera eficiente, asegurando la seguridad, integridad y disponibilidad de los datos.
 |Tomar decisiones informadas sobre inversiones en tecnología y recursos humanos.

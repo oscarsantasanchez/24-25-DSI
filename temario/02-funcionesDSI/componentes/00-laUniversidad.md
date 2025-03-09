@@ -28,7 +28,7 @@ Identificar:
 ## ¿Para qué?
 
 |||Abordando...|
-|----------|-------------|--------------------------------|
+|-|-|-|
 |Seguridad y responsabilidad legal | Definir qué elementos pertenecen al SI determina el perímetro de seguridad que debe protegerse y establece las responsabilidades legales sobre datos personales, propiedad intelectual y cumplimiento normativo. | • Vulnerabilidades de seguridad<br>• Fronteras difusas<br>• Incumplimiento normativo |
 |Planificación de recursos | Permite identificar correctamente dónde invertir presupuesto, personal y esfuerzos de mantenimiento, evitando destinar recursos a elementos que no son responsabilidad institucional. | • Ineficiencia en inversiones<br>• Complejidad organizativa<br>• Barreras a la innovación |
 |Gestión de riesgos | Facilita identificar vulnerabilidades y amenazas potenciales en los componentes del sistema, permitiendo implementar controles adecuados donde realmente corresponde. | • Vulnerabilidades de seguridad<br>• Discontinuidad de servicios |
