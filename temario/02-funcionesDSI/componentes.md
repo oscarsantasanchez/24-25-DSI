@@ -29,7 +29,7 @@ Datos|Son los elementos básicos que el sistema de información recopila, almace
 Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.
 Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.
 
-Ej.: [Tu móvil](t02-03-00-s04-tuMovil.md) / [Esta clase](t02-03-00-s03-unaClase.md) / [Universidad](t02-03-00-s00-laUniversidad.md) / [Farmacia](t02-03-00-s01-unaFarmacia.md) / [Misión Espacial](t02-03-00-s02-misionEspacial.md)
+Ej.: [Tu móvil](componentes/04-tuMovil.md) / [Esta clase](componentes/03-unaClase.md) / [**Universidad**](componentes/00-laUniversidad.md) / [Farmacia](componentes/01-unaFarmacia.md) / [Misión Espacial](componentes/02-misionEspacial.md)
 
 
 
