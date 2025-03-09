@@ -1,6 +1,6 @@
 # La universidad - Componentes de su sistema de información
 
-## Lo obvios
+## Lo obvio
 
 ### Hardware
 
@@ -60,11 +60,11 @@
     <details>
         <summary>Portátil personal de un profesor con software institucional</summary>
 
-    El dispositivo es privado pero contiene elementos (software, datos) institucionales y se usa para funciones oficiales
+El dispositivo es privado pero contiene elementos (software, datos) institucionales y se usa para funciones oficiales
 
-    ***¿Pertenece?*** Parcialmente
+- ***¿Pertenece?*** Parcialmente
 
-    ***Justificación*** No forma parte del hardware del SI, pero el software institucional y los datos académicos que contiene sí pertenecen al SI. Existe una responsabilidad compartida donde la universidad gestiona las aplicaciones pero no el dispositivo.
+- ***Justificación*** No forma parte del hardware del SI, pero el software institucional y los datos académicos que contiene sí pertenecen al SI. Existe una responsabilidad compartida donde la universidad gestiona las aplicaciones pero no el dispositivo.
     </details>
 </li>
 <li>Servicios cloud (Microsoft 365, Google Workspace)</li>
