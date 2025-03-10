@@ -53,43 +53,43 @@ Identificar:
 
 #### Software
 
-- Sistema de gestión farmacéutica (Farmatic, Nixfarma, etc.)
-- Software de conexión con receta electrónica
-- Bases de datos de medicamentos (Bot Plus, Vademécum, etc.)
-- Herramientas de facturación a seguros y mutuas
-- Software de gestión de proveedores y pedidos
-- Aplicaciones de análisis financiero y contabilidad
-- Plataformas de comunicación con pacientes y/o venta online
+- Sistema de gestión farmacéutica ([Farmatic](https://www2.consoft.es/farmatic/), [Nixfarma](https://www.nixfarma.es/), etc.)
+- Software de conexión con receta electrónica.
+- Bases de datos de medicamentos ([Bot Plus](https://botplusweb.farmaceuticos.com/), [Vademécum](https://www.vademecum.es/), etc.)
+- Herramientas de facturación a seguros y mutuas.
+- Software de gestión de proveedores y pedidos.
+- Aplicaciones de análisis financiero y contabilidad.
+- Plataformas de comunicación con pacientes y/o venta online.
 
 #### Datos
 
-- Fichas de pacientes y su historial farmacoterapéutico
-- Inventario actualizado de medicamentos y productos sanitarios
-- Registros de dispensaciones, sustituciones y contingencias
-- Información sobre prescripciones médicas y receta electrónica
-- Catálogo y fichas técnicas de productos
-- Datos contables, facturas y comprobantes
-- Alertas sanitarias y notificaciones de desabastecimientos
+- Fichas de pacientes y su historial farmacoterapéutico.
+- Inventario actualizado de medicamentos y productos sanitarios.
+- Registros de dispensaciones, sustituciones y contingencias.
+- Información sobre prescripciones médicas y receta electrónica.
+- Catálogo y fichas técnicas de productos.
+- Datos contables, facturas y comprobantes.
+- Alertas sanitarias y notificaciones de desabastecimientos.
 
 #### Procedimientos
 
-- Protocolos de dispensación y sustitución de medicamentos
-- Procedimientos de atención farmacéutica y seguimiento
-- Procesos de recepción, almacenamiento y control de caducidades
-- Gestión de estupefacientes y medicamentos especiales
-- Protocolos de farmacovigilancia y notificación de reacciones adversas
-- Procedimientos de conciliación y facturación a aseguradoras
-- Gestión de pedidos y devoluciones a proveedores
+- Protocolos de dispensación y sustitución de medicamentos.
+- Procedimientos de atención farmacéutica y seguimiento.
+- Procesos de recepción, almacenamiento y control de caducidades.
+- Gestión de estupefacientes y medicamentos especiales.
+- Protocolos de farmacovigilancia y notificación de reacciones adversas.
+- Procedimientos de conciliación y facturación a aseguradoras.
+- Gestión de pedidos y devoluciones a proveedores.
 
 #### Usuarios
 
-- Farmacéuticos titulares y adjuntos
-- Técnicos en farmacia y auxiliares
-- Pacientes y cuidadores
-- Médicos prescriptores
-- Distribuidores farmacéuticos y laboratorios
-- Administración sanitaria y colegios profesionales
-- Mutuas y aseguradoras
+- Farmacéuticos titulares y adjuntos.
+- Técnicos en farmacia y auxiliares.
+- Pacientes y cuidadores.
+- Médicos prescriptores.
+- Distribuidores farmacéuticos y laboratorios.
+- Administración sanitaria y colegios profesionales.
+- Mutuas y aseguradoras.
 
 ### Los casos límite
 

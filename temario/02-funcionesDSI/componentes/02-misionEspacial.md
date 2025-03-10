@@ -43,53 +43,53 @@ Identificar:
 
 #### Hardware
 
-- Computadoras de vuelo con redundancia múltiple
-- Sistemas de comunicaciones (antenas, transmisores/receptores)
-- Instrumentos científicos y sensores especializados
-- Dispositivos de almacenamiento de datos endurecidos contra radiación
-- Sistemas de energía (paneles solares, RTGs, baterías)
-- Infraestructura terrestre (estaciones de seguimiento, centros de control)
-- Equipos de soporte vital (en misiones tripuladas)
+- Computadoras de vuelo con redundancia múltiple.
+- Sistemas de comunicaciones (antenas, transmisores/receptores).
+- Instrumentos científicos y sensores especializados.
+- Dispositivos de almacenamiento de datos endurecidos contra radiación.
+- Sistemas de energía (paneles solares, RTGs, baterías).
+- Infraestructura terrestre (estaciones de seguimiento, centros de control).
+- Equipos de soporte vital (en misiones tripuladas).
 
 #### Software
 
-- Sistema operativo de tiempo real para computadoras de vuelo
-- Software de control de actitud y navegación
-- Sistemas de telemetría y comando
-- Software de control de instrumentos científicos
-- Algoritmos de detección y corrección de fallos
-- Software de planificación y secuenciación de actividades
-- Sistemas de procesamiento y análisis de datos científicos
+- Sistema operativo de tiempo real para computadoras de vuelo.
+- Software de control de actitud y navegación.
+- Sistemas de telemetría y comando.
+- Software de control de instrumentos científicos.
+- Algoritmos de detección y corrección de fallos.
+- Software de planificación y secuenciación de actividades.
+- Sistemas de procesamiento y análisis de datos científicos.
 
 #### Datos
 
-- Telemetría de estado del sistema (temperaturas, voltajes, orientación)
-- Datos de navegación y posicionamiento
-- Información científica recopilada por los instrumentos
-- Comandos y secuencias de operaciones
-- Modelos de referencia y parámetros de calibración
-- Registros históricos de operaciones y anomalías
-- Planificaciones y cronogramas de actividades
+- Telemetría de estado del sistema (temperaturas, voltajes, orientación).
+- Datos de navegación y posicionamiento.
+- Información científica recopilada por los instrumentos.
+- Comandos y secuencias de operaciones.
+- Modelos de referencia y parámetros de calibración.
+- Registros históricos de operaciones y anomalías.
+- Planificaciones y cronogramas de actividades.
 
 #### Procedimientos
 
-- Protocolos de lanzamiento y despliegue inicial
-- Procedimientos de operaciones nominales
-- Protocolos de respuesta a anomalías y emergencias
-- Procesos de validación y distribución de comandos
-- Procedimientos de calibración de instrumentos
-- Protocolos de comunicación entre equipos
-- Procesos de validación y distribución de datos científicos
+- Protocolos de lanzamiento y despliegue inicial.
+- Procedimientos de operaciones nominales.
+- Protocolos de respuesta a anomalías y emergencias.
+- Procesos de validación y distribución de comandos.
+- Procedimientos de calibración de instrumentos.
+- Protocolos de comunicación entre equipos.
+- Procesos de validación y distribución de datos científicos.
 
 #### Usuarios
 
-- Controladores de vuelo y operadores de sistemas
-- Científicos de la misión e investigadores
-- Ingenieros de sistemas y subsistemas
-- Planificadores de actividades
-- Directores y gestores de la misión
-- Astronautas o tripulación (en misiones tripuladas)
-- Agencias espaciales y organizaciones colaboradoras
+- Controladores de vuelo y operadores de sistemas.
+- Científicos de la misión e investigadores.
+- Ingenieros de sistemas y subsistemas.
+- Planificadores de actividades.
+- Directores y gestores de la misión.
+- Astronautas o tripulación (en misiones tripuladas).
+- Agencias espaciales y organizaciones colaboradoras.
 
 ### Los casos límite
 
