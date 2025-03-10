@@ -67,6 +67,7 @@ Para desarrollar e implementar un sistema de información eficiente, una organiz
 * [**Universidad**](componentes/00-laUniversidad.md)
 * [**Farmacia**](componentes/01-unaFarmacia.md)
 * [**Misión Espacial**](componentes/02-misionEspacial.md)
+* [**Un hormiguero**](componentes/zz-hormigas.md)
 
 
 ## A tener en cuenta
