@@ -29,13 +29,14 @@ Los sistemas de información son fundamentales en la era actual debido a su capa
 |Procedimientos|Son las instrucciones y reglas que guían el uso y funcionamiento del sistema de información. Los procedimientos pueden incluir políticas de seguridad, procesos de respaldo, protocolos de acceso y otros.|
 |Usuarios|Son las personas que interactúan con el sistema de información para realizar sus tareas y tomar decisiones. Los usuarios pueden ser empleados, clientes, proveedores u otras partes interesadas.|
 
-Ej.: [Su móvil](componentes/04-movil.md) / [Esta clase](componentes/03-estaClase.md) / [**Universidad**](componentes/00-laUniversidad.md) / [**Farmacia**](componentes/01-unaFarmacia.md) / [**Misión Espacial**](componentes/02-misionEspacial.md)
-
 ---
 
 <div align="center">
 
-![](/images/modelosUML/modelosUML/componentesSI.svg)
+
+|![](/images/modelosUML/modelosUML/componentesSI.svg)|![](/images/temario/modelosUML/componentesSI.svg)|
+|-|-|
+| | |
 
 </div>
 
@@ -58,6 +59,15 @@ Para desarrollar e implementar un sistema de información eficiente, una organiz
 * Seleccionar y adquirir el hardware y software adecuados para soportar las funciones y procesos del SI.
 * Diseñar y estructurar los datos de manera que se puedan almacenar, procesar y analizar de manera eficiente.
 * Establecer procedimientos y políticas para garantizar el uso adecuado, la seguridad y la privacidad de los datos.
+
+### Ejemplos
+
+* [Su móvil](componentes/04-movil.md)
+* [Esta clase](componentes/03-estaClase.md)
+* [**Universidad**](componentes/00-laUniversidad.md)
+* [**Farmacia**](componentes/01-unaFarmacia.md)
+* [**Misión Espacial**](componentes/02-misionEspacial.md)
+
 
 ## A tener en cuenta
 

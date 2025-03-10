@@ -1,0 +1,63 @@
+@startuml
+
+' Definiciones de estilo
+skinparam rectangle {
+  BackgroundColor<<Físico>> PaleGreen
+  BorderColor<<Físico>> DarkGreen
+  BackgroundColor<<Lógico>> LightBlue
+  BorderColor<<Lógico>> Blue
+  BackgroundColor<<Humano>> LightYellow
+  BorderColor<<Humano>> Orange
+  BackgroundColor<<Proceso>> MistyRose
+  BorderColor<<Proceso>> Maroon
+  BorderThickness 2
+  RoundCorner 15
+}
+
+' Definición de componentes principales
+rectangle "Sistema de Información" as SI {
+  rectangle "Hardware" as HW <<Físico>> 
+  rectangle "Software" as SW <<Lógico>>
+  rectangle "Datos" as DAT <<Lógico>>
+  rectangle "Procedimientos" as PROC <<Proceso>>
+  rectangle "Usuarios" as USR <<Humano>>
+  
+  ' Componente central de información
+  rectangle "Información" as INFO <<Lógico>> {
+    rectangle "Recopilación" as RECOP
+    rectangle "Procesamiento" as PROCESS
+    rectangle "Almacenamiento" as ALMAC
+    rectangle "Análisis" as ANAL
+    rectangle "Distribución" as DIST
+  }
+}
+
+' Definición de relaciones
+HW --> SW : soporta >
+SW --> HW : < controla
+DAT --> SW : utilizado por >
+SW --> DAT : < gestiona
+USR --> SW : interactúa con >
+SW --> USR : < presenta información a
+USR <--> PROC : sigue/define
+PROC --> SW : configuran >
+PROC --> DAT : determinan acceso a >
+
+' Ciclo de la información
+DAT --> RECOP
+RECOP -r-> PROCESS
+PROCESS -r-> ALMAC
+ALMAC -d-> ANAL
+ANAL -l-> DIST
+DIST -l-> USR
+USR --> DAT : proporciona nuevos >
+
+' Sistema como entidad que engloba todo
+rectangle "Sistema Complejo" as SCOMP
+SCOMP <|-- SI : es un tipo de
+
+' Jerarquía de sistemas
+rectangle "Sistema" as SIST
+SIST <|-- SCOMP : es un tipo de
+
+@enduml
