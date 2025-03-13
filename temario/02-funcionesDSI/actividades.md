@@ -1,15 +1,9 @@
 # Actividades de la DSI
 
-<div align=center>
+<div align=right>
 
-<sub>
-
-|[Funciones DSI](README.md)|||||||||
-|-|-|-|-|-|-|-|-|-|
-|[Su definición](definicion.md)|>>|[Su evolución](evolucion.md)|>>|[Su composición](componentes.md)|>>|[Cómo se organizan](organizacion.md)|>>|**[Qué actividades abarca](actividades.md)**
-|||||||[Qué hace](elDirector.md)
-
-</sub>
+<sub>[Funciones DSI](README.md): [Definición](definicion.md) >> [Evolución](evolucion.md) >> [Composición](componentes.md) >> [Cómo se organizan](organizacion.md) >> [**Qué actividades abarca**](actividades.md)<br>
+[Qué hace](elDirector.md)</sub>
 
 </div>
 
