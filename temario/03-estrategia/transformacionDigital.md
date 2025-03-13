@@ -1,4 +1,4 @@
-# Transformación Digital
+# Transformación digital
 
 ## ¿Por qué?
 
