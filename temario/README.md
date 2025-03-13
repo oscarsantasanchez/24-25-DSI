@@ -18,11 +18,14 @@
 
 ## [Funciones de la dirección de sistemas de información](/temario/02-funcionesDSI/README.md)
 
-- [x] [Definición de SI en las organizaciones](/temario/02-funcionesDSI/definicion.md)
-- [x] [Evolución histórica](/temario/02-funcionesDSI/evolucion.md)
-- [x] [Componentes](/temario/02-funcionesDSI/componentes.md)
-- [x] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md): Funciones / Conocimiento
-- [x] [Actividades de la DSI](/temario/02-funcionesDSI/actividades.md)
+<div align=center>
+
+|Conociendo|||||||||
+|-|-|-|-|-|-|-|-|-|
+|[Su definición](/temario/02-funcionesDSI/definicion.md)|>>|[Su evolución](/temario/02-funcionesDSI/evolucion.md)|>>|[Su composición](/temario/02-funcionesDSI/componentes.md)|>>|[Cómo se organizan](/temario/02-funcionesDSI/organizacion.md)|>>|[Qué  actividades abarca](/temario/02-funcionesDSI/actividades.md)
+|||||||[Qué hace](/temario/02-funcionesDSI/elDirector.md)
+
+</div>
 
 ## [Estrategia y planificación de los sistemas de información](/temario/03-estrategia/README.md)
 
