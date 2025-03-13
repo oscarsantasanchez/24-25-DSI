@@ -12,7 +12,7 @@ La transformación digital ha pasado de ser una opción a convertirse en un impe
 |Kodak|Netflix|
 |-|-|
 |Ignoró la transición hacia lo digital en fotografía, pasando de líder de mercado a declararse en bancarrota en 2012.|Evolucionó de enviar DVDs por correo a convertirse en la plataforma de streaming global dominante y productor de contenido original.|
-|**Blockbuster**|**Amazon**|
+|<div align=center>**Blockbuster**|<div align=center>**Amazon**|
 |Rechazó la oportunidad de adquirir Netflix por $50 millones en 2000, manteniendo su modelo de tiendas físicas.|Pasó de ser una librería online a convertirse en un ecosistema digital completo que abarca retail, cloud computing, entretenimiento y dispositivos inteligentes.|
 
 En este contexto, entender y ejecutar la transformación digital no resulta ya solo una ventaja competitiva, sino que se convierte en un imperativo de supervivencia empresarial.
