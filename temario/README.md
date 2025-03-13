@@ -24,14 +24,13 @@
 - [x] [Personas: como nos organizamos](/temario/02-funcionesDSI/organizacion.md): Funciones / Conocimiento
 - [x] [Actividades de la DSI](/temario/02-funcionesDSI/actividades.md)
 
-## Estrategia y planificación de los sistemas de información
+## [Estrategia y planificación de los sistemas de información](/temario/03-estrategia/README.md)
 
-- [ ] Transformación digital
-- [ ] Etapas
-- [ ] Planificación de las TI
-- [ ] Frameworks de arquitectura empresarial
-- [ ] El capital humano de TI
-- [ ] Ciberseguridad
+|Contextualización|Metodología|Arquitectura|Aspectos organizacionales|Aspectos técnicos y de control|
+|-|-|-|-|-|
+|[Transformación digital](03-estrategia/transformacionDigital.md)<br>Entendiendo el imperativo de cambio en la era digital|[Etapas](03-estrategia/etapas.md): Fases en el proceso de transformación digital|[Frameworks](03-estrategia/frameworks.md): Introducción a los marcos de trabajo para SI|[El capital humano y su gestión](03-estrategia/gestionCapitalHumano.md)<br>Las personas en el proceso|[Ciberseguridad](03-estrategia/ciberseguridad.md): Protección de activos de información|
+|[Evolución histórica](03-estrategia/evolucion.md)<br>Cómo han evolucionado las metodologías de planificación de SI a lo largo del tiempo|[Planificación](03-estrategia/planificacion.md): Métodos y prácticas para planificar efectivamente los SI|[Frameworks de arquitectura empresarial](03-estrategia/frameworksArquitecturaEmpresarial.md): Aplicados a toda la organización<br>· [TOGAF](03-estrategia/togaf.md)<br>· [Zachman](03-estrategia/zachman.md)<br>· [FEA](03-estrategia/fea.md)|[La organización: usuarios-clientes](03-estrategia/organizacion.md)|[Evaluación y control de proyectos](03-estrategia/evaluacionProyectos.md)|
+||||[El rol del CIO](03-estrategia/rolDelCIO.md)
 
 ## Gestión de proyectos de integración de sistemas
 
