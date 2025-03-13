@@ -3,7 +3,7 @@
 
 # Algunos marcos de trabajo
 
-> <small>*INT: Análisis interno / EXT: Análisis externo / AG: Análisis general / MP: Mercado y producto / TI: Tecnologías de la información / GE: Gestión y evaluación*</small>
+> <sub>*INT: Análisis interno / EXT: Análisis externo / AG: Análisis general / MP: Mercado y producto / TI: Tecnologías de la información / GE: Gestión y evaluación*</sub>
 
 |Nombre|Otros nombres|Descripción|INT|EXT|AG|MP|TI|GE|
 |-|-|-|:-:|:-:|:-:|:-:|:-:|:-:|
