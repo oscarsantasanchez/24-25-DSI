@@ -30,3 +30,12 @@
 - Marcos de trabajo: por qué surgen, qué buscan.
 - Algunos marcos de trabajo y su naturaleza.
 - Limitaciones en la naturaleza de los marcos como herramientas y limitaciones (o anti-patrones) en la aplicación de los mismos a una realidad empresarial.
+
+10 mar
+
+- La definición de Sistema de Información como conjunto de elementos orientados al tratamiento y administración de datos.
+- Los componentes fundamentales de los Sistemas de Información: hardware, software, datos, procedimientos y usuarios.
+- La evolución del rol de la Dirección de Sistemas de Información en las organizaciones: de área técnica a componente estratégico.
+- La figura del CIO (Director de Sistemas de Información) y sus responsabilidades en la P.O.D.C. de la estrategia tecnológica.
+- La organización jerárquica de los departamentos de TI y las categorías profesionales en los ámbitos de Desarrollo, Operaciones y Negocio.
+- La alineación estratégica entre tecnología y objetivos de negocio como función crítica de la DSI moderna.
