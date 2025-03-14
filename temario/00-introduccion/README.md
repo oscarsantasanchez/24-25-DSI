@@ -253,3 +253,12 @@ La dirección en el contexto actual implica la capacidad de gestionar sistemas s
 |-|-|
 |**Estratégica**|Plan de estudios / Competencias / Resultados de aprendizaje|
 |**Ejecutiva**|Temario / Sesiones híbridas / Evaluación continua y por proyectos|
+
+---
+
+<div align=center>
+
+|![](/images/temario/modelosUML/diagrama_cap1.svg)|![](/images/temario/modelosUML/diagrama_cap2.svg)|![](/images/temario/modelosUML/diagrama_cap3.svg)|![](/images/temario/modelosUML/diagrama_cap4.svg)
+|-|-|-|-|
+
+</div>

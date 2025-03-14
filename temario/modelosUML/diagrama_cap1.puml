@@ -1,0 +1,56 @@
+@startuml
+
+title Dirección de Sistemas de Información - Introducción
+
+' Definición principal del área
+package "00-Introducción" as introduccion {
+    class "Contexto Actual" as contexto {
+        + 5.35B usuarios de internet
+        + 66.2% penetración global
+        + $2.8T inversión en transformación digital
+    }
+    
+    class "Sistema de Información" as sistemaInfo {
+        + Conjunto de elementos orientados al tratamiento de datos
+        + Administración de información
+        + Capacidad de procesamiento autónomo
+        + Toma de decisiones asistida
+    }
+    
+    class "Dirección" as direccion {
+        + Gestión de sistemas socio-técnicos
+        + Integración de personas, tecnología y procesos
+        + Adaptación al cambio constante
+    }
+    
+    class "Desafíos" as desafios {
+        + Complejidad organizacional
+        + Impacto económico
+        + Desafíos éticos
+        + Velocidad de cambio tecnológico
+    }
+    
+    class "Objetivos" as objetivos {
+        + Competencias directivas para era digital
+        + Gestión de TI tradicionales y emergentes
+        + Innovación ética y sostenible
+        + Análisis de impacto de tecnologías
+    }
+}
+
+' Relaciones internas
+contexto -- sistemaInfo : fundamenta
+sistemaInfo -- direccion : requiere
+desafios -- direccion : motiva
+direccion -- objetivos : persigue
+
+' Relación con capítulos siguientes
+package "Próximos temas" as siguientes {
+    class "Modelos de Negocio e Innovación" as modelos
+    class "Funciones DSI" as funciones
+    class "Estrategia y Planificación" as estrategia
+}
+
+introduccion -down-> siguientes : conduce a
+
+@enduml

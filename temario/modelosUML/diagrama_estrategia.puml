@@ -1,0 +1,90 @@
+@startuml Estrategia_DSI
+
+' Definición de estilos
+skinparam packageStyle rectangle
+skinparam backgroundColor white
+skinparam classBorderColor #6c8ebf
+skinparam packageBorderColor #6c8ebf
+skinparam arrowColor #6c8ebf
+skinparam classFontSize 14
+skinparam titleFontSize 20
+
+title Dirección de Sistemas de Información - Estrategia
+
+' Definición principal del área
+package "03-Estrategia" as estrategia {
+    class "Planificación de SI" as planificacion {
+        + Alineación con negocio
+        + Gestión del cambio
+        + Análisis de necesidades
+    }
+    
+    class "Transformación Digital" as transformacion {
+        + Nuevos modelos de negocio
+        + Automatización
+        + Digitalización
+        + Análisis de datos
+    }
+    
+    class "Frameworks" as frameworks {
+        + TOGAF
+        + COBIT
+        + ITIL
+        + PMBOK
+    }
+    
+    class "Evolución Histórica" as evolucion {
+        + Orientada a datos (1960s)
+        + Orientada a MIS (1970s)
+        + Estratégica (1980s)
+        + Ventaja competitiva (1990s)
+        + Transformación digital (Actual)
+    }
+    
+    class "Etapas de Transformación" as etapas {
+        + Digitalización
+        + Tecnocentrismo
+        + Centrado en Cliente
+        + Holística
+    }
+    
+    class "Gestión de Capital Humano" as capitalHumano {
+        + Competencias digitales
+        + Nuevas habilidades
+        + Liderazgo
+    }
+}
+
+' Contexto previo
+package "Contexto Previo" as contexto {
+    class "Introducción DSI" as intro
+    class "Modelos de Negocio" as modelos
+    class "Funciones DSI" as funciones
+}
+
+' Fases futuras
+package "Gestión Posterior" as gestion {
+    class "Gestión de Proyectos" as proyectos
+    class "Gestión de Operaciones" as operaciones
+    class "Gestión de Servicios" as servicios
+}
+
+' Relaciones entre componentes de estrategia
+planificacion -- transformacion
+planificacion -- frameworks
+transformacion -- etapas
+evolucion -- transformacion
+capitalHumano -- transformacion
+
+' Relaciones con contexto previo
+contexto -down-> estrategia : proporciona fundamentos
+modelos -down-> planificacion : influye
+funciones -down-> estrategia : define
+
+' Relaciones con fases posteriores
+estrategia -down-> gestion : guía
+planificacion -down-> proyectos : orienta
+frameworks -down-> servicios : estandariza
+transformacion -down-> operaciones : transforma
+
+@enduml
