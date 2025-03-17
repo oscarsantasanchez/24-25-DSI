@@ -30,18 +30,6 @@ Va mucho más allá de una simple digitalización de procesos o implementación 
 |Mejora lo existente|Crea nuevas posibilidades|
 |Proyecto técnico|Iniciativa estratégica|
 
-Los principales componentes de la transformación digital incluyen:
-
-|Tecnología|Proceso|Adopción|
-|-|-|-|
-|**[Tecnologías habilitadoras](componentes/tecnologiasHabilitadoras.md)**|**Rediseño de procesos y experiencias**|**Cambio cultural y organizativo**|
-|Computación en la nube|Optimización end-to-end de procesos|Adopción de metodologías ágiles|
-|Inteligencia artificial y machine learning|Personalización de experiencias del cliente|Fomento de la experimentación y tolerancia al fracaso|
-|Internet de las cosas (IoT)|Automatización y self-service|Trabajo colaborativo y multidisciplinar|
-|Big data y analytics|Innovación en productos y servicios|Toma de decisiones basada en datos|
-|Blockchain|
-|Realidad aumentada/virtual|
-
 ## ¿Para qué?
 
 La transformación digital, cuando se implementa efectivamente, genera múltiples beneficios:
@@ -57,6 +45,18 @@ La transformación digital, cuando se implementa efectivamente, genera múltiple
 Según McKinsey, las empresas que han abordado la transformación digital de manera integral han visto aumentos de hasta 30% en la satisfacción del cliente, 30-50% en reducción de costos operativos y 20-30% en incremento de ingresos de nuevos productos digitales.
 
 ## ¿Cómo?
+
+Los principales componentes de la transformación digital incluyen:
+
+|Tecnología|Proceso|Adopción|
+|-|-|-|
+|**[Tecnologías habilitadoras](componentes/tecnologiasHabilitadoras.md)**|**Rediseño de procesos y experiencias**|**Cambio cultural y organizativo**|
+|Computación en la nube|Optimización end-to-end de procesos|Adopción de metodologías ágiles|
+|Inteligencia artificial y machine learning|Personalización de experiencias del cliente|Fomento de la experimentación y tolerancia al fracaso|
+|Internet de las cosas (IoT)|Automatización y self-service|Trabajo colaborativo y multidisciplinar|
+|Big data y analytics|Innovación en productos y servicios|Toma de decisiones basada en datos|
+|Blockchain|
+|Realidad aumentada/virtual|
 
 La transformación digital requiere un enfoque práctico y sistemático:
 
