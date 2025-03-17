@@ -50,7 +50,7 @@ Los principales componentes de la transformación digital incluyen:
 
 |Tecnología|Proceso|Adopción|
 |-|-|-|
-|**[Tecnologías habilitadoras](componentes/tecnologiasHabilitadoras.md)**|**Rediseño de procesos y experiencias**|**Cambio cultural y organizativo**|
+|**[Tecnologías habilitadoras](componentes/tecnologiasHabilitadoras.md)**|**[Rediseño de procesos y experiencias](componentes/redisenoProcesos.md)**|**Cambio cultural y organizativo**|
 |Computación en la nube|Optimización end-to-end de procesos|Adopción de metodologías ágiles|
 |Inteligencia artificial y machine learning|Personalización de experiencias del cliente|Fomento de la experimentación y tolerancia al fracaso|
 |Internet de las cosas (IoT)|Automatización y self-service|Trabajo colaborativo y multidisciplinar|
