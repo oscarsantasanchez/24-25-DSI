@@ -65,6 +65,18 @@ Una planificación efectiva de sistemas de información proporciona múltiples b
 
 ### Proceso integral de planificación
 
+El proceso de planificación de SI puede estructurarse según las funciones directivas clásicas:
+
+<div align=center>
+
+|Función directiva|Fases del proceso de planificación|Propósito|
+|-|-|-|
+|**PLANIFICAR**|1. Alineación estratégica<br>2. Evaluación de la situación actual|Establecer dirección y comprender el punto de partida|
+|**ORGANIZAR**|3. Diseño del estado objetivo<br>4. Desarrollo del portafolio de proyectos<br>5. Planificación de la implementación|Estructurar recursos y acciones para alcanzar los objetivos|
+|**DIRIGIR y CONTROLAR**|6. Establecimiento de mecanismos de gobierno|Guiar la ejecución y asegurar el cumplimiento de lo planificado|
+
+</div>
+
 #### 1. Alineación estratégica
 
 - **Análisis del plan estratégico corporativo**: Comprensión profunda de objetivos, iniciativas y dirección organizacional.
