@@ -38,7 +38,7 @@ El rediseño de procesos y experiencias, cuando se implementa efectivamente, gen
 
 ## ¿Cómo?
 
-El rediseño efectivo de procesos y experiencias requiere un enfoque metodológico que combine aspectos técnicos, organizacionales y centrados en el usuario:
+El rediseño efectivo de procesos y experiencias requiere un enfoque metodológico que combine aspectos técnicos, organizacionales y centrados en el usuario. Este enfoque se beneficia enormemente de la aplicación de [principios y metodologías de innovación](innovacionYRediseno.md), que proporcionan el marco conceptual para reimaginar procesos desde una perspectiva transformadora y no meramente incremental.
 
 ### Pasos
 
