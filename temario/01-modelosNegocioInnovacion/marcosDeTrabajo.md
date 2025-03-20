@@ -68,6 +68,27 @@ Ayudan a tomar decisiones|Al proporcionar una perspectiva estructurada y sistem�
 
 ### [Algunos marcos de trabajo](marcosDeTrabajoVademecum.md)
 
+### El ciclo directivo como meta-marco integrador
+
+Más allá de los marcos específicos que se utilizan para modelar y analizar diferentes aspectos del negocio, existe un meta-marco fundamental que vertebra cualquier actividad directiva, incluida la gestión de sistemas de información:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+Este ciclo directivo clásico actúa como estructura integradora para cualquier marco de trabajo:
+
+|Fase del ciclo|Aplicación en marcos de trabajo|Preguntas clave|
+|-|-|-|
+|**PLANIFICAR**|Definición de objetivos, análisis de situación y establecimiento de estrategias|¿Qué queremos lograr con este marco? ¿Qué información necesitamos recopilar?|
+|**ORGANIZAR**|Estructuración de recursos, roles y responsabilidades para implementar el marco|¿Quién aplicará el marco? ¿Qué recursos necesitamos? ¿Cómo estructuramos el proceso?|
+|**DIRIGIR**|Liderazgo del proceso de aplicación, comunicación y motivación|¿Cómo conducimos el proceso? ¿Cómo aseguramos la participación efectiva?|
+|**CONTROLAR**|Seguimiento, evaluación y ajuste en la aplicación del marco|¿Estamos obteniendo los resultados esperados? ¿Qué ajustes debemos realizar?|
+
+La efectividad de cualquier marco de trabajo (Canvas, DAFO, Cinco Fuerzas, etc.) depende en gran medida de cómo se ejecute este ciclo directivo. Un excelente marco conceptual mal planificado, organizado, dirigido o controlado tendrá resultados deficientes. Por el contrario, la aplicación disciplinada del ciclo PODC puede potenciar incluso los marcos más sencillos.
+
 ### Conceptos recurrentes en estas herramientas
 
 No todos, no en todas, no todos conocidos. 

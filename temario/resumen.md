@@ -2,6 +2,16 @@
 
 Si estás leyendo esto, ***¡eureka!*** Aquí se presenta un hilo conductor de la asignatura, el repaso que hacemos al inicio de cada clase, buscando la interconexión entre todos los temas y proporcionando un marco conceptual para entender la dirección de sistemas de información como lo que debería ser: una disciplina integrada.
 
+A lo largo de este recorrido, verás cómo prácticamente toda la actividad directiva en sistemas de información puede comprenderse a través de cuatro funciones fundamentales:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+Este ciclo, presente en todas las disciplinas de gestión, adquiere características específicas en los sistemas de información, pero su esencia es invariable: definir objetivos, estructurar recursos, guiar la ejecución y verificar resultados. A medida que avanzamos en los distintos temas, observarás cómo cada concepto, metodología o herramienta encaja en alguna de estas cuatro funciones directivas esenciales.
+
 ## Fundamentos y contextualización
 
 Comenzamos estableciendo las **[bases conceptuales](00-introduccion/README.md)** de la asignatura. Este marco inicial es esencial para comprender el enfoque pedagógico y los objetivos formativos.

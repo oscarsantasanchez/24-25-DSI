@@ -55,6 +55,25 @@ El rol estratégico del CIO genera valor organizacional distintivo en:
 
 ## ¿Cómo?
 
+### El ciclo directivo en la función del CIO
+
+El rol estratégico del CIO puede estructurarse según el ciclo directivo fundamental, proporcionando un marco integral para cumplir efectivamente sus responsabilidades:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+|Función directiva|Responsabilidades del CIO|Competencias clave|
+|-|-|-|
+|**PLANIFICAR**|• Desarrollar estrategia tecnológica alineada con objetivos de negocio<br>• Identificar oportunidades de innovación digital<br>• Anticipar tendencias tecnológicas disruptivas<br>• Elaborar roadmaps y portafolios de inversión|• Visión estratégica<br>• Pensamiento prospectivo<br>• Conocimiento de negocio<br>• Inteligencia de mercado|
+|**ORGANIZAR**|• Diseñar arquitectura empresarial adaptativa<br>• Estructurar equipos y capacidades digitales<br>• Gestionar relaciones con proveedores y partners<br>• Definir marcos de gobierno tecnológico|• Pensamiento arquitectónico<br>• Habilidad organizativa<br>• Gestión de recursos<br>• Visión ecosistémica|
+|**DIRIGIR**|• Liderar iniciativas de transformación digital<br>• Inspirar y desarrollar cultura de innovación<br>• Comunicar valor estratégico de la tecnología<br>• Gestionar el cambio organizacional|• Liderazgo transformacional<br>• Comunicación persuasiva<br>• Influencia ejecutiva<br>• Inteligencia emocional|
+|**CONTROLAR**|• Medir impacto de inversiones tecnológicas<br>• Gestionar riesgos digitales y ciberseguridad<br>• Evaluar madurez digital de la organización<br>• Asegurar cumplimiento regulatorio y ético|• Orientación a resultados<br>• Pensamiento analítico<br>• Gestión del riesgo<br>• Visión holística|
+
+Este marco proporciona al CIO una estructura coherente para abordar sus diversas responsabilidades, asegurando que ninguna dimensión clave sea descuidada en su rol estratégico.
+
 ### Prácticas clave para la efectividad estratégica del CIO
 
 #### 1. Posicionamiento estratégico

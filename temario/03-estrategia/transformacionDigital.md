@@ -46,6 +46,27 @@ Según McKinsey, las empresas que han abordado la transformación digital de man
 
 ## ¿Cómo?
 
+### El ciclo directivo en la transformación digital
+
+La transformación digital, como proceso estratégico, puede estructurarse eficazmente mediante el ciclo directivo fundamental:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+|Función directiva|Aplicación en transformación digital|Resultados clave|
+|-|-|-|
+|**PLANIFICAR**|• Desarrollar visión y estrategia digital<br>• Evaluar madurez digital actual<br>• Identificar oportunidades prioritarias<br>• Establecer objetivos de transformación|• Roadmap de transformación digital<br>• Definición de iniciativas estratégicas<br>• Metas y KPIs claros|
+|**ORGANIZAR**|• Estructurar equipos de transformación<br>• Asignar recursos y presupuestos<br>• Desarrollar capacidades digitales<br>• Implementar arquitectura tecnológica|• Modelo operativo digital<br>• Equipos multidisciplinares<br>• Infraestructura tecnológica|
+|**DIRIGIR**|• Liderar el cambio cultural<br>• Comunicar y gestionar expectativas<br>• Fomentar experimentación e innovación<br>• Eliminar barreras organizativas|• Alineación organizacional<br>• Nuevos comportamientos<br>• Adopción de iniciativas digitales|
+|**CONTROLAR**|• Medir resultados contra objetivos<br>• Evaluar impacto de iniciativas<br>• Ajustar prioridades según feedback<br>• Gestionar riesgos digitales|• Procesos de mejora continua<br>• Sistema de medición de impacto<br>• Gestión adaptativa|
+
+Esta estructura proporciona un marco integral que asegura que la transformación digital aborde tanto los aspectos estratégicos y tecnológicos como los humanos y culturales, que son igualmente críticos para el éxito.
+
+### Componentes clave de la transformación digital
+
 Los principales componentes de la transformación digital incluyen:
 
 |Tecnología|Proceso|Adopción|

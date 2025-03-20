@@ -21,16 +21,22 @@ Las actividades de la DSI son la manifestación práctica de sus funciones y rep
 
 ## ¿Qué?
 
-Las principales actividades que desarrolla la Dirección de Sistemas de Información son:
+Las principales actividades que desarrolla la Dirección de Sistemas de Información pueden estructurarse según el ciclo directivo fundamental:
 
-- **Estrategia y planificación** de los sistemas de información.
-- Gestión de proyectos de **integración de sistemas**.
-- Gestión de las operaciones.
-- Gestión del caos y la **innovación**.
-- Seguridad de IT en la empresa: ciberseguridad general.
-- **Gestión de proveedores**.
+<div align=center>
 
-Estas actividades representan los procesos fundamentales que debe ejecutar la DSI para cumplir con su propósito dentro de la organización.
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+|Función directiva|Actividades de la DSI|
+|-|-|
+|**PLANIFICAR**|• **Estrategia y planificación** de los sistemas de información<br>• Definición de roadmaps tecnológicos<br>• Alineación con objetivos de negocio|
+|**ORGANIZAR**|• Gestión de proyectos de **integración de sistemas**<br>• Diseño de arquitectura empresarial<br>• **Gestión de proveedores**<br>• Estructuración de equipos y capacidades|
+|**DIRIGIR**|• Liderazgo de iniciativas tecnológicas<br>• Gestión del cambio organizacional<br>• Gestión del caos y la **innovación**<br>• Desarrollo de cultura digital|
+|**CONTROLAR**|• Gestión de las operaciones<br>• Seguridad de IT en la empresa: ciberseguridad general<br>• Monitorización de KPIs tecnológicos<br>• Gestión de riesgos y cumplimiento|
+
+Este marco proporciona una estructura lógica para entender cómo las diversas actividades de la DSI se interrelacionan y se complementan mutuamente para formar un ciclo completo de gestión.
 
 ## ¿Para qué?
 

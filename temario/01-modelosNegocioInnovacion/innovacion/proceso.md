@@ -5,6 +5,25 @@
 
 La innovación no es un evento único o aislado, sino un proceso sistemático y continuo que puede gestionarse de manera efectiva dentro de la organización. Adoptar una visión de la innovación como proceso permite a las empresas crear estructuras, prácticas y culturas que fomenten la generación constante de ideas y su implementación exitosa.
 
+## El ciclo directivo aplicado a la innovación
+
+El proceso de innovación puede estructurarse y gestionarse eficazmente mediante el ciclo directivo fundamental:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+|Función directiva|Aplicación en innovación|Actividades clave|
+|-|-|-|
+|**PLANIFICAR**|Establecer objetivos y estrategias de innovación|• Definir áreas prioritarias<br>• Establecer metas de innovación<br>• Analizar tendencias y señales del entorno|
+|**ORGANIZAR**|Estructurar recursos y procesos para innovar|• Asignar equipos y presupuestos<br>• Diseñar metodologías y espacios<br>• Establecer canales para captar ideas|
+|**DIRIGIR**|Liderar y motivar la actividad innovadora|• Inspirar y comunicar la visión<br>• Gestionar resistencias al cambio<br>• Fomentar cultura de experimentación|
+|**CONTROLAR**|Evaluar resultados y realizar ajustes|• Medir impacto de innovaciones<br>• Incorporar aprendizajes<br>• Realizar correcciones de rumbo|
+
+La aplicación sistemática de estas cuatro funciones directivas proporciona una estructura robusta que facilita la transición desde la identificación de oportunidades hasta la implementación exitosa de innovaciones en el mercado.
+
 ## Naturaleza iterativa del proceso
 
 Es importante destacar que aunque presentamos el proceso de innovación como una secuencia de fases, en la práctica este proceso raramente es lineal. Se caracteriza por:

@@ -31,6 +31,33 @@ Comprender las etapas de la transformación digital sirve para:
 
 ## ¿Cómo?
 
+### Las etapas y el ciclo directivo
+
+Las etapas de transformación digital pueden estructurarse según el ciclo directivo fundamental, proporcionando un marco para gestionar cada fase del proceso:
+
+<div align=center>
+
+**PLANIFICAR → ORGANIZAR → DIRIGIR → CONTROLAR**
+
+</div>
+
+|Etapa de transformación|Función directiva predominante|Foco principal|
+|-|-|-|
+|**Diagnóstico y visión inicial**|**PLANIFICAR**|Evaluación de madurez digital actual y definición de ambición digital|
+|**Diseño y construcción de capacidades**|**ORGANIZAR**|Desarrollo de infraestructura, talento y procesos necesarios|
+|**Ejecución y aceleración**|**DIRIGIR**|Implementación de iniciativas y gestión del cambio cultural|
+|**Medición y optimización**|**CONTROLAR**|Evaluación de resultados y ajuste continuo del enfoque|
+
+Este ciclo no es estrictamente lineal; en la práctica, las organizaciones avanzan iterativamente, aplicando ciclos completos PODC para cada iniciativa o área de transformación, mientras mantienen un proceso meta de transformación organizacional.
+
+A medida que la organización madura digitalmente, el equilibrio entre las funciones directivas evoluciona:
+
+- En etapas iniciales: Mayor énfasis en PLANIFICAR y ORGANIZAR
+- En etapas intermedias: Mayor énfasis en DIRIGIR
+- En etapas avanzadas: Mayor equilibrio entre las cuatro funciones, con énfasis creciente en CONTROLAR para optimización continua
+
+### Modelos de etapas de transformación digital
+
 Existen varios modelos que describen las etapas de la transformación digital. A continuación se presentan tres enfoques complementarios:
 
 ### Modelo de Carlos Recio et al.
