@@ -1,6 +1,6 @@
 # TOGAF (The open group architecture framework)
 
-> [TOGAF](/documentos/w182.pdf)
+> [TOGAF](/documentos/w182.pdf) / [https://www.opengroup.org/](https://www.opengroup.org/)
 
 ## ¿Por qué?
 
