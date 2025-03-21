@@ -71,7 +71,7 @@ La elección de frameworks adecuados es crítica y debe considerar múltiples fa
 |Framework|Fortalezas|Aplicación ideal|
 |-|-|-|
 |**[TOGAF](togaf.md)**|Método detallado (ADM), repositorio extenso de artefactos, flexibilidad|Organizaciones medianas a grandes con necesidad de aproximación sistemática|
-|**[Zachman](zachman.md)**|Taxonomía completa, visión holística, organización clara|Organizaciones que requieren documentación exhaustiva y clasificación|
+|**[Zachman](zachman.md)**|Taxonomía completa, organización clara|Organizaciones que requieren documentación exhaustiva y clasificación|
 |**[FEAF/FEA](fea.md)**|Enfoque gubernamental, orientación a resultados, modelos de referencia|Organizaciones públicas o con estructuras complejas similares|
 |**Gartner EA**|Pragmatismo, orientación a valor de negocio, agilidad|Organizaciones que buscan resultados rápidos y visibles|
 

@@ -21,6 +21,8 @@ El propósito principal del Zachman Framework es proporcionar una metodología p
 
 ## ¿Cómo?
 
+> [Matriz Zachman](zachmanMatriz.md)
+
 Implementar el Zachman Framework implica un proceso detallado de mapeo y análisis que puede seguir los siguientes pasos:
 
 1. **Identificación de stakeholders y sus necesidades**: Determinar quiénes son los participantes clave y qué necesitan saber o gestionar dentro de la organización.
