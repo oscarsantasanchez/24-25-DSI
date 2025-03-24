@@ -49,19 +49,6 @@ La adopción de frameworks adecuados proporciona beneficios sustanciales a las o
 
 ## ¿Cómo?
 
-### Criterios de selección de frameworks
-
-La elección de frameworks adecuados es crítica y debe considerar múltiples factores:
-
-- **Alineación con objetivos de negocio**: Compatibilidad con la estrategia y prioridades organizacionales.
-- **Madurez organizacional**: Correspondencia entre la sofisticación del framework y las capacidades existentes.
-- **Recursos disponibles**: Viabilidad de implementación considerando restricciones de presupuesto, personal y tiempo.
-- **Cultura organizacional**: Compatibilidad con valores, prácticas de trabajo y resistencia al cambio.
-- **Escalabilidad**: Capacidad para crecer con la organización y adaptarse a nuevos requerimientos.
-- **Interoperabilidad**: Capacidad para trabajar en conjunto con otros frameworks y sistemas existentes.
-- **Reconocimiento en la industria**: Adopción generalizada y credibilidad en el sector específico.
-- **Soporte y comunidad**: Disponibilidad de recursos, actualizaciones y red de usuarios.
-
 ### Frameworks clave por dominio
 
 #### 1. Arquitectura Empresarial
@@ -103,37 +90,29 @@ La elección de frameworks adecuados es crítica y debe considerar múltiples fa
 
 </div>
 
+### Criterios de selección de frameworks
+
+La elección de frameworks adecuados es crítica y debe considerar múltiples factores:
+
+- **Alineación con objetivos de negocio**: Compatibilidad con la estrategia y prioridades organizacionales.
+- **Madurez organizacional**: Correspondencia entre la sofisticación del framework y las capacidades existentes.
+- **Recursos disponibles**: Viabilidad de implementación considerando restricciones de presupuesto, personal y tiempo.
+- **Cultura organizacional**: Compatibilidad con valores, prácticas de trabajo y resistencia al cambio.
+- **Escalabilidad**: Capacidad para crecer con la organización y adaptarse a nuevos requerimientos.
+- **Interoperabilidad**: Capacidad para trabajar en conjunto con otros frameworks y sistemas existentes.
+- **Reconocimiento en la industria**: Adopción generalizada y credibilidad en el sector específico.
+- **Soporte y comunidad**: Disponibilidad de recursos, actualizaciones y red de usuarios.
+
 ### Implementación efectiva
 
 La adopción exitosa de frameworks implica un proceso estructurado:
 
-#### 1. Evaluación y selección
-
-- **Análisis de necesidades**: Identificación de problemas específicos a resolver.
-- **Benchmark de frameworks**: Comparación sistemática contra requisitos.
-- **Análisis de brecha**: Evaluación entre capacidades actuales y requeridas.
-- **Plan de adopción**: Roadmap para implementación progresiva.
-
-#### 2. Adaptación contextualizada
-
-- **Personalización**: Ajuste del framework a particularidades organizacionales.
-- **Priorización**: Selección de elementos más relevantes para implementación inicial.
-- **Integración**: Armonización con prácticas y sistemas existentes.
-- **Documentación**: Adaptación de artefactos y procesos para uso interno.
-
-#### 3. Implementación incremental
-
-- **Proyectos piloto**: Validación en entornos controlados antes de expansión.
-- **Formación escalonada**: Capacitación progresiva según necesidades de rol.
-- **Implementación por fases**: Despliegue controlado por dominios o unidades.
-- **Gobierno del cambio**: Mecanismos para gestionar impactos organizacionales.
-
-#### 4. Madurez progresiva
-
-- **Evaluación periódica**: Auditorías de adopción y efectividad.
-- **Mejora continua**: Refinamiento basado en lecciones aprendidas.
-- **Ampliación de alcance**: Incorporación gradual de elementos adicionales.
-- **Evolución adaptativa**: Actualización según cambios en frameworks y organización.
+|Evaluación y selección|Adaptación contextualizada|Implementación incremental|Madurez progresiva|
+|-|-|-|-|
+|**Análisis de necesidades**: Identificación de problemas específicos a resolver.|**Personalización**: Ajuste del framework a particularidades organizacionales.|**Proyectos piloto**: Validación en entornos controlados antes de expansión.|**Evaluación periódica**: Auditorías de adopción y efectividad.|
+|**Benchmark de frameworks**: Comparación sistemática contra requisitos.|**Priorización**: Selección de elementos más relevantes para implementación inicial.|**Formación escalonada**: Capacitación progresiva según necesidades de rol.|**Mejora continua**: Refinamiento basado en lecciones aprendidas.|
+|**Análisis de brecha**: Evaluación entre capacidades actuales y requeridas.|**Integración**: Armonización con prácticas y sistemas existentes.|**Implementación por fases**: Despliegue controlado por dominios o unidades.|**Ampliación de alcance**: Incorporación gradual de elementos adicionales.|
+|**Plan de adopción**: Roadmap para implementación progresiva.|**Documentación**: Adaptación de artefactos y procesos para uso interno.|**Gobierno del cambio**: Mecanismos para gestionar impactos organizacionales.|**Evolución adaptativa**: Actualización según cambios en frameworks y organización.|
 
 ### Desafíos comunes y mitigación
 
@@ -143,18 +122,6 @@ La adopción exitosa de frameworks implica un proceso estructurado:
 - **Resistencia cultural**: Involucrar stakeholders desde etapas tempranas y demostrar valor tangible.
 - **Costos de implementación**: Adoptar enfoque incremental con victorias rápidas que demuestren ROI.
 - **Integración entre frameworks**: Mapear relaciones y establecer puntos de interfaz definidos.
-
-## Caso práctico: Implementación integrada de frameworks
-
-El siguiente caso ilustra cómo una organización podría implementar múltiples frameworks de manera complementaria:
-
-|Nivel|Framework primario|Frameworks complementarios|Propósito|
-|-|-|-|-|
-|**Estratégico**|TOGAF (Arquitectura Empresarial)|Zachman (clasificación), COBIT (gobierno)|Alinear tecnología con objetivos organizacionales y establecer principios rectores|
-|**Táctico**|ITIL v4 (Gestión de Servicios)|ISO 27001 (seguridad), SAFe (desarrollo ágil)|Estructurar la entrega de valor y orquestar capacidades operativas|
-|**Operativo**|DevOps (Entrega continua)|PMBOK (gestión proyectos), Six Sigma (calidad)|Optimizar la ejecución diaria y asegurar mejora continua|
-
-Este enfoque de implementación en capas permite a la organización aprovechar las fortalezas de cada framework mientras mantiene coherencia general y alineación estratégica.
 
 ## Enlaces relevantes
 

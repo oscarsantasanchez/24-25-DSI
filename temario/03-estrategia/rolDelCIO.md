@@ -74,36 +74,6 @@ El rol estratégico del CIO puede estructurarse según el ciclo directivo fundam
 
 Este marco proporciona al CIO una estructura coherente para abordar sus diversas responsabilidades, asegurando que ninguna dimensión clave sea descuidada en su rol estratégico.
 
-### Prácticas clave para la efectividad estratégica del CIO
-
-#### 1. Posicionamiento estratégico
-
-- **Participación en decisiones corporativas**: Integración en comités ejecutivos y participación activa en planificación estratégica general.
-- **Narrativa de valor**: Comunicación consistente del impacto de tecnología en términos de resultados de negocio y ventaja competitiva.
-- **Alianzas estratégicas**: Colaboración estrecha con otros C-levels, especialmente CFO, CMO y CHRO para iniciativas transversales.
-- **Empatía de negocio**: Comprensión profunda de retos y oportunidades de cada área funcional para aportar valor contextualizado.
-
-#### 2. Visión tecnológica y roadmap estratégico
-
-- **Radar tecnológico**: Monitorización sistemática de innovaciones emergentes y evaluación de su relevancia estratégica.
-- **Portafolio de innovación**: Gestión de iniciativas con diferentes horizontes temporales y niveles de riesgo/retorno.
-- **Experimentación estructurada**: Procesos definidos para probar rápidamente nuevas tecnologías en contextos controlados.
-- **Planificación por escenarios**: Desarrollo de roadmaps alternativos para diferentes evoluciones de mercado y tecnología.
-
-#### 3. Arquitectura y plataformas estratégicas
-
-- **Capacidades vs. sistemas**: Enfoque en desarrollar capacidades organizacionales habilitadas por tecnología, no solo implementar sistemas.
-- **Arquitectura componible**: Diseño modular que permite reconfigurar capacidades según necesidades cambiantes.
-- **Interoperabilidad por diseño**: Estándares y interfaces que facilitan integración de sistemas internos y externos.
-- **Datos como activo estratégico**: Gobernanza y arquitectura de datos que maximizan su valor organizacional.
-
-#### 4. Liderazgo en transformación digital
-
-- **Storytelling transformacional**: Narrativas convincentes sobre el futuro digital de la organización que generan compromiso.
-- **Coaliciones de cambio**: Identificación y movilización de aliados clave en diferentes niveles organizacionales.
-- **Victorias tempranas**: Priorización de iniciativas con impacto visible que construyen credibilidad y momentum.
-- **Gestión de tensiones adaptativas**: Reconocimiento y manejo constructivo de las resistencias inherentes al cambio profundo.
-
 ### Equilibrio de responsabilidades en el rol estratégico
 
 El CIO contemporáneo debe mantener equilibrios delicados en múltiples dimensiones:
@@ -135,15 +105,6 @@ El papel del CIO está intrínsecamente relacionado con otros elementos clave de
 - **[Frameworks de arquitectura empresarial](frameworksArquitecturaEmpresarial.md)**: El CIO como promotor de visiones arquitectónicas integradas y coherentes.
 - **[Gestión del capital humano](gestionCapitalHumano.md)**: El CIO como desarrollador de talento digital en la organización.
 - **[Organización centrada en usuarios](organizacion.md)**: El CIO como defensor de la perspectiva de usuario/cliente en decisiones tecnológicas.
-
-## Caso práctico: Evolución del rol del CIO en una empresa manufacturera
-
-|Fase|Desafío|Rol del CIO|Impacto|
-|-|-|-|-|
-|**Digitalización operativa**|Modernización de sistemas legacy de producción|Arquitecto de transformación para integrar OT e IT|Mejora de eficiencia operativa y capacidades de análisis|
-|**Rediseño de experiencia cliente**|Clientes demandando mayor personalización y transparencia|Colaborador estratégico con áreas comerciales en iniciativas omnicanal|Plataforma digital que incrementó lealtad y valor de cliente|
-|**Nuevos modelos de negocio**|Competidores digitales con ofertas servitizadas|Catalizador de innovación para explorar modelos basados en datos|Lanzamiento de línea de negocio de servicios predictivos|
-|**Transformación organizacional**|Cultura resistente al cambio y silos departamentales|Evangelizador digital y coach para líderes de todas las áreas|Adopción de metodologías ágiles y mentalidad digital|
 
 ## Enlaces relevantes
 

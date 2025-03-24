@@ -118,4 +118,3 @@ La transformación digital requiere un enfoque práctico y sistemático:
 - **Actualizar estrategias**: Ajustar planes según los resultados obtenidos
 
 La transformación digital no es un destino final sino un proceso continuo que requiere adaptarse constantemente a nuevas tecnologías y necesidades del mercado.
-
