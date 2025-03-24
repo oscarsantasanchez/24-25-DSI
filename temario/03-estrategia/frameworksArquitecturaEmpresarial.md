@@ -196,6 +196,8 @@ El FEAF define un proceso colaborativo de planificación arquitectónica que inc
 |Énfasis en la reutilización y eficiencia|Curva de aprendizaje pronunciada|
 |Diseñado para entornos organizacionales complejos
 
+</div>
+
 ### Comparación entre frameworks
 
 <div align=center>
