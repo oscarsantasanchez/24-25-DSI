@@ -88,7 +88,7 @@ Identificar y comprender estos vicios es fundamental para:
 
 ## Relación con antipatrones directivos
 
-Estos vicios en la adopción de frameworks guardan estrecha relación con los [antipatrones en los marcos directivos](../../01-modelosNegocioInnovacion/antiPatrones.md) identificados previamente. Mientras los antipatrones directivos describen problemas generales en la aproximación a la dirección, los vicios en frameworks representan manifestaciones específicas de estos problemas en el contexto de la arquitectura empresarial y metodologías formalizadas.
+Estos vicios en la adopción de frameworks guardan estrecha relación con los [antipatrones en los marcos directivos](../../temario/01-modelosNegocioInnovacion/antiPatrones.md) identificados previamente. Mientras los antipatrones directivos describen problemas generales en la aproximación a la dirección, los vicios en frameworks representan manifestaciones específicas de estos problemas en el contexto de la arquitectura empresarial y metodologías formalizadas.
 
 |Antipatrón directivo|Manifestación en frameworks|
 |-|-|
