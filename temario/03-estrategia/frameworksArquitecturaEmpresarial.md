@@ -92,6 +92,8 @@ La matriz resultante de 6×6 genera 36 celdas, cada una representando un tipo es
 
 </div>
 
+> [*+Detalle*](zachman.md)
+
 ### The Open Group Architecture Framework (TOGAF)
 
 TOGAF es uno de los frameworks de arquitectura empresarial más adoptados globalmente, desarrollado y mantenido por The Open Group.
@@ -147,6 +149,8 @@ TOGAF es uno de los frameworks de arquitectura empresarial más adoptados global
 
 </div>
 
+> [*+Detalle*](togaf.md)
+
 ### Federal Enterprise Architecture Framework (FEAF/FEA)
 
 El Federal Enterprise Architecture Framework (FEAF) fue desarrollado por el gobierno de Estados Unidos para proporcionar una estructura común para la arquitectura empresarial en las agencias federales, aunque su aplicación se ha extendido más allá del sector público.
@@ -197,6 +201,8 @@ El FEAF define un proceso colaborativo de planificación arquitectónica que inc
 |Diseñado para entornos organizacionales complejos
 
 </div>
+
+> [*+Detalle*](fea.md)
 
 ### Comparación entre frameworks
 
