@@ -14,7 +14,7 @@ Un framework (marco de trabajo) para sistemas de información es una estructura 
 
 |Categoría|Propósito principal|Ejemplos representativos|
 |-|-|-|
-|**[Arquitectura empresarial](frameworksArquitecturaEmpresarial.md)**|Vincular estrategia de negocio con implementación tecnológica mediante representaciones estructuradas|TOGAF, Zachman, FEAF, DoDAF, Gartner|
+|**[Arquitectura empresarial](frameworksArquitecturaEmpresarial.md#cómo)**|Vincular estrategia de negocio con implementación tecnológica mediante representaciones estructuradas|TOGAF, Zachman, FEAF, DoDAF, Gartner|
 |**Gestión de servicios TI**|Estructurar la entrega y soporte de servicios tecnológicos alineados con necesidades de negocio|ITIL, ISO 20000, FitSM, MOF, COBIT|
 |**Gobierno tecnológico**|Proporcionar estructuras para toma de decisiones, asignación de responsabilidades y rendición de cuentas|COBIT, ISO 38500, ValIT, IT4IT|
 |**Gestión de proyectos**|Ofrecer métodos para planificar, ejecutar y controlar iniciativas tecnológicas|PMBOK, PRINCE2, MSP, ICB|

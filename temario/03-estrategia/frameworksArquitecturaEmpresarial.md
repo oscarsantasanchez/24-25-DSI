@@ -48,6 +48,50 @@ Los frameworks de arquitectura empresarial proporcionan beneficios significativo
 
 ## ¿Cómo?
 
+### Framework de Zachman
+
+El Framework de Zachman, desarrollado por John Zachman en la década de 1980, es uno de los marcos de arquitectura empresarial más antiguos y fundamentales, basado en principios de clasificación y organización de artefactos arquitectónicos.
+
+#### Principios fundamentales
+
+- Enfoque en taxonomía y clasificación
+- Matriz bidimensional de perspectivas y dimensiones
+- Completo: aborda todas las vistas relevantes de una empresa
+- Independiente de herramientas o metodologías específicas
+- Neutralidad respecto a procesos: se centra en el "qué" más que en el "cómo"
+
+#### Estructura de la matriz de Zachman
+
+<div align=center>
+
+|Perspectivas (filas)|Interrogantes (columnas)|
+|-|-|
+|**Contextual (Planificador)**<br>Alcance y contexto|**¿Qué?**<br>Datos|
+|**Conceptual (Propietario)**<br>Modelo del negocio|**¿Cómo?**<br>Función|
+|**Lógica (Diseñador)**<br>Modelo de sistema|**¿Dónde?**<br>Red|
+|**Física (Constructor)**<br>Modelo tecnológico|**¿Quién?**<br>Personas|
+|**Detallada (Subcontratista)**<br>Especificaciones detalladas|**¿Cuándo?**<br>Tiempo|
+|**Funcional (Usuario)**<br>Empresa operativa|**¿Por qué?**<br>Motivación|
+
+</div>
+
+La matriz resultante de 6×6 genera 36 celdas, cada una representando un tipo específico de artefacto arquitectónico.
+
+#### Fortalezas y limitaciones
+
+<div align=center>
+
+|Fortalezas|Limitaciones|
+|-|-|
+|Taxonomía clara y completa|No proporciona un proceso o metodología de implementación|
+|Estructura intuitiva y fácil de comprender conceptualmente|Puede generar un exceso de documentación|
+|Independencia de metodologías específicas|Riesgo de compartimentación excesiva de la información|
+|Visión holística que abarca todos los aspectos empresariales|Desafíos para mantener actualizada una implementación completa|
+|Versatilidad para aplicarse en diversos contextos|Menos específico que otros frameworks en cuanto a entregables concretos|
+|Base conceptual sólida para otros frameworks
+
+</div>
+
 ### The Open Group Architecture Framework (TOGAF)
 
 TOGAF es uno de los frameworks de arquitectura empresarial más adoptados globalmente, desarrollado y mantenido por The Open Group.
@@ -100,50 +144,6 @@ TOGAF es uno de los frameworks de arquitectura empresarial más adoptados global
 |Repositorio extenso de técnicas, artefactos y plantillas|Necesidad de adaptación considerable para contextos específicos|
 |Compatibilidad con otros frameworks y estándares|
 |Enfoque en la práctica y aplicación real|
-
-</div>
-
-### Framework de Zachman
-
-El Framework de Zachman, desarrollado por John Zachman en la década de 1980, es uno de los marcos de arquitectura empresarial más antiguos y fundamentales, basado en principios de clasificación y organización de artefactos arquitectónicos.
-
-#### Principios fundamentales
-
-- Enfoque en taxonomía y clasificación
-- Matriz bidimensional de perspectivas y dimensiones
-- Completo: aborda todas las vistas relevantes de una empresa
-- Independiente de herramientas o metodologías específicas
-- Neutralidad respecto a procesos: se centra en el "qué" más que en el "cómo"
-
-#### Estructura de la matriz de Zachman
-
-<div align=center>
-
-|Perspectivas (filas)|Interrogantes (columnas)|
-|-|-|
-|**Contextual (Planificador)**<br>Alcance y contexto|**¿Qué?**<br>Datos|
-|**Conceptual (Propietario)**<br>Modelo del negocio|**¿Cómo?**<br>Función|
-|**Lógica (Diseñador)**<br>Modelo de sistema|**¿Dónde?**<br>Red|
-|**Física (Constructor)**<br>Modelo tecnológico|**¿Quién?**<br>Personas|
-|**Detallada (Subcontratista)**<br>Especificaciones detalladas|**¿Cuándo?**<br>Tiempo|
-|**Funcional (Usuario)**<br>Empresa operativa|**¿Por qué?**<br>Motivación|
-
-</div>
-
-La matriz resultante de 6×6 genera 36 celdas, cada una representando un tipo específico de artefacto arquitectónico.
-
-#### Fortalezas y limitaciones
-
-<div align=center>
-
-|Fortalezas|Limitaciones|
-|-|-|
-|Taxonomía clara y completa|No proporciona un proceso o metodología de implementación|
-|Estructura intuitiva y fácil de comprender conceptualmente|Puede generar un exceso de documentación|
-|Independencia de metodologías específicas|Riesgo de compartimentación excesiva de la información|
-|Visión holística que abarca todos los aspectos empresariales|Desafíos para mantener actualizada una implementación completa|
-|Versatilidad para aplicarse en diversos contextos|Menos específico que otros frameworks en cuanto a entregables concretos|
-|Base conceptual sólida para otros frameworks
 
 </div>
 
