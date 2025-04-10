@@ -5,6 +5,8 @@
 |[Lenguajes de programación](lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](requisitos.md)|[Gestión del cambio y adopción del usuario](gestionDelCambio.md)|[Indicadores](indicadores.md)|
 |[NoCode](noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](gestionSeguridad.md)|[Gestión de riesgos](riesgos.md)|
 |[**Metodologías de desarrollo**](metodologiasDesarrollo.md)
+|[Herramientas ETL/ELT](etl.md)
+|[Middleware y plataformas de integración](middleware.md)
 |[Tipología de aplicaciones](tipologia.md)
 |[Sistemas ERP (Enterprise Resource Planning)](erp.md)
 
