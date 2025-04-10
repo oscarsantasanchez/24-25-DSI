@@ -40,11 +40,13 @@
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|
-|Lenguajes de programación|Evaluación de requisitos y selección de sistemas|Gestión del cambio y adopción del usuario|Indicadores|
-|NoCode|Arquitectura de integración de sistemas|Gestión de la seguridad e integridad de datos|Gestión de riesgos|
-|Metodologías de desarrollo|
-|Tipología de aplicaciones|
-|Sistemas ERP (Enterprise Resource Planning)|
+|[Lenguajes de programación](04-gestionPY/lenguajesProgramacion.md)|[Evaluación de requisitos y selección de sistemas](04-gestionPY/requisitos.md)|[Gestión del cambio y adopción del usuario](04-gestionPY/gestionDelCambio.md)|[Indicadores](04-gestionPY/indicadores.md)|
+|[NoCode](04-gestionPY/noCode.md)|[Arquitectura de integración de sistemas](arquitectura.md)|[Gestión de la seguridad e integridad de datos](04-gestionPY/gestionSeguridad.md)|[Gestión de riesgos](04-gestionPY/riesgos.md)|
+|[Metodologías de desarrollo](04-gestionPY/metodologiasDesarrollo.md)
+|[Herramientas ETL/ELT](04-gestionPY/etl.md)
+|[Middleware y plataformas de integración](04-gestionPY/middleware.md)
+|[Tipología de aplicaciones](04-gestionPY/tipologia.md)
+|[Sistemas ERP (Enterprise Resource Planning)](04-gestionPY/erp.md)
 
 ## Gestión de operaciones
 
