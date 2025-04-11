@@ -36,7 +36,7 @@
 |||[**Vicios en los Frameworks**](03-estrategia/viciosFrameworks.md)|[**El rol del CIO**](03-estrategia/rolDelCIO.md)<br>Liderazgo en la era digital||
 |<sub>*VisionTecnológica*|<sub>*GestiónDelPortafolio*|<sub>*ArquitecturaEmpresarial*|<sub>*GestiónDelTalento, GobiernoDeTI*|<sub>*GestiónDeRiesgos*|
 
-## Gestión de proyectos de integración de sistemas
+## [Gestión de proyectos de integración de sistemas](04-gestionPY/README.md)
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|

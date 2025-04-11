@@ -60,12 +60,10 @@ La tecnología NoCode ofrece diferentes ventajas según el área de especializac
 1. **[Zapier](https://zapier.com/)**:  
    - Conecta más de 5,000 aplicaciones diferentes mediante flujos de trabajo automatizados.
    - Ideal para automatizaciones sencillas entre sistemas sin intervención técnica.
-
-2. **[Make (anteriormente Integromat)](https://www.make.com/)**:  
+1. **[Make (anteriormente Integromat)](https://www.make.com/)**:  
    - Ofrece mayor flexibilidad y potencia que Zapier con una interfaz visual de diagramas de flujo.
    - Permite automatizaciones más complejas con condiciones, transformaciones y bucles.
-
-3. **[Microsoft Power Automate](https://powerautomate.microsoft.com/)**:  
+1. **[Microsoft Power Automate](https://powerautomate.microsoft.com/)**:  
    - Parte de Power Platform, integración nativa con productos Microsoft y más de 400 conectores.
    - Potente para automatización robótica de procesos (RPA) dentro del ecosistema empresarial.
 
@@ -74,12 +72,10 @@ La tecnología NoCode ofrece diferentes ventajas según el área de especializac
 1. **[Bubble](https://bubble.io/)**:  
    - Líder en creación de aplicaciones web completas incluyendo bases de datos y lógica de negocio.
    - Altamente escalable y con capacidad para crear productos comerciales sofisticados.
-
-2. **[Microsoft Power Apps](https://powerapps.microsoft.com/)**:  
+1. **[Microsoft Power Apps](https://powerapps.microsoft.com/)**:  
    - Creación de aplicaciones empresariales con fuerte integración con Dataverse y sistemas Microsoft.
    - Disponible como parte del ecosistema Office 365 en muchas empresas.
-
-3. **[Retool](https://retool.com/)**:  
+1. **[Retool](https://retool.com/)**:  
    - Enfocado en construir aplicaciones internas para equipos técnicos y operaciones.
    - Permite combinar componentes NoCode con código personalizado cuando es necesario.
 
@@ -88,8 +84,7 @@ La tecnología NoCode ofrece diferentes ventajas según el área de especializac
 1. **[Airtable](https://www.airtable.com/)**:  
    - Híbrido entre base de datos relacional y hoja de cálculo con potentes capacidades de visualización.
    - Excelente para gestión de proyectos, CRM ligero y operaciones departamentales.
-
-2. **[Notion](https://www.notion.so/)**:  
+1. **[Notion](https://www.notion.so/)**:  
    - Sistema todo-en-uno que combina documentación, bases de datos y gestión de proyectos.
    - Flexible para adaptarse a flujos de trabajo personalizados y gestión de conocimiento.
 
@@ -98,8 +93,7 @@ La tecnología NoCode ofrece diferentes ventajas según el área de especializac
 1. **[n8n](https://n8n.io/)**:  
    - Alternativa de código abierto para automatización de flujos de trabajo e integración.
    - Se puede implementar en infraestructura propia para mayor control y privacidad.
-
-2. **[Workato](https://www.workato.com/)**:  
+1. **[Workato](https://www.workato.com/)**:  
    - Plataforma de integración empresarial con capacidades de IA para automatización.
    - Proporciona integraciones preconfiguradas para sistemas empresariales complejos.
 

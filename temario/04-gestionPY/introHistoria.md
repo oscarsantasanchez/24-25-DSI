@@ -37,34 +37,7 @@ Los objetivos principales incluyen:
 
 ## ¿Para qué?
 
-La evolución histórica y la gestión de estos proyectos buscan:
-
-- Facilitar la interoperabilidad entre diferentes sistemas y tecnologías.
-- Reducir la duplicidad de información.
-- Mejorar la precisión de los datos.
-- Proporcionar una visión integrada para la toma de decisiones estratégicas.
-- Aumentar la agilidad de la empresa para adaptarse a los cambios del mercado.
-
-La integración de sistemas ofrece beneficios específicos según el área de especialización:
-
-|||
-|-|-|
-|Optimización de cadenas de suministro con datos en tiempo real|Mejor información para toma de decisiones estratégicas|
-|Reducción de tiempos de ciclo productivo|Disminución de costes operativos y administrativos|
-|Trazabilidad completa del producto|Visión unificada del cliente en todos los puntos de contacto|
-|Implementación efectiva de Lean y Six Sigma|Análisis financiero más preciso y oportuno|
-|Gestión eficiente de activos y mantenimiento predictivo|Planificación presupuestaria más precisa|
-|Adaptación ágil de producción ante cambios en demanda|Identificación de nuevas oportunidades de mercado|
-|Control de calidad avanzado mediante sistemas integrados|Cumplimiento normativo y reporting más eficiente|
-|Procesos industriales más flexibles y escalables|Mejor alineación entre estrategia y ejecución operativa|
-
 ## ¿Cómo?
-
-1. **Planificación**: Identificar los sistemas existentes, sus interdependencias, y definir claramente los objetivos del proyecto.
-1. **Diseño**: Elegir la arquitectura de integración adecuada (SOA, microservicios, nube), desarrollar las especificaciones de las API y definir los flujos de datos.
-1. **Ejecución**: Implementar las conexiones entre sistemas, probar la consistencia de los datos y entrenar al personal.
-1. **Gestión del cambio**: Involucrar a las partes interesadas y proporcionar capacitación para asegurar una transición sin problemas.
-1. **Monitoreo**: Establecer KPIs para evaluar el éxito de la integración, detectar problemas y mejorar continuamente.
 
 ### Bibliografía
 
