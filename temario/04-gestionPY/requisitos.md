@@ -24,6 +24,8 @@ Se trata de comprender lo que la empresa requiere para dirigir la solución haci
 
 ## ¿Cómo?
 
+> **TL;DR:** Los serios suelen venir predefinidos: [Cantabria]](https://amap.cantabria.es/amap/bin/view/AMAP/Analisis) / [Andalucía](https://web.archive.org/web/20110501062537/http://www.juntadeandalucia.es/madeja) / 
+
 1. **Equipo de evaluación**: Formar un equipo con representantes de todas las áreas afectadas para definir los requisitos y evaluar los sistemas.
 2. **Documentación de requisitos**: Crear una lista detallada de requerimientos técnicos y funcionales.
 3. **Proceso de selección**: Establecer un proceso claro y cronograma para la investigación, selección y pruebas de sistemas.
