@@ -1,6 +1,6 @@
 # App noCode
 
-Desarrolle con cualquiera de las herramientas presentadas en el [apartado noCode](/temario/04-gestionPY/noCode.md) (u otra que considere pertinente y escalable) del tema Gestión de la integración de SI el prototipo funcional de una aplicación noCode que permita:
+Desarrolle con cualquiera de las herramientas presentadas en el [apartado noCode](/temario/04-gestionPY/noCode.md) (u otra que considere pertinente y escalable) del tema Gestión de la integración de SI el prototipo funcional de una aplicación que permita:
 
 - Registrar usuarios.
 - Mostrar al usuario un examen con 10 preguntas tipo test
