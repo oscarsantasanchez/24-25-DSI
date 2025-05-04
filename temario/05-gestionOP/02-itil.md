@@ -232,5 +232,3 @@ ITIL ofrece un esquema de certificaciones para profesionales:
 - [The Official ITIL 4 Foundation Study Guide](https://www.axelos.com/store/book/itil-4-foundation-study-guide)
 - [IT Service Management Forum (itSMF)](https://www.itsmfi.org/)
 - [ISO/IEC 20000 - El estándar internacional relacionado con ITIL](https://www.iso.org/standard/70636.html)
-- [ITIL Community Forum](https://community.axelos.com/s/topic/0TO3m000000HzqAGAS/itil)
-- [Pink Elephant - Recursos de ITSM](https://www.pinkelephant.com/resources/)
