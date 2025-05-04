@@ -67,3 +67,22 @@
 - El rediseño de procesos como parte esencial de la transformación digital.
 - La evolución histórica de los Sistemas de Información y su impacto en las estrategias de negocio.
 - La importancia del cambio cultural y organizativo en los procesos de transformación digital.
+
+## 24 - 28 mar
+
+- Los marcos de arquitectura empresarial (Zachman, TOGAF, FEA) y cómo se aplican a los sistemas de información.
+- La gestión del talento tecnológico y su importancia para las organizaciones.
+- Los enfoques centrados en el usuario y las técnicas de co-creación en desarrollo de sistemas.
+- La ciberseguridad como pilar fundamental y su conexión con los objetivos de negocio.
+- La medición y control de proyectos de sistemas: métodos, métricas e indicadores.
+- Las responsabilidades del CIO en las organizaciones actuales.
+- La conexión entre la evaluación a nivel directivo y la ejecución práctica de proyectos.
+
+## 5 abr
+
+- La evolución de la integración de sistemas a lo largo del tiempo y su efecto en las organizaciones.
+- Las herramientas para gestionar proyectos: lenguajes, métodos de desarrollo y sistemas ERP.
+- El diseño en proyectos de integración: análisis de necesidades y estructuras técnicas.
+- Cómo implantar con éxito: adaptación al cambio, adopción por usuarios y protección de datos.
+- Cómo medir el éxito y calcular el retorno de inversión en proyectos de integración.
+- Cómo identificar y manejar los riesgos en proyectos tecnológicos.
