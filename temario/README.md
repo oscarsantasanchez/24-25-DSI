@@ -36,6 +36,9 @@
 
 > *En un contexto donde muchos proyectos digitales fracasan por falta de alineación estratégica, este capítulo permite aprender a distinguir entre estrategia (el qué y por qué) y planificación (el cómo y con qué recursos). Expone herramientas y metodologías para desarrollar una arquitectura tecnológica que responda efectivamente a los objetivos organizacionales, considerando tanto aspectos técnicos como humanos.*
 
+<div align=center>
+
+
 |Contextualización|Metodología|Arquitectura|Aspectos organizacionales|Aspectos técnicos y de control|
 |-|-|-|-|-|
 |[**Transformación digital**](03-estrategia/transformacionDigital.md)<br>Entendiendo el imperativo de cambio en la era digital|[**Etapas**](03-estrategia/etapas.md): Fases en el proceso de transformación digital|[**Frameworks**](03-estrategia/frameworks.md): Introducción a los marcos de trabajo para SI|[**El capital humano y su gestión**](03-estrategia/gestionCapitalHumano.md)<br>Las personas en el proceso|[**Ciberseguridad**](03-estrategia/ciberseguridad.md): Protección de activos de información|
@@ -43,9 +46,13 @@
 |||[**Vicios en los Frameworks**](03-estrategia/viciosFrameworks.md)|[**El rol del CIO**](03-estrategia/rolDelCIO.md)<br>Liderazgo en la era digital||
 |<sub>*VisionTecnológica*|<sub>*GestiónDelPortafolio*|<sub>*ArquitecturaEmpresarial*|<sub>*GestiónDelTalento, GobiernoDeTI*|<sub>*GestiónDeRiesgos*|
 
+</div>
+
 ## [Gestión de proyectos de integración de sistemas](04-gestionPY/README.md)
 
 > *Este capítulo aborda el terreno de la implementación práctica, mostrando como  materializar la visión estratégica: sistemas, procesos y personas integradas. Desde la selección de tecnologías hasta la gestión del cambio organizacional, busca demostrar que el éxito de un proyecto no se mide solo por su implementación técnica, sino por el valor que aporta al negocio y la adopción efectiva por parte de los usuarios.*
+
+<div align=center>
 
 |Herramientas|Diseño|Implantación|Valoración|
 |-|-|-|-|
@@ -57,14 +64,22 @@
 |[Tipología de aplicaciones](04-gestionPY/tipologia.md)
 |[Sistemas ERP (Enterprise Resource Planning)](04-gestionPY/erp.md)
 
-## Gestión de operaciones
+</div>
 
-- [ ] Objetivos
-- [ ] Infraestructura Tecnológica
-- [ ] Servidores
-- [ ] Cloud Computing
-- [ ] Green IT - Virtualización
-- [ ] Arquitectura Empresarial
+## [Gestión de operaciones](05-gestionOP/README.md)
+
+> *Este capítulo trata sobre los procesos y actividades necesarias para gestionar los servicios tecnológicos que dan soporte a los procesos de negocio de una organización.*
+
+<div align=center>
+
+|Fundamentos|Infraestructura|Enfoques modernos|Gestión continua|
+|-|-|-|-|
+|<sub>*Marco conceptual y metodológico para entender la gestión de servicios*</sub>|<sub>*Componentes tecnológicos que soportan la entrega de servicios*</sub>|<sub>*Metodologías actuales que transforman la forma de operar los servicios*</sub>|<sub>*Procesos para mantener, mejorar y asegurar los servicios a largo plazo*</sub>|
+|[Gestión de Servicios de TI (ITSM)](05-gestionOP/01-itsm.md)|[Infraestructura tecnológica](05-gestionOP/03-infraestructura.md)|[DevOps y Site Reliability Engineering](05-gestionOP/06-devops-sre.md)|[Medición y mejora de servicios](05-gestionOP/07-medicion.md)|
+|[Marcos de trabajo operativos: ITIL](05-gestionOP/02-itil.md)|[Servidores y su administración](05-gestionOP/04-servidores.md)|[Automatización operativa](05-gestionOP/09-automatizacion.md)|[Continuidad y recuperación](05-gestionOP/08-continuidad.md)|
+||[Computación en la nube](05-gestionOP/05-cloud.md)|[Observabilidad y monitorización](05-gestionOP/10-observabilidad.md)|[Gobierno de servicios](05-gestionOP/11-gobierno.md)|
+
+</div>
 
 ## Gestión de servicios
 
