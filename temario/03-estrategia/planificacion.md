@@ -61,6 +61,7 @@ El proceso de planificación de SI puede estructurarse según las funciones dire
 </div>
 
 > [*+Detalle*](planificacionDetalle.md)
+> [*Casos prácticos*](casosPracticos.md#de-planificación)
 
 ## Enlaces relevantes
 

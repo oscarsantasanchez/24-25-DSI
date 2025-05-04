@@ -50,6 +50,7 @@ La implementación de una gestión estratégica del capital humano en SI requier
 </div>
 
 > [*+Detalle*](gestionCapitalHumanoDetalle.md)
+> [*Casos prácticos*](casosPracticos.md#de-gestión-del-capital-humano)
 
 ## Integración con la transformación digital
 

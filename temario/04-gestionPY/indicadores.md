@@ -47,3 +47,5 @@ Los indicadores de desempeño y las métricas proporcionan una visión clara del
   - **Costos reducidos**: Identificar los costos operativos reducidos, como el tiempo ahorrado en procesos manuales o la eliminación de sistemas redundantes.
   - **Inversión total**: Sumar los costos directos e indirectos de implementación, capacitación y mantenimiento.
   - **Fórmula**: `BeneficiosNetos/CostoTotal*100`, donde: `Beneficios netos = Ingresos generados + Costos reducidos - Costo total`.
+
+> [Ver integración con evaluación estratégica](evaluacionEstrategica.md)

@@ -54,6 +54,7 @@ La evaluación debe abarcar el ciclo de vida completo de la iniciativa:
 |**Ex-post (Evaluación posterior)**|Medición de resultados, realización de beneficios, lecciones aprendidas|Verificar logro de objetivos y capturar conocimiento|
 
 > [*+Detalle*](evaluacionProyectosDetalle.md)
+> [*Casos prácticos*](casosPracticos.md#evaluación-de-proyectos)
 
 ## Desafíos contemporáneos
 

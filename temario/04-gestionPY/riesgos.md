@@ -82,3 +82,5 @@ Un manejo efectivo de los riesgos ayuda a asegurar que el proyecto cumpla con su
 
 - Establecer un sistema para revisar regularmente los riesgos identificados.
 - Ajustar los planes de mitigación según los cambios en el entorno del proyecto.
+
+> [Ver integración con evaluación estratégica](evaluacionEstrategica.md)

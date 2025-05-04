@@ -255,3 +255,5 @@ A menudo, las organizaciones adoptan elementos complementarios de diferentes fra
 - [Planificación de sistemas de información](planificacion.md)
 - [Transformación digital](transformacionDigital.md)
 - [Vicios en la adopción de frameworks](viciosFrameworks.md)
+
+> [*Casos prácticos*](casosPracticos.md#de-integración)

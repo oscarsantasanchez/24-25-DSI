@@ -106,6 +106,8 @@ El papel del CIO está intrínsecamente relacionado con otros elementos clave de
 - **[Gestión del capital humano](gestionCapitalHumano.md)**: El CIO como desarrollador de talento digital en la organización.
 - **[Organización centrada en usuarios](organizacion.md)**: El CIO como defensor de la perspectiva de usuario/cliente en decisiones tecnológicas.
 
+> [*Casos prácticos*](casosPracticos.md#rol-del-cio)
+
 ## Enlaces relevantes
 
 - [El Director de Sistemas de Información](../02-funcionesDSI/elDirector.md)

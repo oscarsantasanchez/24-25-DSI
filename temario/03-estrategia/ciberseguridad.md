@@ -56,6 +56,7 @@ La protección efectiva de activos de información requiere una aproximación qu
 |**Cultura y concienciación**|Factor humano|Formación, simulaciones, refuerzo conductual, incentivos|
 
 > [*+Detalle*](ciberseguridadDetalle.md)
+> [*Casos prácticos*](casosPracticos.md#ciberseguridad)
 
 ## Tendencias e innovaciones en ciberseguridad estratégica
 

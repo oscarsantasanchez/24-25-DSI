@@ -1,6 +1,6 @@
 # Casos prácticos: *2Think*
 
-El presente compendio de casos prácticos constituye una herramienta pedagógica diseñada para complementar los fundamentos teóricos de la Dirección de Sistemas de Información con ejemplos concretos de aplicación. Este vademecum no pretende ser un manual exhaustivo, sino un punto de partida para la reflexión y el análisis crítico sobre cómo los conceptos abstractos se materializan en contextos organizacionales reales.
+El presente compendio de casos prácticos constituye una herramienta pedagógica diseñada para complementar los fundamentos teóricos de la Dirección de Sistemas de Información con ejemplos concretos de aplicación. Este documento no pretende ser un manual exhaustivo, sino un punto de partida para la reflexión y el análisis crítico sobre cómo los conceptos abstractos se materializan en contextos organizacionales reales.
 
 Se invita al lector a utilizar estos casos como estímulos para debates en clase, análisis comparativos con sus propias experiencias profesionales, o ejercicios de extrapolación a diferentes sectores y contextos. Las tablas presentadas permiten múltiples interpretaciones y pueden servir como base para profundizar en aspectos específicos mediante investigación adicional o discusiones grupales.
 
@@ -27,6 +27,38 @@ El siguiente caso ilustra cómo una organización podría implementar múltiples
 |**Portafolio y roadmap**|• Identificación de iniciativas<br>• Análisis de dependencias<br>• Priorización mediante scoring|• Portafolio de proyectos<br>• Roadmap de implementación<br>• Plan de inversión tecnológica|
 |**Modelo operativo**|• Diseño de estructura de SI<br>• Definición de procesos de gestión<br>• Establecimiento de métricas|• Modelo de gobierno de SI<br>• Procesos ITIL adaptados<br>• Cuadro de mando de SI|
 |**Plan de acción inmediato**|• Detalle de iniciativas a 12 meses<br>• Asignación de responsabilidades<br>• Establecimiento de Quick Wins|• Plan operativo anual<br>• Matriz RACI<br>• Plan de gestión del cambio|
+
+### Ejemplos reales de planificación de SI
+
+#### DBS Bank: Transformación digital integral
+
+*DBS Bank* pasó de ser un banco tradicional a ser reconocido como el "mejor banco digital del mundo" mediante una transformación guiada por un plan estratégico con tres horizontes:
+
+- **Horizonte 1 (0-18 meses)**: Digitalización de procesos core y modernización de infraestructura tecnológica
+- **Horizonte 2 (18-36 meses)**: Implementación de plataformas API-first y desarrollo de nuevos productos digitales
+- **Horizonte 3 (36+ meses)**: Ecosistema de innovación abierta y modelos de negocio data-driven
+
+Su enfoque incluyó la creación de un digital scorecard para medir el progreso, implementación de metodologías ágiles a escala, y un programa exhaustivo de reskilling que reentrenó a más de 10,000 empleados.
+
+#### Nike: Plataforma digital centrada en el consumidor
+
+*Nike* desarrolló un plan estratégico denominado "Consumer Direct Acceleration" que utilizó la tecnología para transformar su relación con los clientes:
+
+- Implementación de una arquitectura cloud-native para soportar experiencias omnicanal
+- Desarrollo de un ecosistema de apps (Nike App, SNKRS, Nike Training Club) con inteligencia de datos compartida
+- Inversión en capacidades de personalización mediante inteligencia artificial
+- Integración de tiendas físicas con experiencias digitales a través de tecnología RFID y móvil
+
+La planificación se estructuró en sprints de 90 días y cuartiles anuales, con un enfoque en KPIs de engagement y conversión.
+
+#### Walmart: Transformación tecnológica defensiva y ofensiva
+
+*Walmart* implementó un plan de sistemas dual para responder a la amenaza de Amazon y fortalecer su posición competitiva:
+
+- **Estrategia defensiva**: Modernización de cadena de suministro con IoT, automatización de almacenes y análisis predictivo de inventario
+- **Estrategia ofensiva**: Desarrollo de capacidades e-commerce, adquisición estratégica de startups tecnológicas, y creación de Walmart Labs
+
+El plan incluyó la consolidación de seis backoffices regionales en una plataforma cloud única, implementación de DevOps a escala, y un cambio organizativo que reconfiguró TI de centro de costo a impulsor estratégico.
 
 ## De gestión del capital humano
 

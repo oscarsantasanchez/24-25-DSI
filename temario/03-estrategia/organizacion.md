@@ -67,6 +67,7 @@ La evolución hacia una verdadera orientación al usuario/cliente requiere trans
 |**Liderazgo**|Control y jerarquía|Facilitación y empoderamiento|
 
 > [*+Detalle*](organizacionDetalle.md)
+> [*Casos prácticos*](casosPracticos.md#organización-usuarios-clientes)
 
 ## Tendencias emergentes
 
