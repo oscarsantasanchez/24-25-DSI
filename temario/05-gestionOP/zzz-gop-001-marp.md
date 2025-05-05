@@ -124,7 +124,9 @@ La mejor estrategia y el proyecto mejor ejecutado **fracasan** sin una operació
 
 ---
 
-<img src="https://www.servicetonic.com/wp-content/uploads/2016/12/ejemplo-de-un-buen-SLA.png" height="100%">
+## SLA
+
+![bg center:30% 50%](https://www.servicetonic.com/wp-content/uploads/2016/12/ejemplo-de-un-buen-SLA.png)
 
 ---
 
@@ -677,13 +679,3 @@ ITSM tradicional + Cloud = Nueva generación operativa
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [Google SRE Book](https://sre.google/sre-book/table-of-contents/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-
----
-
-# ¡Gracias!
-
-### Contacto
-- Email: [tu-email]
-- LinkedIn: [tu-perfil]
-
-**Reflexión final**: La operación efectiva no es un centro de costo, es un habilitador de negocio.
