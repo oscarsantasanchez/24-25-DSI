@@ -37,7 +37,7 @@ table {
 }
 </style>
 
-# Operaciones y Servicios de Sistemas de Información
+# Operaciones y Servicios<br>de Sistemas de Información
 
 ### Gestión y mantenimiento de servicios de TI
 
