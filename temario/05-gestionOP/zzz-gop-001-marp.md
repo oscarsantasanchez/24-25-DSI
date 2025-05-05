@@ -124,12 +124,6 @@ La mejor estrategia y el proyecto mejor ejecutado **fracasan** sin una operació
 
 ---
 
-## SLA
-
-![bg center:30% 50%](https://www.servicetonic.com/wp-content/uploads/2016/12/ejemplo-de-un-buen-SLA.png)
-
----
-
 
 ## El ciclo PODC en operaciones
 
@@ -181,6 +175,12 @@ La mejor estrategia y el proyecto mejor ejecutado **fracasan** sin una operació
 |**Roles**|Definición clara de responsabilidades|
 |**SLAs**|Compromisos de calidad y disponibilidad|
 |**Catálogo**|Inventario centralizado de servicios|
+
+---
+
+## SLA
+
+![bg center:30% 50%](https://www.servicetonic.com/wp-content/uploads/2016/12/ejemplo-de-un-buen-SLA.png)
 
 ---
 
