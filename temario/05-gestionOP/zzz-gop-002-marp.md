@@ -36,6 +36,16 @@ table {
   border-radius: 8px;
   font-family: monospace;
 }
+.highlight {
+  color: #d73a49;
+  font-weight: bold;
+}
+.impact {
+  font-size: 34px;
+  color: #0366d6;
+  text-align: center;
+  margin: 1rem 0;
+}
 </style>
 
 # Operaciones y Servicios (Parte 2)
@@ -51,31 +61,29 @@ table {
 ### ITSM + ITIL
 - Gestión de servicios estructurada
 - Procesos estandarizados
-- Enfoque en valor
+- Impacto empresarial 
 
 </div>
 <div>
 
 ### Infraestructura
-- Servidores y administración  
-- Cloud computing
-- Modelos de implementación
+- Tipos de servidores y su administración  
+- Computación en la nube
+- Modelos financieros (CAPEX vs OPEX)
 
 </div>
 </div>
 
-**Ahora**: Evolucionando hacia enfoques modernos que aumentan agilidad y eficiencia
+**Ahora**: Veremos enfoques modernos que aumentan la agilidad y eficiencia operativa
 
 ---
-
-## Agenda
 
 1. **DevOps y Site Reliability Engineering (SRE)**
 2. **Automatización operativa**
 3. **Observabilidad y monitorización**
 4. **Medición y mejora de servicios**
 5. **Continuidad y recuperación**
-6. **Gobierno de servicios**
+6. **Aplicación práctica según sector**
 
 ---
 
@@ -87,230 +95,265 @@ table {
 
 ---
 
-## La brecha Dev-Ops tradicional
+## El problema de la separación tradicional
 
 <div class="columns">
 <div>
 
 ### Desarrolladores
-- **Objetivo**: Entregas rápidas
-- **Métrica**: Features/sprint
-- **Foco**: Innovación
+- **Objetivo**: Entregar nuevas funciones
+- **Métrica principal**: Velocidad de entrega
+- **Prioridad**: Cambio e innovación
 
 </div>
 <div>
 
 ### Operaciones
-- **Objetivo**: Estabilidad
-- **Métrica**: Uptime
-- **Foco**: Control
+- **Objetivo**: Mantener estabilidad
+- **Métrica principal**: Disponibilidad
+- **Prioridad**: Control y seguridad
 
 </div>
 </div>
 
-**Resultado**: Conflicto de objetivos y silos organizacionales
+**Resultado real**: Retrasos, conflictos y servicios deficientes para el negocio
 
 ---
 
-## DevOps: Principios clave
+## DevOps: Principios fundamentales
 
-1. **Cultura colaborativa**
-2. **Automatización radical**
-3. **Medición constante**
-4. **Iteración y experimentación**
-5. **Responsabilidad compartida**
+1. **Cultura de colaboración**: Equipos integrados en lugar de separados
+2. **Automatización**: Reducir tareas manuales y repetitivas
+3. **Medición constante**: Decisiones basadas en datos reales
+4. **Mejora continua**: Aprender y ajustar constantemente
+5. **Responsabilidad compartida**: "Si lo construyes, lo operas"
 
-<div class="code-block">
-"You build it, you run it"
-- Amazon Web Services
+<div class="impact">
+"Las empresas con DevOps avanzado despliegan 
+cambios 200 veces más rápido" - State of DevOps Report
 </div>
 
 ---
 
-## site Reliability Engineering (SRE)
-
-### El enfoque de Google
-
-**SRE** = Cuando se pide a un ingeniero de software que diseñe un departamento de operaciones.
+## DevOps en diferentes sectores
 
 <div class="columns">
 <div>
 
-### Fundamentos SRE
-- Error budgets
-- Objetivos de nivel de servicio
-- Automatización de tareas repetitivas
-- Ingeniería de confiabilidad
+### Tecnología
+- Entregas diarias o continuas
+- Equipos multifuncionales
+- Ejemplo: Spotify, Amazon
 
 </div>
 <div>
 
-### Métricas clave
-- SLO (Service Level Objective)
-- SLI (Service Level Indicator)
-- SLA (Service Level Agreement)
+### Industria
+- Integración de software en maquinaria
+- Monitorización predictiva
+- Ejemplo: Smart factories, IoT industrial
 
 </div>
 </div>
 
 ---
 
-## DevOps vs SRE vs ITIL
+## Site Reliability Engineering (SRE)
 
-|Característica|DevOps|SRE|ITIL|
+### La visión de Google sobre operaciones
+
+Aplicar ingeniería de software a los problemas de operaciones.
+
+<div class="columns">
+<div>
+
+### Principios SRE
+- Presupuesto de error: cuánto puede fallar un sistema
+- Eliminar tareas operativas repetitivas
+- Automatización por defecto
+- Degradación gradual en lugar de fallos completos
+
+</div>
+<div>
+
+### Métricas clave simplificadas
+- **SLO**: Objetivo de nivel de servicio (ej: 99.9% disponible)
+- **SLI**: Indicador real medido (ej: % de peticiones exitosas)
+- **Error budget**: Margen permitido de fallos (ej: 0.1% del tiempo)
+
+</div>
+</div>
+
+---
+
+## Comparativa de enfoques
+
+|Característica|Enfoque tradicional|DevOps|SRE|
 |-|-|-|-|
-|**Enfoque**|Cultura y colaboración|Ingeniería de confiabilidad|Procesos estándar|
-|**Origen**|Movimiento industria|Google|Gobierno UK/Industria|
-|**Cambios**|Continuos|Basados en error budget|Controlados formalmente|
-|**Focus**|Entrega rápida|Confiabilidad|Gobernanza|
+|**Cambios**|Grandes y arriesgados|Pequeños y frecuentes|Basados en presupuesto de error|
+|**Equipos**|Separados|Colaborativos|Integrados|
+|**Prioridad**|Estabilidad o velocidad|Balance y automatización|Confiabilidad y escala|
+|**Aplicación**|Cualquier empresa|Organizaciones ágiles|Entornos de gran escala|
 
 ---
 
-## Implementación: Golden Signals
+## Las 4 señales doradas de SRE
 
 <div class="columns-3">
 <div>
 
-### Latency
-Tiempo de respuesta 
-de requests
+### Latencia
+Tiempo de respuesta  
+"¿Cuánto tarda?"
 
 </div>
 <div>
 
-### Traffic  
+### Tráfico  
 Volumen de demanda
-del sistema
+"¿Cuántas peticiones?"
 
 </div>
 <div>
 
-### Errors
+### Errores
 Tasa de fallos
-en requests
+"¿Cuánto falla?"
 
 </div>
 </div>
 
-### Saturation
-Utilización de recursos
+### Saturación
+Nivel de uso de recursos (CPU, memoria, red)
+"¿Cuánta capacidad queda?"
 
 ---
 
 # Automatización Operativa
 
-## Eliminando el trabajo manual
+## Reduciendo el trabajo manual repetitivo
 
 ![bg right:35% 80%](https://images.unsplash.com/photo-1495317987375-ce0780d0a1ab)
 
 ---
 
-## ¿Por qué automatizar?
+## ¿Por qué automatizar? El caso de negocio
 
 <div class="columns">
 <div>
 
-### Problemas actuales
-- Tareas repetitivas = errores
-- Dependencia de personas
-- Escalabilidad limitada
-- Inconsistencia en entregas
+### Problemas del trabajo manual
+- Error humano: causa del 70% de los fallos
+- Inconsistencia entre entornos
+- Imposible escalar con personas
+- Conocimiento en silos (dependencia de expertos)
 
 </div>
 <div>
 
-### Beneficios  
-- Reducción de errores
-- Escalabilidad real
-- Respuestas más rápidas
-- Liberación de talento
+### Beneficios cuantificables  
+- Reducción de errores: hasta 90%
+- Tiempo de respuesta: de horas a minutos
+- Aumento de capacidad sin personal adicional
+- ROI típico: 3-6 meses
 
 </div>
 </div>
 
 ---
 
-## Niveles de automatización
+## Automatización progresiva
 
-|Nivel|Descripción|Ejemplos|
-|-|-|-|
-|**Básico**|Scripts para tareas simples|Cron jobs, backups|
-|**Intermedio**|Orquestación de procesos|Ansible, Puppet|
-|**Avanzado**|Infraestructura como código|Terraform, CloudFormation|
-|**Inteligente**|Auto-reparación, ML/AI|Chaos engineering|
-
----
-
-## Infrastructure as Code (IaC)
-
-```terraform
-resource "aws_instance" "web" {
-  ami           = "ami-0c55b159cbfafe1f0"
-  instance_type = "t2.micro"
-  
-  tags = {
-    Name = "WebServer"
-    Environment = "Production"
-  }
-}
-```
-
-**Beneficios**:
-- Versionado 
-- Revisiones
-- Reproducibilidad
-- Documentación viva
+|Nivel|Qué se automatiza|Beneficio empresarial|Ejemplo concreto|
+|-|-|-|-|
+|**Básico**|Tareas individuales|Ahorro de tiempo puntual|Script de copia de seguridad diaria|
+|**Intermedio**|Procesos completos|Consistencia y velocidad|Despliegue completo de servidores web|
+|**Avanzado**|Infraestructura completa|Agilidad organizacional|Entorno completo creado en minutos|
+|**Inteligente**|Auto-reparación|Reducción drástica de incidentes|Sistema que se recupera solo de fallos|
 
 ---
 
-## CI/CD Pipeline
+## Infraestructura como Código (simplificado)
 
-```yaml
-# .gitlab-ci.yml
-stages:
-  - build
-  - test  
-  - deploy
+<div class="columns">
+<div>
 
-deploy_production:
-  stage: deploy
-  script:
-    - ./deploy.sh production
-  environment:
-    name: production
-    url: https://app.example.com
-```
+### Concepto básico
+Describir la infraestructura en archivos de texto que pueden:
+- Guardarse en control de versiones
+- Revisarse como código normal
+- Ejecutarse automáticamente
+- Reproducirse exactamente igual
+
+</div>
+<div>
+
+### Analogía
+Es como tener la "receta" exacta para crear:
+- Servidores
+- Redes
+- Bases de datos
+- Entornos completos
+
+</div>
+</div>
 
 ---
 
-## Herramientas modernas
+## Despliegue continuo (CI/CD)
+
+<div class="columns">
+<div>
+
+### Proceso manual tradicional
+1. Desarrollo (semanas/meses)
+2. Pruebas separadas (días/semanas)
+3. Preparación (días)
+4. Despliegue con riesgo (horas/días)
+
+**Total**: Semanas o meses
+
+</div>
+<div>
+
+### Proceso automatizado
+1. Desarrollo iterativo
+2. Pruebas automáticas inmediatas
+3. Verificación automática
+4. Despliegue automatizado
+
+**Total**: Minutos u horas
+
+</div>
+</div>
+
+---
+
+## Ejemplos de automatización por sector
 
 <div class="columns-3">
 <div>
 
-### Configuración
-- Ansible
-- Puppet
-- Chef
-- Salt
+### TI
+- Despliegue de aplicaciones
+- Gestión de configuración
+- Copias de seguridad
 
 </div>
 <div>
 
-### CI/CD
-- Jenkins
-- GitLab CI
-- GitHub Actions
-- CircleCI
+### Industria
+- Control de calidad
+- Mantenimiento predictivo
+- Gestión de inventario
 
 </div>
 <div>
 
-### Orquestación
-- Kubernetes
-- Docker Swarm
-- AWS ECS
-- Nomad
+### Empresarial
+- Procesos financieros
+- Análisis de datos
+- Servicio al cliente
 
 </div>
 </div>
@@ -319,457 +362,421 @@ deploy_production:
 
 # Observabilidad
 
-## Más allá de la monitorización tradicional
+## Entendiendo sistemas complejos
 
 ![bg right:35% 80%](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
 
 ---
 
-## Monitorización vs Observabilidad
+## Evolución de la supervisión
 
 <div class="columns">
 <div>
 
 ### Monitorización tradicional
-- Métricas predefinidas
-- Dashboards estáticos
-- Alertas basadas en umbrales
+- Comprueba si algo funciona o no
+- Alertas basadas en umbrales fijos
+- Enfoque reactivo (avisa cuando falla)
+- Limitado a lo que se configuró previamente
 
 </div>
 <div>
 
-### Observabilidad
-- Entender estados desconocidos
-- Exploración ad-hoc
-- Correlación de eventos
+### Observabilidad moderna
+- Permite entender por qué algo no funciona
+- Análisis flexible de problemas desconocidos
+- Enfoque proactivo (detecta antes de fallar)
+- Adaptable a situaciones no previstas
 
 </div>
 </div>
 
 ---
 
-## Los tres pilares
+## Los tres elementos esenciales
 
 <div class="columns-3">
 <div>
 
-### Metrics
-Valores numéricos
-a lo largo del tiempo
+### Métricas
+Valores numéricos medidos
+continuamente
+
+**Ejemplo**: Uso CPU = 75%
 
 </div>
 <div>
 
-### Logs
-Eventos discretos  
-con contexto
+### Registros (logs)
+Eventos detallados con  
+información de contexto
+
+**Ejemplo**: Error al procesar ID 12345 a las 15:30
 
 </div>
 <div>
 
-### Traces
-Flujos de requests
-distribuidos
+### Trazas
+Seguimiento de operaciones
+a través de múltiples sistemas
+
+**Ejemplo**: Recorrido de un pedido desde la web hasta el almacén
 
 </div>
 </div>
 
 ---
 
-## Stack de observabilidad
+## Observabilidad en acción: Caso práctico
 
-```yaml
-# Prometheus + Grafana + Jaeger
-services:
-  prometheus:
-    image: prom/prometheus
-  grafana:
-    image: grafana/grafana
-  jaeger:
-    image: jaegertracing/all-in-one
-```
+<div class="columns">
+<div>
 
----
+### Escenario: Lentitud en aplicación comercial
+**Enfoque tradicional**:
+- Verificar si los servidores funcionan
+- Comprobar uso de recursos
+- Reiniciar sistemas
+- Horas o días hasta resolver
 
-## Distributed Tracing
+</div>
+<div>
 
-![bg right:50% 90%](https://www.jaegertracing.io/img/trace-detail.png)
+### Con observabilidad moderna
+- Identificar transacciones lentas exactas
+- Ver recorrido completo del proceso
+- Localizar componente específico con problema
+- Resolución en minutos
 
-- Seguimiento de requests a través de microservicios
-- Identificación de cuellos de botella
-- Debugging en sistemas distribuidos
+</div>
+</div>
 
 ---
 
 # Medición y Mejora
 
-## Gestión basada en datos
+## Gestión basada en datos reales
 
 ![bg right:35% 80%](https://images.unsplash.com/photo-1460925895917-afdab827c52f)
 
 ---
 
-## Error Budget
-
-### Concepto SRE clave
+## Presupuesto de error: Equilibrando estabilidad e innovación
 
 <div class="columns">
 <div>
 
-### Fórmula básica
-100% - SLO = Error Budget
-
-**Ejemplo**:
-- SLO: 99.9% uptime
-- Error budget: 0.1%
+### Concepto en lenguaje simple
+Si nuestro objetivo es 99.9% disponibilidad:
+- Tenemos 0.1% "permitido" para fallos
 - = 43.8 minutos/mes
+- Mientras no superemos ese límite, podemos seguir innovando
 
 </div>
 <div>
 
-### Beneficios
-- Balance innovación/estabilidad
-- Decisiones objetivas
-- Responsabilidad compartida
-- Métricas de negocio
+### Beneficios para la organización
+- Balance entre innovar y estabilizar
+- Decisiones objetivas sobre riesgos
+- Reduce conflictos entre áreas
+- Priorización basada en datos
 
 </div>
 </div>
 
 ---
 
-## KPIs operativos modernos
+## Indicadores clave para servicios modernos
 
-|Métrica|Descripción|Objetivo típico|
+|Métrica|Explicación sencilla|Impacto en el negocio|
 |-|-|-|
-|**MTTD**|Mean Time To Detection|< 5 minutos|
-|**MTTR**|Mean Time To Recovery|< 30 minutos|
-|**SLO**|Service Level Objective|99.9%|
-|**Change failure rate**|% de cambios que fallan|< 15%|
+|**MTTD**|Tiempo en detectar problemas|Menos tiempo = menor impacto|
+|**MTTR**|Tiempo en recuperar el servicio|Mide velocidad de respuesta a incidentes|
+|**Deployment frequency**|Frecuencia de cambios|Mayor = más agilidad|
+|**Change failure rate**|% de cambios que causan problemas|Menor = más calidad|
 
 ---
 
-## Métricas DORA
-
-### DevOps Research and Assessment
+## Comparativa de rendimiento en la industria
 
 <div class="columns">
 <div>
 
-### Velocidad
-- **Deployment frequency**
-- **Lead time for changes**
+### Bajo rendimiento
+- Despliegues: 1 por mes
+- MTTR: Días o semanas
+- Tasa de fallos: >45%
+- Tiempo para cambios: 6+ meses
 
 </div>
 <div>
 
-### Estabilidad
-- **Time to restore service**
-- **Change failure rate**
+### Alto rendimiento
+- Despliegues: Múltiples por día
+- MTTR: Menos de 1 hora
+- Tasa de fallos: <5%
+- Tiempo para cambios: Menos de 1 día
 
 </div>
 </div>
 
-**Elite performers**: Deploy múltiple veces al día con MTTR < 1 hora
+<div class="impact">
+Las organizaciones de alto rendimiento son 2.5 veces más probables 
+de superar sus objetivos comerciales
+</div>
 
 ---
 
-## Análisis de causa raíz
+## Análisis de causa raíz: Método de los 5 Porqués
 
-### Los 5 Porqués
+**Ejemplo práctico: Sistema de facturación fallando**
 
-**Problema**: El sitio web está caído
+<div class="columns">
+<div>
 
-1. ¿Por qué? → El servidor web no responde
-2. ¿Por qué? → La base de datos está sobrecargada
-3. ¿Por qué? → Query ineficiente en bucle
-4. ¿Por qué? → Bug en última actualización
-5. ¿Por qué? → Falta de pruebas automatizadas
+### Problema superficial
+1. ¿Por qué? El sistema está lento
+2. ¿Por qué? Base de datos sobrecargada
+3. ¿Por qué? Consultas ineficientes
+4. ¿Por qué? No se revisó el rendimiento
+5. ¿Por qué? No hay proceso de revisión
 
-**Acción**: Implementar pruebas de rendimiento
+</div>
+<div>
+
+### Solución real
+- Superficial: Reiniciar sistema
+- Profunda: Implementar proceso de revisión de rendimiento antes de cada despliegue
+
+**Impacto**: Prevención de futuros problemas
+
+</div>
+</div>
 
 ---
 
 # Continuidad y Recuperación
 
-## Preparados para lo peor
+## Preparación para interrupciones
 
 ![bg right:35% 80%](https://images.unsplash.com/photo-1558494949-ef010cbdcc31)
 
 ---
 
-## RPO vs RTO
+## Los dos parámetros críticos
 
 <div class="columns">
 <div>
 
-### RPO
-Recovery Point Objective
-
-**Pregunta**: ¿Cuántos datos puedo perder?
-
-**Soluciones**:
-- Replicación continua
-- Snapshots frecuentes
-- Transacciones distribuidas
+### RPO (Recovery Point Objective)
+- **Pregunta**: ¿Cuántos datos podemos permitirnos perder?
+- **Ejemplo**: RPO = 1 hora significa perder como máximo 1 hora de datos
+- **Impacto financiero**: Mayor = más barato pero más pérdida potencial
 
 </div>
 <div>
 
-### RTO  
-Recovery Time Objective
-
-**Pregunta**: ¿Cuánto tiempo puedo estar caído?
-
-**Soluciones**:
-- Failover automático
-- Hot standby
-- Multi-region deployment
+### RTO (Recovery Time Objective)
+- **Pregunta**: ¿Cuánto tiempo podemos estar sin servicio?
+- **Ejemplo**: RTO = 4 horas significa volver a funcionar en máximo 4 horas
+- **Impacto financiero**: Menor = más costoso pero menos pérdidas por caída
 
 </div>
 </div>
 
 ---
 
-## Estrategias de backup
+## Estrategias de recuperación para cada necesidad
 
-|Estrategia|RPO|RTO|Costo|Uso|
-|-|-|-|-|-|
-|**Cold backup**|Diario|24-48h|Bajo|Datos no críticos|
-|**Warm backup**|1-4h|2-4h|Medio|Apps importantes|
-|**Hot backup**|Minutos|< 1h|Alto|Sistemas críticos|
-|**Activo-Activo**|0|0|Muy alto|Finanzas, salud|
-
----
-
-## Disaster Recovery Plan
-
-### Componentes clave
-
-1. **Evaluación de riesgos**
-2. **Planificación de recuperación**
-3. **Pruebas regulares**
-4. **Actualización continua**
-5. **Entrenamiento del equipo**
+|Estrategia|Explicación sencilla|Coste relativo|Tipos de servicios|
+|-|-|-|-|
+|**Backup y restauración**|Copias de seguridad periódicas|€|Datos no críticos|
+|**Backup en caliente**|Copias en tiempo real o casi real|€€|Sistemas importantes|
+|**Sistemas redundantes**|Duplicación de componentes críticos|€€€|Servicios críticos|
+|**Multi-región/zona**|Sistemas en múltiples ubicaciones físicas|€€€€|Servicios esenciales|
 
 ---
 
-## Chaos Engineering
+## Plan de recuperación ante desastres:<br> componentes esenciales
 
-### Inyectar fallos para ser más resiliente
+1. **Análisis de impacto en el negocio**: Cuantificar el costo de las interrupciones
+2. **Inventario de sistemas críticos**: Priorizar qué recuperar primero
+3. **Procedimientos documentados**: Pasos exactos a seguir
+4. **Roles y responsabilidades**: Quién hace qué durante la crisis
+5. **Pruebas regulares**: Verificar que el plan realmente funciona
 
-```java
-// Simian Army - Netflix
-// Chaos Monkey apaga instancias aleatorias
-// Latency Monkey introduce delays
-// Chaos Gorilla mata zonas enteras
-```
-
-**Principio**: "Si no puedes romperlo, no puedes saber si funciona"
-
----
-
-# Gobierno de Servicios
-
-## Framework de decisiones
-
-![bg right:35% 80%](https://images.unsplash.com/photo-1450101499163-c8848c66ca85)
+<div class="impact">
+"40% de las empresas que sufren un desastre sin plan 
+no vuelven a abrir." - Gartner
+</div>
 
 ---
 
-## ¿Por qué gobierno?
+## Continuidad por sector: ejemplos prácticos
+
+<div class="columns-3">
+<div>
+
+### TI
+- Sistemas redundantes
+- Centros de datos alternativos
+- Replicación de datos
+
+</div>
+<div>
+
+### Industria
+- Sistemas de respaldo para control
+- Procedimientos manuales alternativos
+- Inventarios de seguridad
+
+</div>
+<div>
+
+### Servicios financieros
+- Centros de operaciones alternativos
+- Replicación en tiempo real
+- Pruebas trimestrales obligatorias
+
+</div>
+</div>
+
+---
+
+# Aplicación práctica por sector
+
+## Adaptación a diferentes necesidades
+
+---
+
+## Tecnologías de la Información
 
 <div class="columns">
 <div>
 
-### Riesgos sin gobierno
-- Decisiones inconsistentes
-- Inversiones duplicadas
-- Riesgos no controlados
-- Silos organizacionales
+### Desafíos específicos
+- Ritmo acelerado de cambio tecnológico
+- Expectativas de disponibilidad 24/7
+- Seguridad y cumplimiento normativo
+- Escalabilidad variable
 
 </div>
 <div>
 
-### Beneficios
-- Alineación estratégica
-- Gestión de riesgos
-- Uso eficiente de recursos
-- Cumplimiento normativo
+### Enfoque recomendado
+- CI/CD + infraestructura como código
+- SRE para servicios críticos
+- Observabilidad multinivel
+- Automatización extensiva
 
 </div>
 </div>
 
 ---
 
-## Marcos de gobierno
-
-|Marco|Enfoque|Best for|
-|-|-|-|
-|**COBIT**|Gobierno integral de TI|Grandes empresas|
-|**ISO/IEC 38500**|Principios de gobierno|Boards directivos|
-|**Val IT**|Valor de inversiones|ROI de proyectos|
-|**ITIL + COBIT**|Operaciones + Control|Balance operación/gobierno|
-
----
-
-## Decisiones de arquitectura
-
-### ADR (Architecture Decision Records)
-
-```markdown
-# ADR 001: Migración a microservicios
-
-## Estado
-Aceptado
-
-## Contexto
-Monolito actual limita escalabilidad
-
-## Decisión
-Migrar gradualmente a microservicios
-
-## Consecuencias
-- Mayor complejidad operativa
-- Mejor escalabilidad
-- Equipo necesita nuevas skills
-```
-
----
-
-## Políticas operativas
+## Entornos Industriales
 
 <div class="columns">
 <div>
 
-### Auto-aprobadas
-- Patches de seguridad
-- Cambios rutinarios
-- Auto-scaling
+### Desafíos específicos
+- Integración IT/OT (Tecnología operativa)
+- Restricciones de seguridad física
+- Impacto directo en producción
+- Ciclos de vida más largos
 
 </div>
 <div>
 
-### Requieren aprobación
-- Cambios arquitectónicos
-- Inversiones significativas
-- Riesgos altos
+### Enfoque recomendado
+- Automatización gradual y validada
+- Monitorización predictiva
+- Planes de continuidad robustos
+- Gestión del cambio controlada
 
 </div>
 </div>
 
 ---
 
-# Integración: Todo conectado
-
-## De silos a ecosistema
-
----
-
-## El ciclo moderno
-
-### ITIL + DevOps + Cloud
-
-```mermaid
-graph LR
-    A[ITIL Procesos] --> B[DevOps Culture]
-    B --> C[Cloud Infrastructure]
-    C --> D[Observability]
-    D --> E[Continuous Improvement]
-    E --> A
-```
-
----
-
-## Case Study: Modernización Bancaria
+## Servicios empresariales
 
 <div class="columns">
 <div>
 
-### Antes
-- ITIL estricto
-- Cambios cada 6 meses
-- Alertas manuales
-- 4h MTTR
+### Desafíos específicos
+- Orientación a procesos de negocio
+- Cumplimiento regulatorio
+- Variabilidad estacional
+- Experiencia del cliente
 
 </div>
 <div>
 
-### Después
-- ITIL + DevOps
-- Deploy diario
-- Observabilidad
-- 30min MTTR
+### Enfoque recomendado
+- Observabilidad centrada en KPIs de negocio
+- Automatización de procesos (RPA)
+- Análisis de impacto empresarial
+- Gestión por métricas comerciales
 
 </div>
 </div>
 
-**Resultado**: 10x velocidad, 8x menos incidentes
+---
+
+# Tendencias y futuro
+
+## Evolución de las operaciones
 
 ---
 
-# Futuro de las operaciones
-
-## Tendencias emergentes
-
----
-
-## AIOps
-
-### Inteligencia Artificial para Operaciones
+## AIOps: Inteligencia artificial en operaciones
 
 <div class="columns">
 <div>
 
-### Capacidades
-- Detección de anomalías
-- Predicción de fallos
-- Automatización de respuestas
-- Optimización automática
+### Capacidades principales
+- Detección automática de anomalías
+- Predicción de problemas futuros
+- Correlación inteligente de eventos
+- Recomendaciones de resolución
 
 </div>
 <div>
 
-### Herramientas
-- Datadog AI
-- PagerDuty
-- BigPanda
-- Splunk ITSI
+### Beneficios empresariales
+- Reducción del 50% en incidentes no detectados
+- Diagnóstico un 60% más rápido
+- Automatización de respuestas de primer nivel
+- Mejora continua basada en patrones
 
 </div>
 </div>
 
 ---
 
-## FinOps
+## Optimización de costos en la nube (FinOps)
 
-### Optimización de costos cloud
+<div class="columns">
+<div>
 
-|Práctica|Impacto|Herramientas|
-|-|-|-|
-|**Cloud cost allocation**|Visibilidad|AWS Cost Explorer|
-|**Reserved instances**|30-50% ahorro|Cloud analyzers|
-|**Auto-scaling**|Eficiencia|K8s HPA|
-|**Rightsizing**|20-30% ahorro|CloudFit|
+### El problema
+- Costos cloud no controlados
+- Aumento del 30-45% anual en gasto
+- Recursos aprovisionados en exceso
+- Falta de visibilidad del consumo
 
----
+</div>
+<div>
 
-## GitOps
+### Soluciones prácticas
+- Asignación y monitorización por departamento
+- Instancias reservadas (ahorro 30-60%)
+- Apagado automático de recursos no utilizados
+- Rightsizing (ajuste de recursos a necesidad real)
 
-### Operaciones declarativas
-
-```yaml
-# fleet.yaml - Descripción del estado deseado
-apiVersion: fleet.io/v1
-kind: GitRepo
-metadata:
-  name: deployments
-spec:
-  repo: https://github.com/org/deployments
-  branch: production
-```
-
-**Principio**: Git como única fuente de verdad
+</div>
+</div>
 
 ---
 
@@ -779,23 +786,25 @@ spec:
 
 ---
 
-## 1. De procesos a cultura
+## 1. Transformación de mentalidad
 
 <div class="columns">
 <div>
 
-### Antes
-- ITIL como burocracia
-- Silos departamentales
-- Miedo al cambio
+### De procesos a cultura
+- ITIL como marco útil no como dogma
+- DevOps como cultura de colaboración
+- SRE como ingeniería de confiabilidad
+- Datos como base de decisiones
 
 </div>
 <div>
 
-### Ahora
-- Cultura DevOps
-- Colaboración total
-- Experimentación segura
+### Beneficios reales
+- Mayor velocidad de innovación
+- Menos conflictos interdepartamentales
+- Mejora en satisfacción de clientes
+- Eficiencia operativa mejorada
 
 </div>
 </div>
@@ -804,104 +813,111 @@ spec:
 
 ## 2. Automatización inteligente
 
-**No es solo automatizar, es automatizar inteligentemente**
+<div class="impact">
+"No es automatizar por automatizar, es eliminar el trabajo 
+repetitivo para centrarse en lo que aporta valor"
+</div>
 
-- Infraestructura como código
-- Observabilidad profunda  
-- Auto-reparación
-- Decisiones basadas en datos
-
----
-
-## 3. La ecuación perfecta
-
-```
-ITIL (estructura) + 
-DevOps (cultura) + 
-SRE (ingeniería) + 
-Cloud (flexibilidad) = 
-Operaciones modernas
-```
+- Infraestructura como código = Consistencia y velocidad
+- Observabilidad = Comprensión profunda de sistemas
+- Auto-reparación = Reducción drástica de incidentes
+- Medición = Base para la mejora continua
 
 ---
 
-## 4. Skills del futuro
+## 3. La ecuación ganadora
+
+|||
+|-|-|
+Marco de procesos (ITIL)|+ 
+Cultura colaborativa (DevOps)|+ 
+Ingeniería de confiabilidad (SRE)|+ 
+Automatización inteligente|+ 
+Infraestructura flexible (Cloud)|= 
+**Operaciones que impulsan el negocio en vez de frenarlo**
+
+
+---
+
+## 4. Competencias del futuro
 
 <div class="columns-3">
 <div>
 
 ### Técnicas
-- Kubernetes
-- Terraform
-- Observability stack
-- AI/ML básico
+- Automatización
+- Cloud multiplataforma
+- Observabilidad
+- Seguridad integrada
 
 </div>
 <div>
 
-### Blandas
-- Colaboración
-- Pensamiento sistémico
-- Mentalidad ágil
-- Comunicación
+### Personas
+- Colaboración efectiva
+- Visión de conjunto
+- Adaptabilidad
+- Comunicación clara
 
 </div>
 <div>
 
-### Híbridas
-- Site Reliability
-- Cloud arquitecture
-- Security engineering
-- Platform engineering
+### Negocio
+- Análisis de valor
+- Orientación a resultados
+- Mejora continua
+- Gestión del cambio
 
 </div>
 </div>
 
 ---
 
-# El camino adelante
+# Plan de acción
 
-## Tu roadmap operativo
-
----
-
-## Fase 1: Bases sólidas
-
-1. Implementar ITIL para estructura
-2. Establecer métricas básicas
-3. Automatizar lo repetitivo
-4. Construir observabilidad
+## Pasos concretos para avanzar
 
 ---
 
-## Fase 2: Transformación cultural
+## Fase 1: Fundamentos (3-6 meses)
 
-1. Adoptar principios DevOps
-2. Implementar CI/CD
-3. Error budgets y SLOs
-4. Experimentos seguros
+1. Adoptar ITIL para estructura básica y terminología común
+2. Implementar monitorización centralizada con alertas útiles
+3. Documentar procesos críticos y crear playbooks de respuesta
+4. Identificar tareas manuales repetitivas para automatizar
 
 ---
 
-## Fase 3: Excelencia operativa
+## Fase 2: Evolución (6-12 meses)
 
-1. SRE prácticas
-2. AIOps exploración
-3. FinOps para optimización
-4. Platform engineering
+1. Introducir prácticas DevOps en áreas seleccionadas
+2. Crear plataforma básica de automatización de despliegues
+3. Implementar observabilidad para servicios críticos
+4. Definir SLAs, SLOs y error budgets para servicios principales
+
+---
+
+## Fase 3: Transformación (12-24 meses)
+
+1. Adoptar infraestructura como código
+2. Implementar CI/CD completo para aplicaciones clave
+3. Establecer equipos con enfoque SRE
+4. Desarrollar medición integral de resultados de negocio
 
 ---
 
 # Recursos para continuar
 
-- [SRE Book - Google](https://sre.google/sre-book/)
-- [DORA State of DevOps](https://cloud.google.com/devops/state-of-devops/)
-- [Kubernetes Learning Path](https://kubernetes.io/docs/home/)
-- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-- [Platform Engineering](https://platformengineering.org)
+- [SRE Book - Google](https://sre.google/sre-book/) - Fundamentos de SRE
+- [State of DevOps Report](https://cloud.google.com/devops/state-of-devops/) - Benchmarks de la industria
+- [Cloud Adoption Framework](https://azure.microsoft.com/en-us/cloud-adoption-framework/) - Migración a cloud
+- [FinOps Foundation](https://www.finops.org/) - Optimización de costos cloud
+- [DORA Metrics](https://www.devops-research.com/research.html) - Medición de rendimiento
 
 ---
 
 # Reflexión final
 
-Las operaciones modernas no son un departamento, son una capacidad estratégica organizacional.
+Las operaciones modernas no son un centro de coste,
+sino un elemento estratégico que potencia la capacidad 
+de la organización para innovar, adaptarse y crecer.
