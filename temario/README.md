@@ -95,9 +95,9 @@
 - [ ] Preparación para el comercio electrónico
 - [ ] Aspectos críticos para el éxito
 
-# [Y además...](/documentos/refactoring/temasPropuestosCompleto.md)
+# [Y además...](/documentos/temasPropuestosCompleto.md)
 
-- Gobernanza y regulación
+- [x] [Gobernanza y regulación](gobernanza.md)
 - Modernización y deuda
 - Cultura y talento
 - Sostenibilidad
