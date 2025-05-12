@@ -66,6 +66,20 @@
 
 </div>
 
+
+---
+
+## Resumen o hilo conductor
+
+|Modelos e innovación|Dirección de SI|Planificación|Proyectos|Servicios|
+|:-:|:-:|:-:|:-:|:-:|
+|Entendemos el negocio|Definimos quién lidera este esfuerzo|Desarrollamos una estrategia|La implementamos|Nos ocupamos de la operación continua|
+|<sub>*Comprender el terreno*</sub>|<sub>*Definir el arquitecto*</sub>|<sub>*Diseñar los planos*</sub>|<sub>*Construir las estructuras*</sub>|<sub>*Mantener y perfeccionar*</sub>|
+
+Cada parte construye sobre la anterior y todas están interconectadas: no se pueden  diseñar buenos sistemas sin entender el negocio, ni implementarlos sin una estrategia clara, ni mantenerlos sin buenos procesos de operación.
+
+---
+
 ## [Gestión de operaciones](05-gestionOP/README.md)
 
 > *Este capítulo trata sobre los procesos y actividades necesarias para gestionar los servicios tecnológicos que dan soporte a los procesos de negocio de una organización.*
@@ -97,13 +111,3 @@
 - Sostenibilidad
 - Plataformas y ecosistemas
 
----
-
-## Resumen o hilo conductor
-
-|Modelos e innovación|Dirección de SI|Planificación|Proyectos|Servicios|
-|:-:|:-:|:-:|:-:|:-:|
-|Entendemos el negocio|Definimos quién lidera este esfuerzo|Desarrollamos una estrategia|La implementamos|Nos ocupamos de la operación continua|
-|<sub>*Comprender el terreno*</sub>|<sub>*Definir el arquitecto*</sub>|<sub>*Diseñar los planos*</sub>|<sub>*Construir las estructuras*</sub>|<sub>*Mantener y perfeccionar*</sub>|
-
-Cada parte construye sobre la anterior y todas están interconectadas: no se pueden  diseñar buenos sistemas sin entender el negocio, ni implementarlos sin una estrategia clara, ni mantenerlos sin buenos procesos de operación.
