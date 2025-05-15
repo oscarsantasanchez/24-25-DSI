@@ -45,8 +45,6 @@ ITSM abarca todo el ciclo de vida de los servicios tecnológicos, desde su conce
 |**Gestión de activos y configuración**|Registro y control de componentes de TI|Mantener información precisa sobre la infraestructura|
 |**Gestión de la capacidad**|Asegurar recursos adecuados|Soportar necesidades actuales y futuras de manera rentable|
 |**Gestión de la disponibilidad**|Asegurar servicios accesibles cuando se necesiten|Cumplir requisitos acordados y expectativas de usuarios|
-|**Gestión de proveedores**|Administración de relaciones con terceros|Asegurar que los proveedores cumplan sus compromisos|
-|**Gestión financiera**|Control de costos y presupuestos de TI|Garantizar uso eficiente de recursos financieros|
 |**Gestión del conocimiento**|Compartir información y experiencias|Evitar reinventar soluciones y mejorar eficiencia|
 
 </div>
@@ -74,8 +72,6 @@ Un enfoque estructurado de ITSM proporciona numerosos beneficios para las organi
 - **Optimización de costos**: Permite gestionar los gastos de TI de manera más efectiva al comprender mejor el verdadero costo de los servicios.
 
 ## ¿Cómo?
-
-La implementación efectiva de ITSM en una organización requiere un enfoque integral que considere personas, procesos y tecnología:
 
 ### Enfoque de implementación 
 
@@ -178,13 +174,9 @@ Existen diversos marcos y estándares para implementar ITSM, cada uno con difere
 
 - **VeriSM**: Enfoque moderno que integra diversas metodologías y prácticas basado en principios de valor.
 
-- **Google SRE (Site Reliability Engineering)**: Enfoque desarrollado por Google que combina ingeniería de software con operaciones de TI.
-
 ## Enlaces y referencias
 
 - [ISO/IEC 20000 Gestión de Servicios de TI](https://www.iso.org/standard/70636.html)
 - [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 - [Essential Service Management - FitSM](https://www.fitsm.eu/)
-- [VeriSM Overview](https://www.ifdc.global/verisim)
-- [Site Reliability Engineering - Google](https://sre.google/sre-book/table-of-contents/)
 - [COBIT 2019](https://www.isaca.org/resources/cobit)

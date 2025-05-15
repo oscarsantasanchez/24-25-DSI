@@ -104,7 +104,6 @@ Una infraestructura tecnológica bien diseñada y gestionada proporciona numeros
 |**Operaciones**|Sistemas ERP confiables<br>Automatización de procesos<br>Gestión eficiente de la cadena de suministro|
 |**Desarrollo de productos**|Entornos de desarrollo ágiles<br>Herramientas de colaboración<br>Capacidad para pruebas y simulaciones|
 |**Atención al cliente**|Sistemas multicanal integrados<br>Acceso rápido a información<br>Continuidad de servicio|
-|**Recursos humanos**|Sistemas de gestión del talento<br>Plataformas de formación<br>Herramientas de colaboración|
 
 </div>
 
@@ -153,10 +152,9 @@ El diseño de una infraestructura tecnológica efectiva debe guiarse por varios 
 |Modelo|Características|Ventajas|Desventajas|
 |-|-|-|-|
 |**Gestión tradicional**|Equipos especializados por tecnología<br>Procesos formales<br>Cambios planificados|Control detallado<br>Especialización profunda<br>Estabilidad|Silos operativos<br>Lentitud en cambios<br>Comunicación compleja|
-|**NOC/SOC centralizado**|Centro de operaciones unificado<br>Monitorización 24/7<br>Respuesta coordinada|Visión completa<br>Respuesta ágil<br>Eficiencia operativa|Costos elevados<br>Dependencia del centro<br>Posible alejamiento del negocio|
-|**DevOps/SRE**|Integración de desarrollo y operaciones<br>Automatización extensa<br>Ingeniería de confiabilidad|Ciclos más rápidos<br>Mejora continua<br>Colaboración mejorada|Cambio cultural necesario<br>Habilidades híbridas<br>Complejidad inicial|
-|**Gestión basada en servicios**|Enfoque en servicios de negocio<br>Niveles de servicio definidos<br>Orientación al usuario|Alineación con negocio<br>Claridad de expectativas<br>Mejora de satisfacción|Esfuerzo inicial alto<br>Complejidad de medición<br>Gestión de expectativas|
-|**Gestión híbrida**|Combinación de modelos<br>Adaptación según tipo de servicio<br>Evolución gradual|Flexibilidad<br>Adaptabilidad<br>Transición controlada|Complejidad de gobernanza<br>Inconsistencias posibles<br>Desafíos de integración|
+|**NOC/SOC centralizado**|Centro de operaciones unificado<br>Monitorización 24/7<br>Respuesta coordinada|Visión completa<br>Respuesta ágil<br>Eficiencia operativa|Costos elevados<br>Dependencia del centro|
+|**DevOps/SRE**|Integración de desarrollo y operaciones<br>Automatización extensa<br>Ingeniería de confiabilidad|Ciclos más rápidos<br>Mejora continua<br>Colaboración mejorada|Cambio cultural necesario<br>Habilidades híbridas|
+|**Gestión basada en servicios**|Enfoque en servicios de negocio<br>Niveles de servicio definidos<br>Orientación al usuario|Alineación con negocio<br>Claridad de expectativas<br>Mejora de satisfacción|Esfuerzo inicial alto<br>Complejidad de medición|
 
 </div>
 
@@ -174,22 +172,6 @@ El diseño de una infraestructura tecnológica efectiva debe guiarse por varios 
 
 </div>
 
-### Herramientas y tecnologías clave
-
-<div align=center>
-
-|Categoría|Ejemplos|Propósito|
-|-|-|-|
-|**Monitorización y observabilidad**|Prometheus, Grafana, Datadog, Nagios|Detectar problemas, analizar tendencias, visualizar métricas|
-|**Automatización y orquestación**|Ansible, Terraform, Puppet, Chef|Configurar sistemas, desplegar infraestructura, estandarizar entornos|
-|**Contenedores y orquestación**|Docker, Kubernetes, OpenShift|Aislar aplicaciones, gestionar despliegues, escalar servicios|
-|**Virtualización**|VMware, Hyper-V, KVM, Xen|Optimizar recursos físicos, aislar entornos, facilitar recuperación|
-|**Gestión de configuración**|ServiceNow CMDB, Device42, iTop|Mantener inventario, rastrear relaciones, gestionar cambios|
-|**Almacenamiento y backup**|NetApp, EMC, Veeam, Commvault|Preservar datos, garantizar disponibilidad, facilitar recuperación|
-|**Redes y seguridad**|Cisco, Palo Alto, Fortinet, Juniper|Conectar sistemas, proteger perímetro, segmentar tráfico|
-
-</div>
-
 ## Consideraciones futuras
 
 La infraestructura tecnológica continúa evolucionando rápidamente, y las organizaciones deben estar preparadas para las tendencias emergentes:
@@ -204,8 +186,6 @@ La infraestructura tecnológica continúa evolucionando rápidamente, y las orga
 
 4. **Zero-touch provisioning**: Configuración automática de dispositivos sin configuración manual.
 
-5. **Infraestructura cuántica**: Aprovechamiento de computación cuántica para problemas específicos.
-
 ### Sostenibilidad e infraestructura verde
 
 La eficiencia energética y la sostenibilidad se han vuelto consideraciones críticas:
@@ -219,8 +199,6 @@ La eficiencia energética y la sostenibilidad se han vuelto consideraciones crí
 ## Enlaces y referencias
 
 - [NIST Cloud Computing Standards](https://www.nist.gov/programs-projects/nist-cloud-computing-program-nccp)
-- [Data Center Knowledge](https://www.datacenterknowledge.com/)
 - [The Open Compute Project](https://www.opencompute.org/)
 - [The Uptime Institute](https://uptimeinstitute.com/)
 - [Green Grid - Sustainability for IT Infrastructure](https://www.thegreengrid.org/)
-- [Gartner - Infrastructure & Operations Research](https://www.gartner.com/en/information-technology/insights/infrastructure-operations-cloud-strategies)

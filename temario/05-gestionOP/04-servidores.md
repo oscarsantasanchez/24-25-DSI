@@ -46,8 +46,6 @@ Un servidor es un sistema informático físico o virtual diseñado para proporci
 |**Servidores de autenticación**|Validar identidades y gestionar accesos|Active Directory, LDAP, Kerberos|
 |**Servidores de DNS**|Resolver nombres de dominio a direcciones IP|BIND, Windows DNS, dnsmasq|
 |**Servidores de virtualización**|Gestionar múltiples máquinas virtuales|VMware ESXi, Hyper-V, KVM|
-|**Servidores de backup**|Gestionar copias de seguridad y recuperación|Veeam, Commvault, Backup Exec|
-|**Servidores de monitorización**|Supervisar el estado y rendimiento de sistemas|Nagios, Zabbix, PRTG, Prometheus|
 
 </div>
 
@@ -63,7 +61,6 @@ Un servidor es un sistema informático físico o virtual diseñado para proporci
 |**Tarjetas de red**|Comunicación con otros sistemas|Ancho de banda (1G, 10G, etc.)<br>Redundancia<br>Características especiales (TOE, RDMA)|
 |**Sistema operativo**|Software que controla el hardware y proporciona servicios|Windows Server<br>Linux (varias distribuciones)<br>FreeBSD<br>VMware ESXi|
 |**Fuentes de alimentación**|Suministrar energía al sistema|Potencia adecuada<br>Redundancia<br>Eficiencia energética|
-|**Sistemas de refrigeración**|Mantener temperaturas operativas adecuadas|Ventiladores<br>Refrigeración líquida<br>Diseño térmico|
 
 </div>
 
@@ -174,7 +171,6 @@ Independientemente del tipo de implementación, la gestión del sistema operativ
 |**Configuración de red**|Direccionamiento IP<br>Configuración de firewalls<br>Routing y switching<br>Monitorización de tráfico|
 |**Gestión de almacenamiento**|Particionamiento y formateo<br>Configuración de RAID<br>Monitorización de espacio<br>Optimización de rendimiento|
 |**Monitorización y logs**|Configuración de herramientas de monitorización<br>Recolección centralizada de logs<br>Alertas y notificaciones<br>Análisis de tendencias|
-|**Copias de seguridad**|Configuración de políticas de respaldo<br>Verificación de backups<br>Pruebas de restauración<br>Retención de datos|
 
 </div>
 
@@ -213,8 +209,6 @@ La protección de servidores es un aspecto crítico de su administración:
 |**Control de acceso**|Autenticación multifactor<br>Gestión centralizada de identidades<br>Rotación de credenciales<br>Registros de auditoría|
 |**Protección de red**|Segmentación y microsegmentación<br>Firewalls y sistemas de detección de intrusiones<br>Cifrado de comunicaciones<br>Monitorización de tráfico anómalo|
 |**Protección de datos**|Cifrado de datos sensibles<br>Gestión segura de claves<br>Controles de acceso a datos<br>Prevención de fuga de información|
-|**Monitorización de seguridad**|Recolección centralizada de logs<br>Análisis de eventos de seguridad<br>Detección de comportamientos anómalos<br>Correlación de eventos|
-|**Gestión de vulnerabilidades**|Escaneos regulares<br>Evaluación de riesgos<br>Remediación priorizada<br>Pruebas de penetración|
 
 </div>
 
@@ -245,7 +239,6 @@ La forma de administrar servidores está evolucionando rápidamente:
 |**Gestión de parches**|Dificultad para mantener sistemas actualizados y seguros|Proceso formal de parcheado<br>Entornos de prueba<br>Automatización de despliegue|
 |**Monitorización efectiva**|Balance entre exceso y falta de datos de monitorización|Definición clara de métricas clave<br>Alertas significativas<br>Eliminación de ruido|
 |**Escalabilidad**|Crecimiento que supera capacidad de gestión manual|Automatización<br>Estandarización<br>Arquitecturas elásticas|
-|**Respaldo y recuperación**|Asegurar protección de datos en servidores críticos|Estrategia 3-2-1 de backups<br>Pruebas regulares<br>Automatización de respaldos|
 
 </div>
 
@@ -272,7 +265,5 @@ La forma de administrar servidores está evolucionando rápidamente:
 - [Microsoft Windows Server Documentation](https://docs.microsoft.com/en-us/windows-server/)
 - [Red Hat Enterprise Linux Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
 - [VMware vSphere Documentation](https://docs.vmware.com/en/VMware-vSphere/)
-- [The Debian Administrator's Handbook](https://debian-handbook.info/)
 - [Center for Internet Security (CIS) Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
 - [NIST Special Publication 800-123: Guide to General Server Security](https://csrc.nist.gov/publications/detail/sp/800-123/final)
-- [Kubernetes Documentation](https://kubernetes.io/docs/home/)

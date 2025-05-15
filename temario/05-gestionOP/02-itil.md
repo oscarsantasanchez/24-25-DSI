@@ -117,8 +117,6 @@ La adopción de ITIL proporciona múltiples beneficios a las organizaciones:
 
 ## ¿Cómo?
 
-La implementación de ITIL en una organización debe abordarse como un programa de cambio, no simplemente como la adopción de procesos.
-
 ### Enfoque para la implementación
 
 1. **Evaluación inicial**:
@@ -172,7 +170,6 @@ ITIL no es un enfoque de "talla única". Su aplicación efectiva requiere adapta
 |**Copiar sin adaptar**|Procesos que no se ajustan a la realidad|Personalizar ITIL al contexto específico|
 |**Ignorar el factor humano**|Baja adopción y resistencia al cambio|Invertir en gestión del cambio y capacitación|
 |**Falta de métricas significativas**|Incapacidad para demostrar valor|Definir KPIs vinculados a objetivos de negocio|
-|**Herramientas antes que procesos**|Tecnología que no resuelve problemas reales|Diseñar procesos primero, luego seleccionar herramientas|
 
 </div>
 
@@ -207,7 +204,6 @@ La versión actual de ITIL se ha adaptado para responder a los desafíos de la t
 |**Cultura colaborativa**|Dimensión de "organizaciones y personas"|
 |**Experiencia del cliente**|Enfoque en co-creación de valor|
 |**Innovación tecnológica**|Flexibilidad para integrar nuevas tecnologías|
-|**Complejidad creciente**|Pensamiento holístico y sistémico|
 
 </div>
 
@@ -229,6 +225,5 @@ ITIL ofrece un esquema de certificaciones para profesionales:
 ## Enlaces y referencias
 
 - [ITIL 4 - Axelos](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation)
-- [The Official ITIL 4 Foundation Study Guide](https://www.axelos.com/store/book/itil-4-foundation-study-guide)
 - [IT Service Management Forum (itSMF)](https://www.itsmfi.org/)
 - [ISO/IEC 20000 - El estándar internacional relacionado con ITIL](https://www.iso.org/standard/70636.html)

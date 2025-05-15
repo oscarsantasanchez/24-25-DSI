@@ -43,8 +43,6 @@ Según la definición del NIST (National Institute of Standards and Technology),
 |**IaaS (Infrastructure as a Service)**|Recursos de infraestructura virtualizados bajo demanda|Gestión del SO y todo lo que se ejecuta sobre él|Amazon EC2, Azure Virtual Machines, Google Compute Engine|
 |**CaaS (Container as a Service)**|Plataforma para gestionar y orquestar contenedores|Aplicaciones en contenedores y su configuración|Amazon ECS/EKS, Azure Container Instances, Google Kubernetes Engine|
 |**FaaS (Function as a Service)**|Ejecución de funciones individuales en respuesta a eventos|Código de las funciones y su configuración|AWS Lambda, Azure Functions, Google Cloud Functions|
-|**DaaS (Database as a Service)**|Bases de datos gestionadas por el proveedor|Estructura de datos y consultas|Amazon RDS, Azure SQL Database, Google Cloud SQL|
-|**STaaS (Storage as a Service)**|Almacenamiento escalable y accesible remotamente|Gestión de datos almacenados|Amazon S3, Azure Blob Storage, Google Cloud Storage|
 
 </div>
 
@@ -57,7 +55,6 @@ Según la definición del NIST (National Institute of Standards and Technology),
 |**Nube pública**|• Propiedad de un proveedor externo<br>• Recursos compartidos entre múltiples clientes<br>• Accesible públicamente por Internet|Aplicaciones web públicas<br>Desarrollo y pruebas<br>Cargas de trabajo variables<br>Startups y experimentación|
 |**Nube privada**|• Uso exclusivo de una organización<br>• Puede estar en instalaciones propias o del proveedor<br>• Mayor control y personalización|Datos sensibles o regulados<br>Aplicaciones críticas para el negocio<br>Organizaciones con altos requisitos de seguridad|
 |**Nube híbrida**|• Combinación de nubes públicas y privadas<br>• Interconexión con posibilidad de portabilidad<br>• Balance entre control y flexibilidad|Extensión de capacidad (cloud bursting)<br>Separación de datos sensibles<br>Migración gradual a la nube|
-|**Nube comunitaria**|• Compartida entre varias organizaciones<br>• Con intereses o requisitos comunes<br>• Costos distribuidos entre participantes|Instituciones educativas<br>Agencias gubernamentales<br>Consorcios industriales|
 |**Multi-nube**|• Uso de servicios de múltiples proveedores<br>• Sin necesidad de integración entre ellos<br>• Selección del mejor servicio de cada proveedor|Prevención de dependencia de proveedor<br>Requisitos específicos por servicio<br>Resiliencia mejorada|
 
 </div>
@@ -72,8 +69,6 @@ Según la definición del NIST (National Institute of Standards and Technology),
 |**Microsoft Azure**|Virtual Machines, App Service, SQL Database|Integración con ecosistema Microsoft<br>Soluciones híbridas avanzadas<br>Enfoque empresarial|
 |**Google Cloud Platform (GCP)**|Compute Engine, BigQuery, Kubernetes Engine|Fortaleza en análisis de datos y ML<br>Red global de alta velocidad<br>Innovación en contenedores|
 |**IBM Cloud**|Watson, Cloudant, Cloud Foundry|Soluciones empresariales<br>IA y computación cuántica<br>Servicios de consultoría|
-|**Alibaba Cloud**|Elastic Compute Service, Object Storage, MaxCompute|Fuerte presencia en Asia<br>Soluciones específicas para e-commerce<br>Crecimiento acelerado|
-|**Oracle Cloud**|Autonomous Database, OCI Compute, NetSuite|Optimizado para cargas Oracle<br>Bases de datos autónomas<br>Aplicaciones empresariales integradas|
 
 </div>
 
@@ -201,7 +196,6 @@ El modelo financiero de la nube requiere nuevos enfoques para gestionar y optimi
 |**Dimensionamiento adecuado**|Ajustar recursos al nivel realmente necesario|• Análisis de utilización<br>• Recomendaciones de tamaño<br>• Familia de instancias adecuada<br>• Ajuste de bases de datos|
 |**Elasticidad**|Escalar recursos según demanda actual|• Auto-scaling<br>• Apagado automático<br>• Programación por horarios<br>• Instancias efímeras|
 |**Selección de servicios**|Elegir los servicios más costo-efectivos|• Compromiso vs bajo demanda<br>• Servicios gestionados<br>• Tecnologías sin servidor<br>• Análisis de alternativas|
-|**Automatización**|Eliminar intervención manual costosa|• Infraestructura como código<br>• Políticas automáticas<br>• Optimización programática<br>• Gestión de excepciones|
 
 </div>
 
@@ -259,11 +253,7 @@ La computación en la nube continúa evolucionando rápidamente en varias direcc
 
 4. **Plataformas de bajo código/sin código**: Capacidades para desarrollar soluciones sin programación tradicional.
 
-5. **Automatización impulsada por IA**: Sistemas que se auto-optimizan, reparan y escalan con mínima intervención humana.
-
-6. **Multicloud avanzado**: Servicios y plataformas que facilitan la gestión coherente entre múltiples proveedores.
-
-7. **Computación cuántica en la nube**: Acceso a capacidades cuánticas como servicio para problemas específicos.
+5. **Multicloud avanzado**: Servicios y plataformas que facilitan la gestión coherente entre múltiples proveedores.
 
 ### Desafíos persistentes
 
@@ -279,15 +269,11 @@ A pesar de su madurez, la nube sigue presentando desafíos significativos:
 
 5. **Costos imprevistos**: Gastos no planificados debido a consumo no controlado o mal entendido.
 
-6. **Seguridad y privacidad**: Preocupaciones sobre control de datos y exposición a ataques.
-
 ## Enlaces y referencias
 
 - [NIST Cloud Computing Program](https://www.nist.gov/programs-projects/nist-cloud-computing-program-nccp)
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
-- [The Open Group Cloud Computing Work Group](https://www.opengroup.org/cloud)
 - [AWS Architecture Center](https://aws.amazon.com/architecture/)
 - [Microsoft Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 - [FinOps Foundation](https://www.finops.org/)
-- [Cloud Native Computing Foundation](https://www.cncf.io/)
