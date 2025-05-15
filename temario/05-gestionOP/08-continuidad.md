@@ -1,4 +1,4 @@
-# Continuidad y Recuperación
+# Continuidad y recuperación
 
 |Fundamentos|Infraestructura|Enfoques modernos|Gestión continua|
 |-|-|-|-|
@@ -6,18 +6,15 @@
 |[Marcos de trabajo operativos: ITIL](02-itil.md)|[Servidores y su administración](04-servidores.md)|[Automatización operativa](09-automatizacion.md)|[**Continuidad y recuperación**](08-continuidad.md)|
 ||[Computación en la nube](05-cloud.md)|[Observabilidad y monitorización](10-observabilidad.md)|[Gobierno de servicios](11-gobierno.md)|
 
-## Por qué
+## ¿Por qué?
 
-Las organizaciones dependen cada vez más de los sistemas de información para sus operaciones críticas. Las interrupciones en estos sistemas pueden tener consecuencias significativas:
+|Dependencia operativa de TI|Impacto económico de interrupciones|Requisitos regulatorios|Expectativas de continuidad|Cambios constantes en riesgos|
+|-|-|-|-|-|
+|Las organizaciones dependen cada vez más de los sistemas tecnológicos para sus operaciones críticas y procesos de negocio centrales.|Las interrupciones causan pérdidas financieras directas, penalizaciones contractuales y costos elevados de recuperación.|Muchos sectores están sujetos a normativas que exigen planes formales de continuidad y recuperación.|Clientes y usuarios esperan servicios disponibles de forma ininterrumpida, con mínimas o nulas interrupciones.|El panorama de amenazas y riesgos evoluciona constantemente, requiriendo adaptación continua.|
 
-- **Pérdidas financieras directas**: Ingresos perdidos, penalizaciones contractuales, costos de recuperación
-- **Daño reputacional**: Pérdida de confianza de clientes y socios
-- **Impacto operativo**: Incapacidad para realizar funciones comerciales esenciales
-- **Consecuencias regulatorias**: Incumplimiento de requisitos legales o de cumplimiento
+La continuidad del negocio y la recuperación ante desastres han pasado de ser consideradas un "seguro" opcional a convertirse en componentes críticos de la estrategia organizacional. En un mundo digital interconectado, donde las operaciones dependen fundamentalmente de la tecnología, las interrupciones pueden tener consecuencias devastadoras. Sin capacidades robustas para mantener o restaurar rápidamente los servicios esenciales, las organizaciones enfrentan no solo pérdidas financieras inmediatas, sino también daños reputacionales a largo plazo, incumplimientos regulatorios y potencial pérdida de ventaja competitiva.
 
-La gestión de continuidad del servicio y la recuperación ante desastres son elementos fundamentales para garantizar la resiliencia organizacional frente a interrupciones imprevistas.
-
-## Qué
+## ¿Qué?
 
 La continuidad y recuperación de servicios de TI abarca dos disciplinas complementarias:
 
@@ -42,18 +39,23 @@ La continuidad y recuperación de servicios de TI abarca dos disciplinas complem
 - **Plan de Continuidad del Negocio (BCP)**: Documenta procedimientos para mantener operaciones comerciales durante una interrupción
 - **Plan de Recuperación ante Desastres (DRP)**: Documenta procedimientos técnicos para recuperar sistemas después de una interrupción
 
-## Para qué
+## ¿Para qué?
 
 Una estrategia efectiva de continuidad y recuperación permite a las organizaciones:
 
-1. **Minimizar el impacto operativo** de las interrupciones en servicios críticos
-2. **Proteger los activos de información** y sistemas esenciales
-3. **Cumplir con requisitos regulatorios** relacionados con la disponibilidad y protección de datos
-4. **Mantener la confianza** de clientes y socios al demostrar resiliencia
-5. **Reducir el tiempo de inactividad** y los costos asociados con las interrupciones
-6. **Proporcionar un marco estructurado** para responder a incidentes que amenazan la operación
+1. **Minimizar el impacto operativo** de las interrupciones en servicios críticos, manteniendo funciones esenciales durante situaciones adversas.
 
-## Cómo
+2. **Proteger los activos de información** y sistemas esenciales, asegurando que los datos críticos permanezcan disponibles, íntegros y recuperables.
+
+3. **Cumplir con requisitos regulatorios** relacionados con la disponibilidad y protección de datos, evitando sanciones y penalizaciones.
+
+4. **Mantener la confianza** de clientes y socios al demostrar resiliencia y capacidad para enfrentar adversidades.
+
+5. **Reducir el tiempo de inactividad** y los costos asociados con las interrupciones, minimizando las pérdidas financieras directas.
+
+6. **Proporcionar un marco estructurado** para responder a incidentes que amenazan la operación, eliminando la improvisación en momentos críticos.
+
+## ¿Cómo?
 
 ### Ciclo de Vida de la Gestión de Continuidad
 
@@ -97,7 +99,6 @@ La implementación efectiva de la continuidad del servicio y recuperación ante 
 |**Sitio en espera templada**|Sistemas configurados pero no completamente actualizados|- Equilibrio entre costo y tiempo de recuperación<br>- Flexibilidad|- Retraso en actualización de datos<br>- Requiere tiempo para activación completa|
 |**Sitio en espera fría**|Espacio preparado pero sin equipos configurados|- Menor costo<br>- Adecuado para sistemas no críticos|- Recuperación lenta<br>- Mayor pérdida potencial de datos|
 |**Recuperación basada en la nube**|Uso de servicios cloud para crear entornos de recuperación|- Escalabilidad<br>- Pago por uso<br>- Ubicación geográfica flexible|- Dependencia de proveedores<br>- Consideraciones de seguridad y cumplimiento|
-|**Acuerdos recíprocos**|Acuerdo con otra organización para compartir recursos en caso de desastre|- Bajo costo inicial<br>- Relaciones de confianza|- Limitaciones de capacidad<br>- Posible conflicto de prioridades|
 
 ### Técnicas de Respaldo y Replicación
 

@@ -1,4 +1,4 @@
-# Gobierno de Servicios
+# Gobierno de servicios
 
 |Fundamentos|Infraestructura|Enfoques modernos|Gestión continua|
 |-|-|-|-|
@@ -6,19 +6,15 @@
 |[Marcos de trabajo operativos: ITIL](02-itil.md)|[Servidores y su administración](04-servidores.md)|[Automatización operativa](09-automatizacion.md)|[Continuidad y recuperación](08-continuidad.md)|
 ||[Computación en la nube](05-cloud.md)|[Observabilidad y monitorización](10-observabilidad.md)|[**Gobierno de servicios**](11-gobierno.md)|
 
-## Por qué
+## ¿Por qué?
 
-A medida que las organizaciones dependen cada vez más de los servicios tecnológicos para sus operaciones críticas, la necesidad de un gobierno efectivo de estos servicios se vuelve fundamental. Sin un gobierno adecuado:
+|Alineación estratégica|Optimización de recursos|Gestión de riesgos|Cumplimiento normativo|Cambio tecnológico acelerado|
+|-|-|-|-|-|
+|Los servicios tecnológicos pueden quedar desalineados con los objetivos estratégicos sin un marco de gobierno adecuado.|Sin gobierno efectivo, los recursos se asignan de manera ineficiente, reduciendo el valor generado y aumentando costos innecesarios.|Los riesgos relacionados con servicios tecnológicos requieren gestión sistemática para evitar impactos negativos en la organización.|El creciente entorno regulatorio exige cumplimiento demostrable en áreas como privacidad, seguridad y calidad de servicio.|El rápido ritmo de evolución tecnológica requiere un marco de gobierno que permita adaptación mientras mantiene control.|
 
-- **Los servicios pueden quedar desalineados** con los objetivos estratégicos
-- **Los recursos se asignan ineficientemente**, reduciendo el valor generado
-- **Las decisiones se toman de forma reactiva e inconsistente**
-- **Los riesgos no se gestionan sistemáticamente**, aumentando la vulnerabilidad
-- **El cumplimiento normativo se vuelve más difícil de mantener**
+A medida que las organizaciones dependen cada vez más de los servicios tecnológicos para sus operaciones críticas, la necesidad de un gobierno efectivo de estos servicios se vuelve fundamental. Sin un gobierno adecuado, las decisiones sobre servicios tecnológicos se toman de forma reactiva, inconsistente y desconectada de los objetivos organizacionales. Esto lleva a inversiones tecnológicas que no generan el valor esperado, riesgos no gestionados adecuadamente y potenciales incumplimientos regulatorios. El gobierno de servicios proporciona el marco que asegura que las decisiones tecnológicas estén alineadas con las necesidades de negocio, que los recursos se utilicen de manera óptima y que los riesgos se gestionen apropiadamente.
 
-El gobierno de servicios proporciona el marco para asegurar que las inversiones en servicios de TI generen valor para el negocio mientras se gestionan adecuadamente los riesgos asociados.
-
-## Qué
+## ¿Qué?
 
 El gobierno de servicios de TI es el sistema mediante el cual se dirigen y controlan los servicios tecnológicos, asegurando que estén alineados con las necesidades organizacionales y cumplan con requisitos externos e internos.
 
@@ -42,19 +38,25 @@ El gobierno efectivo de servicios de TI integra varios dominios:
 4. **Gobierno de Riesgos**: Gestión de amenazas y vulnerabilidades
 5. **Gobierno de Rendimiento**: Medición y mejora continua
 
-## Para qué
+## ¿Para qué?
 
 Un marco de gobierno de servicios efectivo proporciona múltiples beneficios:
 
-1. **Alineación estratégica**: Garantiza que los servicios apoyen los objetivos organizacionales
-2. **Entrega de valor**: Optimiza el retorno de la inversión en servicios
-3. **Gestión proactiva de riesgos**: Reduce la probabilidad e impacto de interrupciones
-4. **Cumplimiento**: Asegura la conformidad con requisitos regulatorios y contractuales
-5. **Toma de decisiones informada**: Proporciona visibilidad y datos para decisiones estratégicas
-6. **Mejora continua**: Establece mecanismos para evolución y adaptación sistemática
-7. **Coherencia operativa**: Establece estándares consistentes entre servicios
+1. **Alineación estratégica**: Garantiza que los servicios apoyen los objetivos organizacionales, asegurando que las inversiones tecnológicas contribuyan directamente a las metas de negocio.
 
-## Cómo
+2. **Entrega de valor**: Optimiza el retorno de la inversión en servicios, maximizando beneficios y minimizando costos a través de decisiones fundamentadas y procesos eficientes.
+
+3. **Gestión proactiva de riesgos**: Reduce la probabilidad e impacto de interrupciones mediante la identificación y mitigación sistemática de riesgos operativos y estratégicos.
+
+4. **Cumplimiento**: Asegura la conformidad con requisitos regulatorios y contractuales, evitando sanciones, multas y daños reputacionales.
+
+5. **Toma de decisiones informada**: Proporciona visibilidad y datos para decisiones estratégicas, permitiendo elegir opciones con mayor probabilidad de éxito.
+
+6. **Mejora continua**: Establece mecanismos para evolución y adaptación sistemática, manteniendo la relevancia y efectividad de los servicios en un entorno cambiante.
+
+7. **Coherencia operativa**: Establece estándares consistentes entre servicios, facilitando la integración y la experiencia de usuario homogénea.
+
+## ¿Cómo?
 
 ### Implementación de un Marco de Gobierno
 
@@ -101,16 +103,6 @@ La implementación de un gobierno efectivo de servicios sigue estos pasos:
 |**ISO/IEC 38500**|Principios para gobierno corporativo de TI|- Responsabilidad<br>- Estrategia<br>- Adquisición<br>- Desempeño<br>- Conformidad<br>- Comportamiento humano|Marco de principios de alto nivel adaptable a cualquier organización|
 |**ITIL 4**|Gobierno dentro del SVS|- Gobernanza<br>- Gestión<br>- Mejora continua<br>- Cadena de valor|Organizaciones centradas en servicios con adopción existente de ITIL|
 |**DevOps Governance**|Gobierno ágil adaptado a DevOps|- Desarrollo<br>- Operaciones<br>- Seguridad<br>- Calidad|Equipos que aplican metodologías ágiles y DevOps|
-
-### Herramientas y Tecnologías
-
-|Categoría|Propósito|Ejemplos|
-|-|-|-|
-|**GRC (Governance, Risk, and Compliance)**|Gestión integral de gobierno, riesgos y cumplimiento|- ServiceNow GRC<br>- MetricStream<br>- RSA Archer|
-|**Catálogo de servicios**|Centralización de información sobre servicios disponibles|- ServiceNow Service Catalog<br>- Cherwell Service Catalog<br>- BMC Helix Service Catalog|
-|**Gestión de portafolio**|Administración estratégica de inversiones en servicios|- Planview<br>- Clarity PPM<br>- ServiceNow APM|
-|**Gestión documental**|Administración de políticas y procedimientos|- SharePoint<br>- Confluence<br>- DocuWare|
-|**Cuadros de mando**|Visualización de indicadores de gobierno|- Power BI<br>- Tableau<br>- Grafana|
 
 ### Prácticas para un Gobierno Efectivo
 
