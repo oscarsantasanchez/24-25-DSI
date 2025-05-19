@@ -95,19 +95,6 @@ Cada parte construye sobre la anterior y todas están interconectadas: no se pue
 
 </div>
 
-## Gestión de servicios
-
-- [ ] X-sourcing: Rightsourcing, outsourcing, insourcing, multisourcing
-- [ ] Offshoring: implementación y localización
-- [ ] Definición de SLA en procesos de externalización
-- [ ] Seguridad de información en los negocios
-- [ ] Seguridad y privacidad
-
 ## [Y además...](/documentos/temasPropuestosCompleto.md)
 
 - [x] [Gobernanza y regulación](gobernanza.md)
-- Modernización y deuda
-- Cultura y talento
-- Sostenibilidad
-- Plataformas y ecosistemas
-
