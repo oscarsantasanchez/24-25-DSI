@@ -2,7 +2,7 @@
 
 ## 1. 🧭 Resumen Ejecutivo
 
-Este informe analiza el sistema actual de control de asistencia basado en esta [hoja de cálculo](https://docs.google.com/spreadsheets/d/1OeL1xvfuA157cCbNjkbMuJjVXL_BymwgOi7VCyGmXmE/edit?usp=sharing) para una asignatura universitaria. Se evalúan sus fortalezas, debilidades y se proponen mejoras tecnológicas e innovaciones orientadas a optimizar la gestión de datos, automatizar procesos y mitigar la inasistencia estudiantil, especialmente en días con baja participación.
+Este informe analiza el sistema actual de control de asistencia basado en una hoja de cálculo para una asignatura universitaria. Se evalúan sus fortalezas, debilidades y se proponen mejoras tecnológicas e innovaciones orientadas a optimizar la gestión de datos, automatizar procesos y mitigar la inasistencia estudiantil, especialmente en días con baja participación.
 
 ---
 
