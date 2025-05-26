@@ -1,5 +1,7 @@
 # 📄 Informe de Análisis del Sistema de Control de Asistencia
 
+# Hoja 1: `Asistencia`
+
 ## 1. 🧭 Resumen Ejecutivo
 
 Este informe analiza el sistema actual de control de asistencia basado en una hoja de cálculo para una asignatura universitaria. Se evalúan sus fortalezas, debilidades y se proponen mejoras tecnológicas e innovaciones orientadas a optimizar la gestión de datos, automatizar procesos y mitigar la inasistencia estudiantil, especialmente en días con baja participación.
@@ -78,8 +80,94 @@ Se han calculado métricas clave basadas en la hoja de cálculo actual:
 - **Grado con menor asistencia**: GADE (promedio 69%)
 - **Tiempo medio en pasar lista**: 4 minutos y 27 segundos
 
-
 Estas cifras refuerzan la necesidad de automatizar el proceso, implementar medidas de motivación en días críticos, e identificar a tiempo a los alumnos en riesgo de absentismo.
+
+
+---
+
+# 🗂️ Hoja 2: `EC Individual`
+
+### 🎯 Objetivo
+Realizar el seguimiento del rendimiento individual del alumnado a través de las Evaluaciones Continuas (EC), proporcionando estadísticas agregadas por evaluación y promedio por estudiante.
+
+### 🧱 Estructura
+- **Cabecera**:
+  - Estadísticas por cada EC:
+    - Media de calificaciones.
+    - Número de aprobados y suspensos.
+  - Número de EC realizadas (de 0 a 5).
+  - Enunciado correspondiente a cada EC.
+
+- **Cuerpo principal**:
+  - Columna A: Número de clase del alumno.
+  - Columnas siguientes: Notas individuales por EC.
+  - Última columna: Promedio de notas por alumno.
+
+### ✅ Fortalezas
+- Visualización clara y ordenada de los resultados individuales.
+- Estadísticas agregadas permiten evaluación general de cada EC.
+- Identificación de alumnos con bajo rendimiento de forma inmediata.
+- Eficiente para revisión periódica del progreso.
+
+### ⚠️ Áreas de Mejora
+- No se representa la evolución del alumno a lo largo del tiempo de forma gráfica.
+- La introducción manual de datos puede conllevar errores.
+
+### 💡 Propuestas
+- Incluir gráficos dinámicos para visualizar la evolución de rendimiento por alumno y por EC.
+- Añadir una columna que calcule la desviación estándar por alumno para observar la consistencia de su rendimiento.
+- Automatización parcial con validación de datos para evitar errores de entrada.
+
+---
+
+# 🗂️ Hoja 3: `Grupos`
+
+### 🎯 Objetivo
+Gestión y validación de la correcta conformación de grupos de trabajo, considerando diversidad de grados, género y nacionalidad.
+
+### 🧱 Estructura
+- **Cabecera**:
+  - Estadísticas generales:
+    - Distribución por grado:
+      - IOI: 14 alumnos
+      - II: 36 alumnos
+      - ADE: 25 alumnos
+      - PI: 5 alumnos
+    - Nacionalidad:
+      - Españoles (ES): 50
+      - Extranjeros (EX): 30
+    - Género:
+      - Hombres (H): 54
+      - Mujeres (M): 26
+
+- **Cuerpo**:
+  - Nueve bloques (uno por cada grupo).
+  - Cada bloque incluye:
+    - Lista de integrantes con número, nombre y apellidos.
+    - Estadísticas del grupo:
+      - Nº de miembros
+      - % ES/EX
+      - Nº de integrantes por grado
+      - % H/M
+      - Validación de cumplimiento con las normas de conformación:
+        - IOI (1–2)
+        - II (3–5)
+        - ADE (2–3)
+        - PI (0–1)
+
+### ✅ Fortalezas
+- Validación automática de reglas para garantizar diversidad y equidad.
+- Proporciona visión global y detallada de la composición de los grupos.
+- Facilita la toma de decisiones sobre ajustes necesarios.
+
+### ⚠️ Áreas de Mejora
+- No hay representación visual del grado de cumplimiento por grupo.
+- No permite análisis cruzado o comparativo entre grupos fácilmente.
+
+### 💡 Propuestas
+- Añadir un sistema de semáforo visual (rojo/verde) para cumplimiento de normas.
+- Incluir un gráfico de barras o radar para comparar características de los grupos.
+- Automatizar verificación de reglas mediante fórmulas condicionales o scripts de validación.
 
 ---
 
