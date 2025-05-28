@@ -46,3 +46,9 @@ Realizar el seguimiento del rendimiento individual del alumnado a través de las
 - **% Suspensos EV1:** 5,95 %
 - **% Aprobados EV2:** 79,76 %
 - **% Suspensos EV2:** 17,86%
+
+<div align=center>
+
+![Promedio Notas](/Informe%20Análisis/promedioNotas.png)
+
+</div>

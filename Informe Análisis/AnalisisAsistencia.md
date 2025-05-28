@@ -79,3 +79,9 @@ Se han calculado métricas clave basadas en la hoja de cálculo actual:
 - **Tiempo medio en pasar lista**: 4 minutos y 27 segundos
 
 Estas cifras refuerzan la necesidad de automatizar el proceso, implementar medidas de motivación en días críticos, e identificar a tiempo a los alumnos en riesgo de absentismo.
+
+<div align=center>
+
+![Gráfico](/Informe%20Análisis/promedioAsistenciaGeneral.png)
+
+</div>
